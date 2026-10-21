@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# --- Local model cache (auto-downloaded on first run, ~90MB) ---
+backend/.cache/
+.cache/
+
+# --- Node ---
+node_modules/
+dist/
+.vite/
+.verify-out.cjs
+.verify-out.mjs
+npm-debug.log*
+yarn-error.log*
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.local
+
+# --- Env ---
+.env
+.env.local

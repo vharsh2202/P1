@@ -1,0 +1,141 @@
+customer_id,customer_name,segment,region,country,city,signup_date,loyalty_tier
+CUST-0001,Mateo Kowalski,Consumer,EMEA,United Kingdom,London,2023-07-13,Bronze
+CUST-0002,Elena Nakamura,Enterprise,EMEA,Ireland,Dublin,2023-11-02,Gold
+CUST-0003,Zara Bianchi,Consumer,North America,Canada,Toronto,2022-02-05,Gold
+CUST-0004,Ava Kaur,Consumer,EMEA,Netherlands,Amsterdam,2021-08-29,Bronze
+CUST-0005,Hugo Kaur,SMB,APAC,Australia,Sydney,2022-12-23,Silver
+CUST-0006,Ingrid Nielsen,SMB,North America,United States,New York,2023-03-07,Silver
+CUST-0007,Chloe Okonkwo,Enterprise,APAC,South Korea,Seoul,2022-05-16,Platinum
+CUST-0008,Rafael Costa,Consumer,APAC,South Korea,Seoul,2023-05-20,Bronze
+CUST-0009,Mason Kowalski,Consumer,North America,United States,Chicago,2023-08-21,Silver
+CUST-0010,Amelia Silva,Consumer,North America,Canada,Vancouver,2022-12-04,Bronze
+CUST-0011,Olivia Nielsen,Consumer,EMEA,Spain,Madrid,2022-02-20,Bronze
+CUST-0012,Chloe Haddad,SMB,EMEA,Germany,Berlin,2022-02-15,Platinum
+CUST-0013,Emma Kowalski,Consumer,North America,United States,Austin,2021-08-13,Bronze
+CUST-0014,Hugo Costa,SMB,APAC,India,Mumbai,2021-11-27,Gold
+CUST-0015,Freya Novak,SMB,North America,United States,San Francisco,2023-03-06,Silver
+CUST-0016,Elena Costa,Consumer,North America,Canada,Toronto,2022-10-20,Silver
+CUST-0017,Mason Kaur,Consumer,North America,United States,Chicago,2023-10-15,Bronze
+CUST-0018,Elena Nielsen,Consumer,North America,United States,Chicago,2023-09-28,Silver
+CUST-0019,Ava Johansson,Consumer,North America,United States,San Francisco,2021-11-24,Bronze
+CUST-0020,Diego Fernandez,Consumer,APAC,South Korea,Seoul,2023-02-05,Silver
+CUST-0021,Priya Tanaka,Consumer,North America,United States,New York,2021-10-13,Bronze
+CUST-0022,Oscar Schmidt,Consumer,EMEA,United Kingdom,London,2022-02-16,Gold
+CUST-0023,Amelia Weber,SMB,EMEA,Germany,Berlin,2021-09-26,Platinum
+CUST-0024,Ethan Silva,SMB,LATAM,Argentina,Buenos Aires,2021-08-03,Gold
+CUST-0025,Mason Okonkwo,Consumer,North America,United States,Chicago,2021-11-13,Silver
+CUST-0026,Mia Johansson,Consumer,APAC,South Korea,Seoul,2022-08-03,Gold
+CUST-0027,Elena Rossi,Consumer,North America,Canada,Toronto,2022-05-29,Bronze
+CUST-0028,Rafael Ahmed,Consumer,APAC,India,Mumbai,2022-06-21,Silver
+CUST-0029,Liam Costa,Enterprise,North America,United States,Chicago,2022-05-14,Gold
+CUST-0030,Olivia Nakamura,Enterprise,EMEA,United Kingdom,London,2022-12-29,Gold
+CUST-0031,Hugo Weber,Consumer,EMEA,France,Paris,2023-07-20,Gold
+CUST-0032,Yuki Rossi,Consumer,EMEA,Germany,Berlin,2023-08-28,Bronze
+CUST-0033,Freya Ferreira,SMB,EMEA,France,Paris,2023-10-08,Silver
+CUST-0034,Isabella Kowalski,SMB,North America,Canada,Vancouver,2023-05-20,Silver
+CUST-0035,Kenji Ahmed,SMB,EMEA,Germany,Berlin,2023-03-22,Silver
+CUST-0036,Ava Okonkwo,Enterprise,EMEA,Ireland,Dublin,2021-10-22,Gold
+CUST-0037,Omar Nakamura,SMB,North America,United States,San Francisco,2023-06-17,Bronze
+CUST-0038,Freya Lindqvist,SMB,North America,United States,San Francisco,2022-09-25,Platinum
+CUST-0039,Nadia Rossi,SMB,EMEA,Netherlands,Amsterdam,2023-10-04,Platinum
+CUST-0040,Emma Nakamura,Consumer,APAC,Singapore,Singapore,2022-04-13,Silver
+CUST-0041,Mason Andersen,SMB,EMEA,Ireland,Dublin,2023-09-23,Platinum
+CUST-0042,Mateo Costa,SMB,North America,United States,Chicago,2022-04-03,Silver
+CUST-0043,Fatima Haddad,Consumer,EMEA,Netherlands,Amsterdam,2023-05-07,Silver
+CUST-0044,Oscar Ahmed,Enterprise,North America,United States,San Francisco,2023-01-13,Gold
+CUST-0045,Isabella Okonkwo,Consumer,North America,Canada,Toronto,2022-05-31,Bronze
+CUST-0046,Olivia Kowalski,Consumer,EMEA,Germany,Berlin,2022-11-19,Silver
+CUST-0047,Oscar Johansson,Consumer,North America,Canada,Toronto,2023-08-18,Bronze
+CUST-0048,Lucas Haddad,Consumer,North America,United States,New York,2023-02-17,Gold
+CUST-0049,Anika Haddad,SMB,North America,United States,Austin,2021-07-19,Silver
+CUST-0050,Noah Sharma,Consumer,North America,United States,San Francisco,2022-12-26,Bronze
+CUST-0051,Tariq Weber,SMB,EMEA,France,Paris,2021-12-10,Bronze
+CUST-0052,Lucas Weber,Enterprise,EMEA,United Kingdom,London,2023-10-27,Platinum
+CUST-0053,Noah Lindqvist,SMB,EMEA,Germany,Berlin,2022-11-24,Silver
+CUST-0054,Isabella Silva,Consumer,APAC,Japan,Tokyo,2021-09-25,Gold
+CUST-0055,Lucas Kowalski,Consumer,APAC,India,Mumbai,2023-06-19,Bronze
+CUST-0056,Diego Vargas,SMB,APAC,Singapore,Singapore,2022-10-07,Silver
+CUST-0057,Noah Okafor,Enterprise,North America,Canada,Vancouver,2023-04-19,Gold
+CUST-0058,Leila Kowalski,SMB,APAC,India,Mumbai,2023-11-08,Silver
+CUST-0059,Kenji Silva,Consumer,North America,United States,Austin,2022-02-14,Gold
+CUST-0060,Liam Fernandez,SMB,North America,Canada,Toronto,2023-03-10,Silver
+CUST-0061,Elena Silva,Enterprise,EMEA,France,Paris,2021-11-16,Platinum
+CUST-0062,Zara Haddad,Enterprise,EMEA,Ireland,Dublin,2023-10-18,Platinum
+CUST-0063,Zara Silva,Consumer,North America,Canada,Toronto,2022-09-17,Bronze
+CUST-0064,Ethan Ferreira,Consumer,LATAM,Argentina,Buenos Aires,2023-01-29,Gold
+CUST-0065,Nadia Weber,SMB,North America,United States,San Francisco,2023-07-25,Silver
+CUST-0066,Arjun Nielsen,Consumer,EMEA,Netherlands,Amsterdam,2022-04-29,Silver
+CUST-0067,Hugo Dubois,SMB,EMEA,United Kingdom,London,2021-09-19,Platinum
+CUST-0068,Tariq Johansson,SMB,EMEA,France,Paris,2023-04-28,Platinum
+CUST-0069,Mason Lindqvist,SMB,EMEA,Spain,Madrid,2022-06-23,Platinum
+CUST-0070,Leila Vargas,Consumer,North America,United States,Chicago,2023-05-13,Bronze
+CUST-0071,Olivia Ahmed,Consumer,North America,United States,Chicago,2022-10-04,Gold
+CUST-0072,Omar Kowalski,SMB,North America,Canada,Vancouver,2023-07-04,Silver
+CUST-0073,Leila Andersen,Consumer,APAC,Singapore,Singapore,2021-08-31,Gold
+CUST-0074,Ethan Ahmed,SMB,EMEA,Ireland,Dublin,2023-07-19,Bronze
+CUST-0075,Tariq Nielsen,Consumer,EMEA,Ireland,Dublin,2021-08-20,Gold
+CUST-0076,Amelia Ferreira,SMB,EMEA,Ireland,Dublin,2022-08-03,Bronze
+CUST-0077,Kenji Kaur,Consumer,North America,United States,Chicago,2021-09-27,Gold
+CUST-0078,Olivia Bianchi,SMB,EMEA,Germany,Berlin,2023-02-13,Silver
+CUST-0079,Mason Novak,Consumer,North America,United States,Austin,2023-07-01,Bronze
+CUST-0080,Olivia Dubois,Consumer,North America,United States,Chicago,2022-10-11,Silver
+CUST-0081,Yuki Petrov,Enterprise,EMEA,Netherlands,Amsterdam,2021-10-05,Bronze
+CUST-0082,Chloe Okafor,Consumer,LATAM,Brazil,Sao Paulo,2023-11-26,Silver
+CUST-0083,Yuki Weber,Consumer,North America,United States,San Francisco,2021-10-28,Gold
+CUST-0084,Kenji Dubois,SMB,APAC,Japan,Tokyo,2022-07-23,Silver
+CUST-0085,Omar Ferreira,Consumer,North America,Canada,Vancouver,2023-06-16,Silver
+CUST-0086,Liam Okonkwo,Consumer,LATAM,Brazil,Sao Paulo,2022-02-12,Silver
+CUST-0087,Priya Petrov,SMB,North America,United States,San Francisco,2023-01-01,Silver
+CUST-0088,Yuki Haddad,Consumer,EMEA,France,Paris,2021-07-31,Bronze
+CUST-0089,Ingrid Kowalski,Consumer,EMEA,Spain,Madrid,2022-02-05,Bronze
+CUST-0090,Mateo Rossi,Consumer,APAC,Singapore,Singapore,2021-07-26,Bronze
+CUST-0091,Ethan Costa,Enterprise,EMEA,Germany,Berlin,2023-04-23,Platinum
+CUST-0092,Ethan Kaur,SMB,APAC,Australia,Sydney,2021-08-16,Silver
+CUST-0093,Oscar Costa,Consumer,LATAM,Brazil,Sao Paulo,2022-01-08,Silver
+CUST-0094,Mateo Fernandez,SMB,North America,Canada,Vancouver,2021-12-19,Gold
+CUST-0095,Noah Silva,Consumer,APAC,South Korea,Seoul,2022-06-05,Silver
+CUST-0096,Diego Sharma,Consumer,EMEA,United Kingdom,London,2021-07-16,Silver
+CUST-0097,Rafael Rahman,SMB,APAC,Singapore,Singapore,2021-08-06,Bronze
+CUST-0098,Kenji Nielsen,SMB,APAC,India,Mumbai,2021-08-27,Platinum
+CUST-0099,Kenji Moreau,SMB,APAC,India,Mumbai,2023-03-26,Silver
+CUST-0100,Freya Costa,SMB,North America,United States,San Francisco,2022-03-18,Bronze
+CUST-0101,Arjun Okafor,Consumer,North America,United States,San Francisco,2023-04-29,Silver
+CUST-0102,Kenji Weber,SMB,APAC,Australia,Sydney,2023-11-22,Platinum
+CUST-0103,Yuki Okafor,SMB,LATAM,Brazil,Sao Paulo,2022-05-13,Silver
+CUST-0104,Nadia Kowalski,SMB,APAC,India,Mumbai,2022-10-14,Silver
+CUST-0105,Ingrid Dubois,SMB,North America,Canada,Toronto,2021-10-30,Platinum
+CUST-0106,Oscar Haddad,SMB,North America,Canada,Vancouver,2023-04-10,Silver
+CUST-0107,Arjun Rossi,Enterprise,APAC,Australia,Sydney,2023-04-25,Platinum
+CUST-0108,Nadia Fernandez,Consumer,North America,Canada,Toronto,2021-08-02,Bronze
+CUST-0109,Ava Bianchi,SMB,North America,United States,Austin,2022-06-04,Silver
+CUST-0110,Mia Rahman,Consumer,North America,United States,New York,2021-10-23,Silver
+CUST-0111,Diego Okafor,Consumer,North America,United States,New York,2022-09-07,Silver
+CUST-0112,Olivia Petrov,SMB,North America,United States,New York,2022-07-17,Silver
+CUST-0113,Lucas Vargas,Enterprise,EMEA,Spain,Madrid,2022-05-05,Platinum
+CUST-0114,Yuki Nielsen,Enterprise,North America,United States,Chicago,2022-04-01,Bronze
+CUST-0115,Tariq Lindqvist,SMB,North America,Canada,Toronto,2022-04-09,Bronze
+CUST-0116,Isabella Kaur,Enterprise,North America,Canada,Toronto,2023-05-04,Gold
+CUST-0117,Arjun Weber,SMB,North America,United States,New York,2023-09-17,Silver
+CUST-0118,Diego Lindqvist,Consumer,North America,United States,San Francisco,2023-10-30,Bronze
+CUST-0119,Freya Okonkwo,Consumer,North America,United States,Austin,2021-12-29,Bronze
+CUST-0120,Leila Rahman,SMB,LATAM,Mexico,Mexico City,2023-07-03,Gold
+CUST-0121,Oscar Nielsen,Enterprise,APAC,Singapore,Singapore,2021-10-27,Bronze
+CUST-0122,Oscar Bianchi,Enterprise,LATAM,Colombia,Bogota,2022-10-16,Platinum
+CUST-0123,Noah Dubois,SMB,EMEA,Netherlands,Amsterdam,2021-11-10,Gold
+CUST-0124,Liam Kaur,Enterprise,EMEA,United Kingdom,London,2022-01-13,Platinum
+CUST-0125,Tariq Haddad,SMB,EMEA,Germany,Berlin,2023-05-31,Platinum
+CUST-0126,Diego Silva,Consumer,EMEA,Netherlands,Amsterdam,2022-10-10,Silver
+CUST-0127,Diego Dubois,Consumer,North America,United States,New York,2021-12-22,Silver
+CUST-0128,Noah Ahmed,Consumer,North America,United States,San Francisco,2023-09-03,Silver
+CUST-0129,Omar Tanaka,Consumer,North America,United States,New York,2021-08-10,Bronze
+CUST-0130,Emma Rossi,SMB,EMEA,Ireland,Dublin,2022-06-20,Gold
+CUST-0131,Mia Lindqvist,Consumer,EMEA,Netherlands,Amsterdam,2022-09-10,Silver
+CUST-0132,Mateo Bianchi,Consumer,North America,Canada,Vancouver,2023-06-23,Silver
+CUST-0133,Leila Schmidt,SMB,EMEA,Ireland,Dublin,2023-08-08,Bronze
+CUST-0134,Nadia Tanaka,SMB,LATAM,Mexico,Mexico City,2021-12-10,Gold
+CUST-0135,Mateo Ahmed,Consumer,EMEA,Netherlands,Amsterdam,2022-05-17,Bronze
+CUST-0136,Mia Okonkwo,Consumer,North America,Canada,Toronto,2023-02-23,Silver
+CUST-0137,Ava Lindqvist,SMB,North America,Canada,Toronto,2021-11-19,Gold
+CUST-0138,Anika Novak,Consumer,APAC,South Korea,Seoul,2022-09-01,Gold
+CUST-0139,Chloe Ahmed,Consumer,EMEA,France,Paris,2023-01-07,Bronze
+CUST-0140,Leila Kaur,Consumer,LATAM,Mexico,Mexico City,2022-10-08,Bronze

@@ -1,0 +1,1501 @@
+order_id,order_date,customer_id,region,city,channel,category,product,units,unit_price,discount,revenue,cost,profit,is_returned
+ORD-10915,2024-01-01,CUST-0031,EMEA,Paris,Web,Office Supplies,Notebook A5,1,19.6,0.059,18.44,5.88,12.56,false
+ORD-11447,2024-01-02,CUST-0132,North America,Vancouver,Retail Store,Apparel,Running Shoes,1,124.62,0.167,103.81,54.83,48.98,false
+ORD-10295,2024-01-06,CUST-0040,APAC,Singapore,Mobile App,Electronics,Mechanical Keyboard,3,148.4,0.101,400.23,213.7,186.53,false
+ORD-11003,2024-01-06,CUST-0049,North America,Austin,Mobile App,Furniture,Ergonomic Chair,1,586.05,0.071,544.44,339.91,204.53,false
+ORD-10133,2024-01-07,CUST-0060,North America,Toronto,Web,Electronics,Wireless Earbuds,1,160.77,0.096,145.34,83.6,61.74,false
+ORD-10431,2024-01-07,CUST-0086,LATAM,Sao Paulo,Mobile App,Apparel,Denim Jacket,1,110.99,0.04,106.55,45.51,61.04,false
+ORD-10673,2024-01-07,CUST-0019,North America,San Francisco,Web,Apparel,Running Shoes,1,148.65,0.137,128.28,65.41,62.87,false
+ORD-10010,2024-01-09,CUST-0013,North America,Austin,Retail Store,Home & Kitchen,Chef Knife,5,143.54,0.046,684.69,301.43,383.26,false
+ORD-10669,2024-01-09,CUST-0038,North America,San Francisco,Retail Store,Electronics,4K Monitor 27,4,431.84,0.039,1659.99,1226.43,433.56,false
+ORD-11081,2024-01-10,CUST-0029,North America,Chicago,Marketplace,Office Supplies,Gel Pen Pack,2,12.85,0.231,19.76,6.68,13.08,false
+ORD-10768,2024-01-11,CUST-0057,North America,Vancouver,Partner Reseller,Apparel,Cotton Hoodie,1,86.78,0.09,78.97,32.98,45.99,false
+ORD-11119,2024-01-12,CUST-0124,EMEA,London,Retail Store,Office Supplies,Notebook A5,8,19.03,0.199,121.94,45.67,76.27,false
+ORD-10604,2024-01-14,CUST-0123,EMEA,Amsterdam,Marketplace,Apparel,Running Shoes,3,152.59,0.141,393.22,201.42,191.8,false
+ORD-10999,2024-01-14,CUST-0032,EMEA,Berlin,Partner Reseller,Electronics,4K Monitor 27,1,432.11,0.072,401.0,306.8,94.2,false
+ORD-11250,2024-01-14,CUST-0012,EMEA,Berlin,Retail Store,Office Supplies,Sticky Notes Set,3,9.86,0.041,28.37,7.1,21.27,false
+ORD-10368,2024-01-16,CUST-0088,EMEA,Paris,Mobile App,Apparel,Denim Jacket,1,129.6,0.004,129.08,53.14,75.94,false
+ORD-10836,2024-01-16,CUST-0080,North America,Chicago,Marketplace,Office Supplies,Sticky Notes Set,1,8.17,0.143,7.0,1.96,5.04,false
+ORD-10130,2024-01-17,CUST-0107,APAC,Sydney,Web,Apparel,Cotton Hoodie,2,75.34,0.083,138.17,57.26,80.91,false
+ORD-10484,2024-01-17,CUST-0015,North America,San Francisco,Mobile App,Apparel,Denim Jacket,1,128.06,0.063,119.99,52.5,67.49,false
+ORD-10404,2024-01-19,CUST-0091,EMEA,Berlin,Partner Reseller,Apparel,Cotton Hoodie,8,76.06,0.058,573.19,231.22,341.97,false
+ORD-10060,2024-01-20,CUST-0039,EMEA,Amsterdam,Mobile App,Office Supplies,Sticky Notes Set,1,8.7,0.036,-8.39,-2.09,-6.3,true
+ORD-10367,2024-01-20,CUST-0137,North America,Toronto,Web,Electronics,Mechanical Keyboard,1,140.6,0.001,140.46,67.49,72.97,false
+ORD-10239,2024-01-21,CUST-0078,EMEA,Berlin,Retail Store,Apparel,Wool Scarf,2,57.42,0.046,109.56,40.19,69.37,false
+ORD-10798,2024-01-23,CUST-0071,North America,Chicago,Web,Office Supplies,Notebook A5,2,21.25,0.104,38.08,12.75,25.33,false
+ORD-10411,2024-01-27,CUST-0123,EMEA,Amsterdam,Mobile App,Electronics,Mechanical Keyboard,2,129.99,0.046,248.02,124.79,123.23,false
+ORD-10666,2024-01-27,CUST-0085,North America,Vancouver,Web,Office Supplies,Notebook A5,3,20.1,0.126,52.7,18.09,34.61,false
+ORD-11139,2024-01-27,CUST-0047,North America,Toronto,Web,Electronics,Mechanical Keyboard,5,155.76,0.109,693.91,373.82,320.09,false
+ORD-10606,2024-01-28,CUST-0038,North America,San Francisco,Marketplace,Office Supplies,Gel Pen Pack,3,11.25,0.14,29.02,8.78,20.24,false
+ORD-10341,2024-01-29,CUST-0067,EMEA,London,Partner Reseller,Electronics,Smartphone X,2,948.03,0.091,1723.52,1403.08,320.44,false
+ORD-10933,2024-01-31,CUST-0108,North America,Toronto,Marketplace,Furniture,Standing Desk,1,729.84,0.227,564.17,459.8,104.37,false
+ORD-10946,2024-02-02,CUST-0090,APAC,Singapore,Marketplace,Home & Kitchen,Ceramic Cookware Set,1,314.84,0.133,272.97,176.31,96.66,false
+ORD-10072,2024-02-03,CUST-0116,North America,Toronto,Marketplace,Home & Kitchen,Air Purifier,2,404.11,0.16,678.9,493.01,185.89,false
+ORD-10221,2024-02-03,CUST-0082,LATAM,Sao Paulo,Web,Home & Kitchen,Ceramic Cookware Set,2,323.92,0.021,634.24,362.79,271.45,false
+ORD-10501,2024-02-04,CUST-0101,North America,San Francisco,Retail Store,Office Supplies,Sticky Notes Set,1,8.57,0.112,-7.61,-2.06,-5.55,true
+ORD-11392,2024-02-05,CUST-0108,North America,Toronto,Web,Electronics,Mechanical Keyboard,1,126.84,0.034,122.53,60.88,61.65,false
+ORD-11239,2024-02-06,CUST-0126,EMEA,Amsterdam,Mobile App,Electronics,Smartphone X,1,1148.42,0.02,1125.45,849.83,275.62,false
+ORD-10314,2024-02-07,CUST-0140,LATAM,Mexico City,Marketplace,Home & Kitchen,Chef Knife,1,128.71,0.258,95.5,54.06,41.44,false
+ORD-10263,2024-02-08,CUST-0066,EMEA,Amsterdam,Mobile App,Office Supplies,Desk Organizer,1,31.02,0.1,-27.92,-11.17,-16.75,true
+ORD-11110,2024-02-09,CUST-0054,APAC,Tokyo,Web,Office Supplies,Desk Organizer,1,31.53,0.026,30.71,11.35,19.36,false
+ORD-11067,2024-02-10,CUST-0131,EMEA,Amsterdam,Marketplace,Office Supplies,Gel Pen Pack,1,13.61,0.232,10.45,3.54,6.91,false
+ORD-10589,2024-02-11,CUST-0125,EMEA,Berlin,Marketplace,Apparel,Cotton Hoodie,1,77.81,0.121,68.39,29.57,38.82,false
+ORD-10634,2024-02-11,CUST-0031,EMEA,Paris,Web,Apparel,Wool Scarf,2,54.75,0.021,107.2,38.32,68.88,false
+ORD-11432,2024-02-11,CUST-0078,EMEA,Berlin,Mobile App,Home & Kitchen,Coffee Grinder,1,139.79,0.036,134.76,68.5,66.26,false
+ORD-10585,2024-02-12,CUST-0067,EMEA,London,Web,Electronics,4K Monitor 27,1,389.06,0.107,347.43,276.23,71.2,false
+ORD-10795,2024-02-12,CUST-0049,North America,Austin,Web,Furniture,Standing Desk,6,744.93,0.045,4268.45,2815.84,1452.61,false
+ORD-11166,2024-02-12,CUST-0123,EMEA,Amsterdam,Marketplace,Office Supplies,Sticky Notes Set,4,8.19,0.184,26.73,7.86,18.87,false
+ORD-11414,2024-02-13,CUST-0059,North America,Austin,Mobile App,Office Supplies,Gel Pen Pack,1,11.25,0.104,10.08,2.93,7.15,false
+ORD-11493,2024-02-13,CUST-0079,North America,Austin,Marketplace,Apparel,Cotton Hoodie,1,92.24,0.106,82.46,35.05,47.41,false
+ORD-10054,2024-02-14,CUST-0061,EMEA,Paris,Marketplace,Home & Kitchen,Chef Knife,3,122.58,0.128,320.67,154.45,166.22,false
+ORD-10940,2024-02-14,CUST-0063,North America,Toronto,Mobile App,Home & Kitchen,Coffee Grinder,2,160.47,0.009,318.05,157.26,160.79,false
+ORD-11181,2024-02-14,CUST-0040,APAC,Singapore,Partner Reseller,Apparel,Wool Scarf,1,46.07,0.134,39.9,16.12,23.78,false
+ORD-10957,2024-02-15,CUST-0039,EMEA,Amsterdam,Mobile App,Home & Kitchen,Coffee Grinder,3,153.95,0.094,418.44,226.31,192.13,false
+ORD-10091,2024-02-16,CUST-0086,LATAM,Sao Paulo,Web,Office Supplies,Gel Pen Pack,5,11.06,0.14,47.56,14.38,33.18,false
+ORD-10602,2024-02-16,CUST-0077,North America,Chicago,Marketplace,Apparel,Denim Jacket,1,133.56,0.148,113.79,54.76,59.03,false
+ORD-10967,2024-02-16,CUST-0091,EMEA,Berlin,Marketplace,Home & Kitchen,Ceramic Cookware Set,3,281.99,0.232,649.7,473.74,175.96,false
+ORD-10792,2024-02-18,CUST-0001,EMEA,London,Web,Electronics,Smartphone X,1,1151.39,0.015,1134.12,852.03,282.09,false
+ORD-10284,2024-02-19,CUST-0111,North America,New York,Mobile App,Office Supplies,Gel Pen Pack,5,11.2,0.069,52.14,14.56,37.58,false
+ORD-11405,2024-02-20,CUST-0067,EMEA,London,Marketplace,Home & Kitchen,Air Purifier,1,426.8,0.135,369.18,260.35,108.83,false
+ORD-10142,2024-02-24,CUST-0060,North America,Toronto,Marketplace,Office Supplies,Gel Pen Pack,6,11.99,0.235,-55.03,-18.7,-36.33,true
+ORD-10890,2024-02-24,CUST-0095,APAC,Seoul,Marketplace,Electronics,Smartphone X,1,967.23,0.161,811.51,715.75,95.76,false
+ORD-11396,2024-02-25,CUST-0137,North America,Toronto,Mobile App,Home & Kitchen,Coffee Grinder,5,157.08,0.089,715.5,384.85,330.65,false
+ORD-10369,2024-02-27,CUST-0101,North America,San Francisco,Web,Electronics,4K Monitor 27,4,482.7,0.124,1691.38,1370.87,320.51,false
+ORD-11328,2024-02-28,CUST-0111,North America,New York,Web,Electronics,4K Monitor 27,5,392.74,0.035,1894.97,1394.23,500.74,false
+ORD-11369,2024-03-01,CUST-0100,North America,San Francisco,Web,Furniture,Standing Desk,1,739.0,0.137,637.76,465.57,172.19,false
+ORD-10713,2024-03-02,CUST-0128,North America,San Francisco,Web,Apparel,Cotton Hoodie,1,91.4,0.09,83.17,34.73,48.44,false
+ORD-10945,2024-03-02,CUST-0099,APAC,Mumbai,Mobile App,Office Supplies,Sticky Notes Set,1,8.48,0.022,8.29,2.04,6.25,false
+ORD-10732,2024-03-03,CUST-0002,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,1,10.06,0.056,9.5,2.41,7.09,false
+ORD-11223,2024-03-05,CUST-0095,APAC,Seoul,Web,Apparel,Cotton Hoodie,1,90.18,0.047,85.94,34.27,51.67,false
+ORD-10115,2024-03-06,CUST-0016,North America,Toronto,Partner Reseller,Home & Kitchen,Coffee Grinder,1,149.4,0.15,126.99,73.21,53.78,false
+ORD-10657,2024-03-07,CUST-0059,North America,Austin,Web,Home & Kitchen,Chef Knife,4,114.41,0.145,391.28,192.21,199.07,false
+ORD-10829,2024-03-07,CUST-0003,North America,Toronto,Mobile App,Office Supplies,Gel Pen Pack,2,10.68,0.032,20.68,5.55,15.13,false
+ORD-10159,2024-03-09,CUST-0030,EMEA,London,Web,Electronics,Wireless Earbuds,3,207.46,0.111,553.3,323.64,229.66,false
+ORD-11316,2024-03-10,CUST-0050,North America,San Francisco,Web,Apparel,Running Shoes,1,153.36,0.084,140.48,67.48,73.0,false
+ORD-10721,2024-03-14,CUST-0121,APAC,Singapore,Web,Furniture,Conference Table,4,1417.85,0.056,5353.8,3913.27,1440.53,false
+ORD-11289,2024-03-14,CUST-0097,APAC,Singapore,Web,Office Supplies,Sticky Notes Set,1,10.44,0.139,8.99,2.51,6.48,false
+ORD-10497,2024-03-16,CUST-0125,EMEA,Berlin,Web,Electronics,4K Monitor 27,2,400.44,0.056,756.03,568.62,187.41,false
+ORD-10865,2024-03-16,CUST-0020,APAC,Seoul,Retail Store,Furniture,Standing Desk,2,709.67,0.032,1373.92,894.18,479.74,false
+ORD-10882,2024-03-17,CUST-0098,APAC,Mumbai,Web,Furniture,Ergonomic Chair,1,503.92,0.129,438.91,292.27,146.64,false
+ORD-10529,2024-03-19,CUST-0047,North America,Toronto,Web,Office Supplies,Desk Organizer,1,33.15,0.127,28.94,11.93,17.01,false
+ORD-10823,2024-03-19,CUST-0107,APAC,Sydney,Marketplace,Electronics,Wireless Earbuds,3,195.03,0.14,503.18,304.25,198.93,false
+ORD-11306,2024-03-19,CUST-0026,APAC,Seoul,Mobile App,Furniture,Bookshelf Unit,3,229.08,0.044,657.0,453.58,203.42,false
+ORD-10943,2024-03-21,CUST-0036,EMEA,Dublin,Web,Office Supplies,Gel Pen Pack,2,11.0,0.109,19.6,5.72,13.88,false
+ORD-10365,2024-03-22,CUST-0062,EMEA,Dublin,Mobile App,Office Supplies,Sticky Notes Set,2,8.65,0.078,15.95,4.15,11.8,false
+ORD-10962,2024-03-22,CUST-0130,EMEA,Dublin,Mobile App,Electronics,Wireless Earbuds,1,199.74,0.028,194.15,103.86,90.29,false
+ORD-10137,2024-03-23,CUST-0009,North America,Chicago,Mobile App,Electronics,Wireless Earbuds,1,158.03,0.021,154.71,82.18,72.53,false
+ORD-10257,2024-03-23,CUST-0046,EMEA,Berlin,Mobile App,Apparel,Cotton Hoodie,1,87.85,0.069,81.79,33.38,48.41,false
+ORD-11033,2024-03-23,CUST-0053,EMEA,Berlin,Web,Apparel,Denim Jacket,2,132.41,0.001,264.56,108.58,155.98,false
+ORD-10229,2024-03-24,CUST-0030,EMEA,London,Mobile App,Apparel,Running Shoes,2,126.12,0.065,235.84,110.99,124.85,false
+ORD-11398,2024-03-26,CUST-0138,APAC,Seoul,Mobile App,Electronics,Wireless Earbuds,4,159.88,0.059,601.79,332.55,269.24,false
+ORD-10047,2024-03-27,CUST-0045,North America,Toronto,Partner Reseller,Electronics,Smartphone X,2,1061.88,0.097,1917.76,1571.58,346.18,false
+ORD-11021,2024-03-29,CUST-0006,North America,New York,Web,Office Supplies,Sticky Notes Set,1,8.14,0.109,7.25,1.95,5.3,false
+ORD-10235,2024-03-30,CUST-0102,APAC,Sydney,Mobile App,Office Supplies,Sticky Notes Set,5,7.95,0.084,36.41,9.54,26.87,false
+ORD-11094,2024-03-31,CUST-0084,APAC,Tokyo,Web,Office Supplies,Sticky Notes Set,2,8.71,0.003,17.37,4.18,13.19,false
+ORD-10146,2024-04-01,CUST-0024,LATAM,Buenos Aires,Retail Store,Office Supplies,Sticky Notes Set,1,9.04,0.156,7.63,2.17,5.46,false
+ORD-10642,2024-04-01,CUST-0105,North America,Toronto,Partner Reseller,Office Supplies,Notebook A5,1,20.79,0.089,18.94,6.24,12.7,false
+ORD-10854,2024-04-01,CUST-0106,North America,Vancouver,Marketplace,Electronics,Smartphone X,2,1068.99,0.181,1751.01,1582.11,168.9,false
+ORD-11399,2024-04-01,CUST-0114,North America,Chicago,Mobile App,Electronics,Smartphone X,3,975.58,0.02,2868.21,2165.79,702.42,false
+ORD-10481,2024-04-02,CUST-0088,EMEA,Paris,Marketplace,Electronics,4K Monitor 27,2,400.25,0.088,730.06,568.36,161.7,false
+ORD-10419,2024-04-03,CUST-0116,North America,Toronto,Marketplace,Office Supplies,Notebook A5,3,22.28,0.202,53.34,20.05,33.29,false
+ORD-10697,2024-04-03,CUST-0117,North America,New York,Marketplace,Apparel,Wool Scarf,1,55.22,0.25,41.41,19.33,22.08,false
+ORD-10706,2024-04-03,CUST-0008,APAC,Seoul,Web,Home & Kitchen,Air Purifier,2,368.06,0.132,638.95,449.03,189.92,false
+ORD-11209,2024-04-03,CUST-0060,North America,Toronto,Mobile App,Furniture,Bookshelf Unit,2,205.38,0.098,370.51,271.1,99.41,false
+ORD-10519,2024-04-04,CUST-0050,North America,San Francisco,Partner Reseller,Office Supplies,Notebook A5,1,16.85,0.12,14.83,5.06,9.77,false
+ORD-11365,2024-04-05,CUST-0069,EMEA,Madrid,Web,Office Supplies,Notebook A5,6,16.74,0.134,-86.98,-30.13,-56.85,true
+ORD-10202,2024-04-07,CUST-0101,North America,San Francisco,Mobile App,Electronics,Smartphone X,6,950.08,0.031,5523.77,4218.36,1305.41,false
+ORD-11161,2024-04-07,CUST-0136,North America,Toronto,Web,Electronics,Wireless Earbuds,3,188.03,0.056,532.5,293.33,239.17,false
+ORD-10309,2024-04-10,CUST-0125,EMEA,Berlin,Marketplace,Home & Kitchen,Air Purifier,1,375.6,0.094,340.29,229.12,111.17,false
+ORD-11350,2024-04-11,CUST-0067,EMEA,London,Web,Electronics,Wireless Earbuds,1,180.42,0.109,160.75,93.82,66.93,false
+ORD-11379,2024-04-11,CUST-0133,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,2,10.31,0.036,19.88,4.95,14.93,false
+ORD-11034,2024-04-12,CUST-0101,North America,San Francisco,Marketplace,Office Supplies,Sticky Notes Set,4,9.83,0.233,30.16,9.44,20.72,false
+ORD-11495,2024-04-12,CUST-0073,APAC,Singapore,Mobile App,Office Supplies,Gel Pen Pack,2,14.14,0.059,26.61,7.35,19.26,false
+ORD-10265,2024-04-13,CUST-0070,North America,Chicago,Mobile App,Office Supplies,Desk Organizer,5,35.14,0.074,162.7,63.25,99.45,false
+ORD-10348,2024-04-13,CUST-0067,EMEA,London,Web,Furniture,Ergonomic Chair,6,539.63,0.028,3147.12,1877.91,1269.21,false
+ORD-11271,2024-04-13,CUST-0034,North America,Vancouver,Mobile App,Office Supplies,Sticky Notes Set,1,8.91,0.084,-8.16,-2.14,-6.02,true
+ORD-11384,2024-04-15,CUST-0036,EMEA,Dublin,Web,Furniture,Conference Table,1,1520.63,0.011,1503.9,1049.23,454.67,false
+ORD-10487,2024-04-18,CUST-0057,North America,Vancouver,Web,Electronics,Wireless Earbuds,4,197.15,0.06,741.28,410.07,331.21,false
+ORD-10539,2024-04-19,CUST-0091,EMEA,Berlin,Mobile App,Home & Kitchen,Air Purifier,1,431.18,0.038,414.8,263.02,151.78,false
+ORD-10781,2024-04-19,CUST-0048,North America,New York,Mobile App,Apparel,Cotton Hoodie,1,82.06,0.108,73.2,31.18,42.02,false
+ORD-11091,2024-04-19,CUST-0042,North America,Chicago,Marketplace,Apparel,Running Shoes,1,162.82,0.089,148.33,71.64,76.69,false
+ORD-10249,2024-04-20,CUST-0087,North America,San Francisco,Retail Store,Home & Kitchen,Chef Knife,1,141.04,0.178,115.93,59.24,56.69,false
+ORD-11164,2024-04-20,CUST-0047,North America,Toronto,Web,Office Supplies,Notebook A5,1,17.6,0.092,15.98,5.28,10.7,false
+ORD-10326,2024-04-21,CUST-0134,LATAM,Mexico City,Mobile App,Office Supplies,Gel Pen Pack,1,10.91,0.057,10.29,2.84,7.45,false
+ORD-10955,2024-04-21,CUST-0114,North America,Chicago,Web,Electronics,Laptop Pro 14,2,1466.24,0.102,2633.37,1994.09,639.28,false
+ORD-11455,2024-04-21,CUST-0021,North America,New York,Partner Reseller,Apparel,Cotton Hoodie,5,85.59,0.06,402.27,162.62,239.65,false
+ORD-10023,2024-04-22,CUST-0007,APAC,Seoul,Marketplace,Electronics,Wireless Earbuds,2,158.37,0.133,274.61,164.7,109.91,false
+ORD-10784,2024-04-23,CUST-0011,EMEA,Madrid,Web,Electronics,4K Monitor 27,1,463.26,0.142,397.48,328.91,68.57,false
+ORD-11093,2024-04-23,CUST-0019,North America,San Francisco,Mobile App,Apparel,Denim Jacket,1,110.09,0.036,106.13,45.14,60.99,false
+ORD-11242,2024-04-25,CUST-0028,APAC,Mumbai,Web,Office Supplies,Sticky Notes Set,2,9.94,0.125,17.39,4.77,12.62,false
+ORD-10507,2024-04-26,CUST-0054,APAC,Tokyo,Web,Office Supplies,Sticky Notes Set,5,9.28,0.063,-43.48,-11.14,-32.34,true
+ORD-10014,2024-04-27,CUST-0020,APAC,Seoul,Retail Store,Electronics,Mechanical Keyboard,3,163.18,0.193,395.06,234.98,160.08,false
+ORD-10040,2024-04-27,CUST-0084,APAC,Tokyo,Mobile App,Electronics,Mechanical Keyboard,2,137.41,0.052,260.53,131.91,128.62,false
+ORD-10308,2024-04-27,CUST-0014,APAC,Mumbai,Partner Reseller,Office Supplies,Sticky Notes Set,1,9.4,0.088,8.57,2.26,6.31,false
+ORD-10264,2024-04-28,CUST-0098,APAC,Mumbai,Marketplace,Electronics,Wireless Earbuds,1,194.34,0.082,178.4,101.06,77.34,false
+ORD-10740,2024-04-28,CUST-0139,EMEA,Paris,Marketplace,Furniture,Ergonomic Chair,2,497.85,0.167,829.42,577.51,251.91,false
+ORD-11041,2024-04-28,CUST-0116,North America,Toronto,Marketplace,Office Supplies,Sticky Notes Set,4,10.54,0.102,37.86,10.12,27.74,false
+ORD-10255,2024-04-30,CUST-0019,North America,San Francisco,Web,Apparel,Cotton Hoodie,2,82.08,0.062,153.98,62.38,91.6,false
+ORD-10038,2024-05-02,CUST-0111,North America,New York,Marketplace,Electronics,Wireless Earbuds,2,202.27,0.241,307.05,210.36,96.69,false
+ORD-10373,2024-05-02,CUST-0063,North America,Toronto,Marketplace,Electronics,Laptop Pro 14,1,1375.46,0.154,1163.64,935.31,228.33,false
+ORD-10596,2024-05-03,CUST-0111,North America,New York,Retail Store,Office Supplies,Sticky Notes Set,2,8.89,0.019,17.44,4.27,13.17,false
+ORD-10708,2024-05-03,CUST-0028,APAC,Mumbai,Mobile App,Apparel,Cotton Hoodie,1,78.74,0.055,74.41,29.92,44.49,false
+ORD-11457,2024-05-04,CUST-0115,North America,Toronto,Web,Electronics,Smartphone X,1,893.86,0.144,765.14,661.46,103.68,false
+ORD-11488,2024-05-04,CUST-0135,EMEA,Amsterdam,Marketplace,Apparel,Cotton Hoodie,1,80.85,0.134,70.02,30.72,39.3,false
+ORD-10074,2024-05-05,CUST-0019,North America,San Francisco,Mobile App,Apparel,Wool Scarf,1,53.14,0.101,47.77,18.6,29.17,false
+ORD-10760,2024-05-05,CUST-0053,EMEA,Berlin,Web,Office Supplies,Notebook A5,3,17.2,0.019,50.62,15.48,35.14,false
+ORD-11419,2024-05-06,CUST-0051,EMEA,Paris,Marketplace,Furniture,Ergonomic Chair,2,505.31,0.209,799.4,586.16,213.24,false
+ORD-10375,2024-05-08,CUST-0082,LATAM,Sao Paulo,Marketplace,Home & Kitchen,Ceramic Cookware Set,3,282.24,0.119,745.96,474.16,271.8,false
+ORD-10667,2024-05-09,CUST-0066,EMEA,Amsterdam,Marketplace,Apparel,Running Shoes,1,128.06,0.089,116.66,56.35,60.31,false
+ORD-10911,2024-05-10,CUST-0076,EMEA,Dublin,Web,Electronics,Mechanical Keyboard,2,141.62,0.114,250.95,135.96,114.99,false
+ORD-11179,2024-05-10,CUST-0010,North America,Vancouver,Web,Apparel,Cotton Hoodie,4,73.89,0.114,261.87,112.31,149.56,false
+ORD-10285,2024-05-11,CUST-0083,North America,San Francisco,Partner Reseller,Office Supplies,Gel Pen Pack,5,13.3,0.086,60.78,17.29,43.49,false
+ORD-11035,2024-05-11,CUST-0035,EMEA,Berlin,Web,Apparel,Cotton Hoodie,2,90.2,0.09,164.16,68.55,95.61,false
+ORD-11232,2024-05-11,CUST-0005,APAC,Sydney,Mobile App,Electronics,Mechanical Keyboard,1,135.47,0.086,123.82,65.03,58.79,false
+ORD-10077,2024-05-12,CUST-0023,EMEA,Berlin,Marketplace,Electronics,Wireless Earbuds,1,179.58,0.162,150.49,93.38,57.11,false
+ORD-11497,2024-05-12,CUST-0132,North America,Vancouver,Retail Store,Home & Kitchen,Chef Knife,1,150.27,0.014,148.17,63.11,85.06,false
+ORD-10030,2024-05-13,CUST-0085,North America,Vancouver,Retail Store,Office Supplies,Gel Pen Pack,6,12.08,0.183,-59.22,-18.84,-40.38,true
+ORD-10887,2024-05-13,CUST-0094,North America,Vancouver,Marketplace,Apparel,Running Shoes,1,139.01,0.094,125.94,61.16,64.78,false
+ORD-11314,2024-05-13,CUST-0014,APAC,Mumbai,Marketplace,Furniture,Ergonomic Chair,1,544.72,0.15,463.01,315.94,147.07,false
+ORD-11452,2024-05-13,CUST-0089,EMEA,Madrid,Marketplace,Electronics,Mechanical Keyboard,2,148.4,0.175,244.86,142.46,102.4,false
+ORD-11016,2024-05-14,CUST-0031,EMEA,Paris,Web,Electronics,Smartphone X,1,1042.18,0.148,887.94,771.21,116.73,false
+ORD-10511,2024-05-15,CUST-0108,North America,Toronto,Web,Apparel,Denim Jacket,1,135.84,0.035,131.09,55.69,75.4,false
+ORD-11079,2024-05-15,CUST-0016,North America,Toronto,Marketplace,Furniture,Ergonomic Chair,1,499.31,0.256,-371.49,-289.6,-81.89,true
+ORD-11308,2024-05-15,CUST-0095,APAC,Seoul,Web,Office Supplies,Gel Pen Pack,1,10.96,0.037,10.55,2.85,7.7,false
+ORD-10651,2024-05-16,CUST-0001,EMEA,London,Web,Office Supplies,Notebook A5,1,19.89,0.104,17.82,5.97,11.85,false
+ORD-10323,2024-05-17,CUST-0011,EMEA,Madrid,Web,Home & Kitchen,Coffee Grinder,5,154.21,0.061,724.02,377.81,346.21,false
+ORD-10714,2024-05-17,CUST-0011,EMEA,Madrid,Marketplace,Office Supplies,Sticky Notes Set,1,7.98,0.249,5.99,1.92,4.07,false
+ORD-10457,2024-05-19,CUST-0107,APAC,Sydney,Marketplace,Office Supplies,Sticky Notes Set,5,9.6,0.171,39.79,11.52,28.27,false
+ORD-10752,2024-05-20,CUST-0124,EMEA,London,Web,Apparel,Cotton Hoodie,3,86.95,0.001,260.59,99.12,161.47,false
+ORD-10978,2024-05-20,CUST-0057,North America,Vancouver,Web,Office Supplies,Gel Pen Pack,3,13.2,0.042,37.94,10.3,27.64,false
+ORD-10905,2024-05-21,CUST-0073,APAC,Singapore,Partner Reseller,Office Supplies,Gel Pen Pack,2,13.99,0.143,23.98,7.27,16.71,false
+ORD-11334,2024-05-21,CUST-0067,EMEA,London,Mobile App,Electronics,Mechanical Keyboard,2,131.65,0.034,254.35,126.38,127.97,false
+ORD-10689,2024-05-22,CUST-0033,EMEA,Paris,Mobile App,Apparel,Denim Jacket,2,117.38,0.027,228.42,96.25,132.17,false
+ORD-10207,2024-05-23,CUST-0016,North America,Toronto,Web,Office Supplies,Sticky Notes Set,4,8.93,0.095,32.33,8.57,23.76,false
+ORD-11376,2024-05-24,CUST-0046,EMEA,Berlin,Marketplace,Apparel,Cotton Hoodie,2,83.42,0.15,141.81,63.4,78.41,false
+ORD-10643,2024-05-25,CUST-0083,North America,San Francisco,Retail Store,Furniture,Conference Table,1,1227.93,0.119,1081.81,847.27,234.54,false
+ORD-10646,2024-05-25,CUST-0044,North America,San Francisco,Mobile App,Office Supplies,Gel Pen Pack,5,12.19,0.0,60.95,15.85,45.1,false
+ORD-10696,2024-05-26,CUST-0103,LATAM,Sao Paulo,Web,Office Supplies,Notebook A5,2,19.52,0.069,-36.35,-11.71,-24.64,true
+ORD-10765,2024-05-26,CUST-0019,North America,San Francisco,Marketplace,Office Supplies,Gel Pen Pack,2,13.13,0.193,21.19,6.83,14.36,false
+ORD-10956,2024-05-26,CUST-0093,LATAM,Sao Paulo,Marketplace,Apparel,Running Shoes,1,162.92,0.204,129.68,71.68,58.0,false
+ORD-10306,2024-05-27,CUST-0096,EMEA,London,Retail Store,Home & Kitchen,Coffee Grinder,1,132.99,0.115,117.7,65.17,52.53,false
+ORD-11187,2024-05-27,CUST-0106,North America,Vancouver,Web,Office Supplies,Gel Pen Pack,1,13.58,0.053,12.86,3.53,9.33,false
+ORD-10408,2024-05-28,CUST-0041,EMEA,Dublin,Partner Reseller,Apparel,Running Shoes,1,135.56,0.164,113.33,59.65,53.68,false
+ORD-10466,2024-05-28,CUST-0040,APAC,Singapore,Mobile App,Office Supplies,Sticky Notes Set,1,9.7,0.087,8.86,2.33,6.53,false
+ORD-10817,2024-05-28,CUST-0033,EMEA,Paris,Web,Electronics,Wireless Earbuds,1,194.76,0.062,182.68,101.28,81.4,false
+ORD-10006,2024-05-29,CUST-0106,North America,Vancouver,Web,Office Supplies,Sticky Notes Set,1,10.27,0.093,9.31,2.46,6.85,false
+ORD-10816,2024-05-30,CUST-0100,North America,San Francisco,Partner Reseller,Apparel,Denim Jacket,3,108.76,0.106,291.69,133.77,157.92,false
+ORD-10903,2024-05-30,CUST-0039,EMEA,Amsterdam,Mobile App,Office Supplies,Gel Pen Pack,1,12.31,0.008,12.21,3.2,9.01,false
+ORD-11226,2024-05-31,CUST-0021,North America,New York,Retail Store,Office Supplies,Gel Pen Pack,6,13.18,0.013,78.05,20.56,57.49,false
+ORD-10452,2024-06-01,CUST-0075,EMEA,Dublin,Web,Apparel,Running Shoes,2,135.52,0.086,247.73,119.26,128.47,false
+ORD-11218,2024-06-01,CUST-0004,EMEA,Amsterdam,Retail Store,Apparel,Denim Jacket,1,138.49,0.043,-132.53,-56.78,-75.75,true
+ORD-11446,2024-06-01,CUST-0080,North America,Chicago,Retail Store,Office Supplies,Gel Pen Pack,4,13.56,0.033,52.45,14.1,38.35,false
+ORD-10250,2024-06-02,CUST-0062,EMEA,Dublin,Retail Store,Home & Kitchen,Ceramic Cookware Set,2,300.81,0.136,519.8,336.91,182.89,false
+ORD-11075,2024-06-02,CUST-0031,EMEA,Paris,Mobile App,Office Supplies,Gel Pen Pack,5,13.82,0.101,62.12,17.97,44.15,false
+ORD-11200,2024-06-02,CUST-0051,EMEA,Paris,Marketplace,Home & Kitchen,Air Purifier,6,352.01,0.201,1687.54,1288.36,399.18,false
+ORD-10256,2024-06-03,CUST-0052,EMEA,London,Retail Store,Apparel,Wool Scarf,8,45.23,0.172,299.6,126.64,172.96,false
+ORD-11404,2024-06-03,CUST-0074,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,1,9.29,0.07,-8.64,-2.23,-6.41,true
+ORD-10095,2024-06-04,CUST-0053,EMEA,Berlin,Partner Reseller,Apparel,Denim Jacket,4,130.99,0.058,493.57,214.82,278.75,false
+ORD-11294,2024-06-04,CUST-0082,LATAM,Sao Paulo,Partner Reseller,Office Supplies,Notebook A5,1,19.81,0.052,18.78,5.94,12.84,false
+ORD-10861,2024-06-05,CUST-0140,LATAM,Mexico City,Mobile App,Home & Kitchen,Coffee Grinder,3,136.96,0.054,388.69,201.33,187.36,false
+ORD-10302,2024-06-06,CUST-0085,North America,Vancouver,Web,Electronics,Laptop Pro 14,1,1170.57,0.123,1026.59,795.99,230.6,false
+ORD-10437,2024-06-06,CUST-0124,EMEA,London,Marketplace,Office Supplies,Gel Pen Pack,1,13.7,0.244,10.36,3.56,6.8,false
+ORD-10003,2024-06-07,CUST-0068,EMEA,Paris,Marketplace,Apparel,Denim Jacket,4,135.15,0.252,404.37,221.65,182.72,false
+ORD-10331,2024-06-07,CUST-0065,North America,San Francisco,Mobile App,Furniture,Bookshelf Unit,2,257.88,0.048,491.0,340.4,150.6,false
+ORD-11086,2024-06-07,CUST-0050,North America,San Francisco,Retail Store,Office Supplies,Sticky Notes Set,2,8.34,0.191,13.49,4.0,9.49,false
+ORD-10008,2024-06-10,CUST-0089,EMEA,Madrid,Partner Reseller,Home & Kitchen,Coffee Grinder,2,151.54,0.089,276.11,148.51,127.6,false
+ORD-10178,2024-06-10,CUST-0001,EMEA,London,Partner Reseller,Home & Kitchen,Air Purifier,5,445.27,0.089,2028.2,1358.07,670.13,false
+ORD-10374,2024-06-10,CUST-0087,North America,San Francisco,Marketplace,Home & Kitchen,Ceramic Cookware Set,1,299.47,0.22,233.59,167.7,65.89,false
+ORD-11071,2024-06-11,CUST-0079,North America,Austin,Web,Apparel,Running Shoes,3,151.3,0.022,443.91,199.72,244.19,false
+ORD-10837,2024-06-14,CUST-0094,North America,Vancouver,Marketplace,Apparel,Cotton Hoodie,1,92.89,0.276,67.25,35.3,31.95,false
+ORD-11212,2024-06-15,CUST-0076,EMEA,Dublin,Web,Office Supplies,Gel Pen Pack,1,13.53,0.11,12.04,3.52,8.52,false
+ORD-10352,2024-06-16,CUST-0066,EMEA,Amsterdam,Mobile App,Office Supplies,Desk Organizer,1,33.6,0.067,31.35,12.1,19.25,false
+ORD-10412,2024-06-16,CUST-0009,North America,Chicago,Partner Reseller,Apparel,Wool Scarf,6,46.39,0.137,240.21,97.42,142.79,false
+ORD-10183,2024-06-17,CUST-0055,APAC,Mumbai,Mobile App,Office Supplies,Notebook A5,2,21.62,0.01,42.81,12.97,29.84,false
+ORD-10204,2024-06-17,CUST-0081,EMEA,Amsterdam,Partner Reseller,Apparel,Running Shoes,1,135.18,0.084,123.82,59.48,64.34,false
+ORD-10510,2024-06-17,CUST-0038,North America,San Francisco,Mobile App,Office Supplies,Sticky Notes Set,2,8.71,0.116,15.4,4.18,11.22,false
+ORD-10171,2024-06-18,CUST-0053,EMEA,Berlin,Mobile App,Office Supplies,Sticky Notes Set,2,9.53,0.02,18.68,4.57,14.11,false
+ORD-10774,2024-06-18,CUST-0022,EMEA,London,Mobile App,Office Supplies,Gel Pen Pack,4,14.02,0.051,53.22,14.58,38.64,false
+ORD-10272,2024-06-19,CUST-0016,North America,Toronto,Web,Home & Kitchen,Ceramic Cookware Set,5,285.92,0.085,1308.08,800.58,507.5,false
+ORD-10731,2024-06-19,CUST-0022,EMEA,London,Web,Apparel,Cotton Hoodie,2,80.85,0.101,145.37,61.45,83.92,false
+ORD-11202,2024-06-19,CUST-0062,EMEA,Dublin,Partner Reseller,Office Supplies,Gel Pen Pack,1,11.54,0.179,9.47,3.0,6.47,false
+ORD-11019,2024-06-25,CUST-0071,North America,Chicago,Mobile App,Office Supplies,Desk Organizer,2,38.51,0.113,68.32,27.73,40.59,false
+ORD-11162,2024-06-25,CUST-0128,North America,San Francisco,Web,Electronics,Wireless Earbuds,4,206.53,0.09,751.77,429.58,322.19,false
+ORD-10215,2024-06-26,CUST-0082,LATAM,Sao Paulo,Retail Store,Office Supplies,Desk Organizer,1,37.07,0.19,30.03,13.35,16.68,false
+ORD-10717,2024-06-26,CUST-0053,EMEA,Berlin,Marketplace,Furniture,Ergonomic Chair,1,601.98,0.129,524.32,349.15,175.17,false
+ORD-10953,2024-06-27,CUST-0013,North America,Austin,Web,Furniture,Bookshelf Unit,2,221.65,0.048,422.02,292.58,129.44,false
+ORD-10220,2024-06-28,CUST-0076,EMEA,Dublin,Partner Reseller,Electronics,Smartphone X,6,996.48,0.179,4908.66,4424.37,484.29,false
+ORD-10845,2024-06-29,CUST-0018,North America,Chicago,Retail Store,Furniture,Ergonomic Chair,1,552.25,0.043,528.5,320.3,208.2,false
+ORD-10703,2024-06-30,CUST-0137,North America,Toronto,Marketplace,Office Supplies,Notebook A5,1,18.28,0.168,15.21,5.48,9.73,false
+ORD-11006,2024-07-01,CUST-0027,North America,Toronto,Marketplace,Electronics,4K Monitor 27,1,451.61,0.251,338.26,320.64,17.62,false
+ORD-10418,2024-07-02,CUST-0052,EMEA,London,Web,Home & Kitchen,Coffee Grinder,2,162.92,0.025,317.69,159.66,158.03,false
+ORD-10526,2024-07-02,CUST-0063,North America,Toronto,Mobile App,Electronics,Mechanical Keyboard,8,147.29,0.043,1127.65,565.59,562.06,false
+ORD-10951,2024-07-02,CUST-0005,APAC,Sydney,Partner Reseller,Apparel,Running Shoes,2,157.53,0.078,290.49,138.63,151.86,false
+ORD-10591,2024-07-03,CUST-0020,APAC,Seoul,Web,Furniture,Standing Desk,1,674.73,0.147,575.54,425.08,150.46,false
+ORD-10641,2024-07-03,CUST-0136,North America,Toronto,Web,Apparel,Cotton Hoodie,1,73.51,0.022,71.89,27.93,43.96,false
+ORD-11268,2024-07-04,CUST-0100,North America,San Francisco,Marketplace,Office Supplies,Gel Pen Pack,1,10.98,0.183,8.97,2.85,6.12,false
+ORD-11159,2024-07-06,CUST-0091,EMEA,Berlin,Web,Electronics,4K Monitor 27,1,411.05,0.03,398.72,291.85,106.87,false
+ORD-10106,2024-07-09,CUST-0087,North America,San Francisco,Marketplace,Office Supplies,Desk Organizer,1,38.65,0.259,28.64,13.91,14.73,false
+ORD-10410,2024-07-11,CUST-0048,North America,New York,Mobile App,Electronics,Mechanical Keyboard,2,147.86,0.072,274.43,141.95,132.48,false
+ORD-11216,2024-07-13,CUST-0044,North America,San Francisco,Mobile App,Electronics,Wireless Earbuds,1,207.11,0.102,185.98,107.7,78.28,false
+ORD-11356,2024-07-13,CUST-0124,EMEA,London,Web,Office Supplies,Sticky Notes Set,8,8.53,0.099,61.48,16.38,45.1,false
+ORD-10482,2024-07-14,CUST-0100,North America,San Francisco,Web,Home & Kitchen,Chef Knife,1,138.01,0.11,122.83,57.96,64.87,false
+ORD-11012,2024-07-14,CUST-0046,EMEA,Berlin,Web,Home & Kitchen,Ceramic Cookware Set,1,261.83,0.088,238.79,146.62,92.17,false
+ORD-10483,2024-07-16,CUST-0062,EMEA,Dublin,Mobile App,Office Supplies,Notebook A5,1,19.76,0.1,17.78,5.93,11.85,false
+ORD-10867,2024-07-16,CUST-0138,APAC,Seoul,Web,Electronics,4K Monitor 27,4,392.29,0.033,1517.38,1114.1,403.28,false
+ORD-10498,2024-07-17,CUST-0070,North America,Chicago,Marketplace,Furniture,Ergonomic Chair,1,505.6,0.25,379.2,293.25,85.95,false
+ORD-11461,2024-07-17,CUST-0108,North America,Toronto,Marketplace,Electronics,4K Monitor 27,2,471.63,0.201,753.66,669.71,83.95,false
+ORD-10089,2024-07-18,CUST-0074,EMEA,Dublin,Marketplace,Electronics,4K Monitor 27,1,504.82,0.216,395.78,358.42,37.36,false
+ORD-10831,2024-07-18,CUST-0101,North America,San Francisco,Marketplace,Office Supplies,Sticky Notes Set,1,9.02,0.228,6.96,2.16,4.8,false
+ORD-10535,2024-07-20,CUST-0132,North America,Vancouver,Retail Store,Office Supplies,Gel Pen Pack,1,11.65,0.002,11.63,3.03,8.6,false
+ORD-10661,2024-07-20,CUST-0080,North America,Chicago,Web,Electronics,Smartphone X,1,886.32,0.12,779.96,655.88,124.08,false
+ORD-11274,2024-07-20,CUST-0140,LATAM,Mexico City,Web,Apparel,Cotton Hoodie,3,73.92,0.062,208.01,84.27,123.74,false
+ORD-10524,2024-07-23,CUST-0098,APAC,Mumbai,Retail Store,Apparel,Running Shoes,1,146.72,0.099,132.19,64.56,67.63,false
+ORD-10597,2024-07-23,CUST-0100,North America,San Francisco,Mobile App,Office Supplies,Gel Pen Pack,3,13.48,0.074,37.45,10.51,26.94,false
+ORD-10440,2024-07-24,CUST-0071,North America,Chicago,Marketplace,Office Supplies,Sticky Notes Set,1,8.35,0.103,7.49,2.0,5.49,false
+ORD-10380,2024-07-25,CUST-0050,North America,San Francisco,Retail Store,Electronics,Smartphone X,2,1036.71,0.14,1783.14,1534.33,248.81,false
+ORD-10608,2024-07-25,CUST-0101,North America,San Francisco,Marketplace,Electronics,Laptop Pro 14,3,1524.83,0.25,3430.87,3110.65,320.22,false
+ORD-11454,2024-07-26,CUST-0023,EMEA,Berlin,Web,Home & Kitchen,Ceramic Cookware Set,3,259.85,0.052,739.01,436.55,302.46,false
+ORD-10125,2024-07-27,CUST-0021,North America,New York,Web,Home & Kitchen,Ceramic Cookware Set,3,261.46,0.04,753.0,439.25,313.75,false
+ORD-10580,2024-07-27,CUST-0069,EMEA,Madrid,Web,Apparel,Running Shoes,4,147.34,0.149,501.55,259.32,242.23,false
+ORD-10128,2024-07-28,CUST-0062,EMEA,Dublin,Mobile App,Office Supplies,Sticky Notes Set,2,8.89,0.031,17.23,4.27,12.96,false
+ORD-10413,2024-07-28,CUST-0113,EMEA,Madrid,Web,Office Supplies,Gel Pen Pack,1,11.45,0.061,-10.75,-2.98,-7.77,true
+ORD-11230,2024-07-28,CUST-0007,APAC,Seoul,Mobile App,Electronics,Smartphone X,1,1111.63,0.119,979.35,822.61,156.74,false
+ORD-10536,2024-07-29,CUST-0052,EMEA,London,Web,Electronics,Wireless Earbuds,4,208.1,0.142,714.2,432.85,281.35,false
+ORD-10941,2024-07-29,CUST-0092,APAC,Sydney,Mobile App,Home & Kitchen,Ceramic Cookware Set,1,276.23,0.066,258.0,154.69,103.31,false
+ORD-11192,2024-07-30,CUST-0045,North America,Toronto,Mobile App,Furniture,Bookshelf Unit,1,219.12,0.094,198.52,144.62,53.9,false
+ORD-11311,2024-07-30,CUST-0095,APAC,Seoul,Retail Store,Office Supplies,Notebook A5,1,18.43,0.005,18.34,5.53,12.81,false
+ORD-10096,2024-07-31,CUST-0123,EMEA,Amsterdam,Web,Office Supplies,Gel Pen Pack,5,11.79,0.053,55.83,15.33,40.5,false
+ORD-11262,2024-07-31,CUST-0019,North America,San Francisco,Web,Electronics,4K Monitor 27,6,462.67,0.002,2770.47,1970.97,799.5,false
+ORD-10371,2024-08-01,CUST-0080,North America,Chicago,Marketplace,Home & Kitchen,Coffee Grinder,3,155.69,0.104,418.49,228.86,189.63,false
+ORD-11105,2024-08-01,CUST-0115,North America,Toronto,Marketplace,Apparel,Cotton Hoodie,2,72.47,0.274,105.23,55.08,50.15,false
+ORD-10626,2024-08-06,CUST-0080,North America,Chicago,Web,Office Supplies,Sticky Notes Set,1,10.07,0.089,9.17,2.42,6.75,false
+ORD-10874,2024-08-06,CUST-0083,North America,San Francisco,Mobile App,Home & Kitchen,Chef Knife,2,133.93,0.012,264.65,112.5,152.15,false
+ORD-10631,2024-08-07,CUST-0095,APAC,Seoul,Mobile App,Office Supplies,Gel Pen Pack,3,13.7,0.07,38.22,10.69,27.53,false
+ORD-10635,2024-08-08,CUST-0126,EMEA,Amsterdam,Web,Electronics,4K Monitor 27,1,439.45,0.046,419.24,312.01,107.23,false
+ORD-10011,2024-08-12,CUST-0065,North America,San Francisco,Marketplace,Office Supplies,Desk Organizer,4,36.33,0.261,107.39,52.32,55.07,false
+ORD-10868,2024-08-13,CUST-0033,EMEA,Paris,Partner Reseller,Furniture,Standing Desk,1,730.77,0.088,666.46,460.39,206.07,false
+ORD-10110,2024-08-14,CUST-0035,EMEA,Berlin,Partner Reseller,Office Supplies,Gel Pen Pack,1,13.09,0.169,10.88,3.4,7.48,false
+ORD-10841,2024-08-16,CUST-0119,North America,Austin,Mobile App,Office Supplies,Gel Pen Pack,2,13.51,0.013,26.67,7.03,19.64,false
+ORD-10076,2024-08-17,CUST-0052,EMEA,London,Mobile App,Office Supplies,Notebook A5,1,19.98,0.056,18.86,5.99,12.87,false
+ORD-10525,2024-08-17,CUST-0001,EMEA,London,Marketplace,Electronics,Wireless Earbuds,2,164.19,0.213,258.44,170.76,87.68,false
+ORD-11116,2024-08-18,CUST-0025,North America,Chicago,Mobile App,Office Supplies,Gel Pen Pack,1,11.46,0.088,10.45,2.98,7.47,false
+ORD-11147,2024-08-18,CUST-0011,EMEA,Madrid,Partner Reseller,Furniture,Ergonomic Chair,1,520.09,0.14,447.28,301.65,145.63,false
+ORD-10954,2024-08-21,CUST-0067,EMEA,London,Retail Store,Home & Kitchen,Coffee Grinder,4,155.28,0.009,615.53,304.35,311.18,false
+ORD-10988,2024-08-22,CUST-0042,North America,Chicago,Web,Home & Kitchen,Air Purifier,3,452.02,0.005,-1349.28,-827.2,-522.08,true
+ORD-11275,2024-08-25,CUST-0077,North America,Chicago,Web,Electronics,Smartphone X,1,1115.31,0.017,1096.35,825.33,271.02,false
+ORD-10180,2024-08-27,CUST-0024,LATAM,Buenos Aires,Mobile App,Office Supplies,Notebook A5,1,18.01,0.082,-16.53,-5.4,-11.13,true
+ORD-10398,2024-08-27,CUST-0096,EMEA,London,Web,Electronics,Smartphone X,3,951.96,0.093,2590.28,2113.35,476.93,false
+ORD-10629,2024-08-27,CUST-0073,APAC,Singapore,Mobile App,Office Supplies,Sticky Notes Set,1,8.94,0.089,8.14,2.15,5.99,false
+ORD-10222,2024-08-31,CUST-0082,LATAM,Sao Paulo,Web,Electronics,Mechanical Keyboard,3,148.97,0.133,387.47,214.52,172.95,false
+ORD-10422,2024-08-31,CUST-0122,LATAM,Bogota,Mobile App,Apparel,Running Shoes,1,159.11,0.033,153.86,70.01,83.85,false
+ORD-10214,2024-09-03,CUST-0015,North America,San Francisco,Mobile App,Office Supplies,Sticky Notes Set,8,8.97,0.112,63.72,17.22,46.5,false
+ORD-11180,2024-09-04,CUST-0095,APAC,Seoul,Mobile App,Apparel,Cotton Hoodie,1,91.65,0.092,83.22,34.83,48.39,false
+ORD-10396,2024-09-05,CUST-0111,North America,New York,Web,Apparel,Wool Scarf,2,49.35,0.052,93.57,34.55,59.02,false
+ORD-10715,2024-09-05,CUST-0014,APAC,Mumbai,Web,Home & Kitchen,Chef Knife,2,141.36,0.091,256.99,118.74,138.25,false
+ORD-10821,2024-09-05,CUST-0058,APAC,Mumbai,Partner Reseller,Electronics,Wireless Earbuds,3,177.79,0.053,505.1,277.35,227.75,false
+ORD-11129,2024-09-05,CUST-0041,EMEA,Dublin,Web,Office Supplies,Gel Pen Pack,4,10.81,0.145,36.97,11.24,25.73,false
+ORD-10553,2024-09-07,CUST-0080,North America,Chicago,Web,Office Supplies,Sticky Notes Set,1,8.83,0.003,8.8,2.12,6.68,false
+ORD-10900,2024-09-07,CUST-0111,North America,New York,Web,Apparel,Denim Jacket,6,127.52,0.145,654.18,313.7,340.48,false
+ORD-10942,2024-09-07,CUST-0069,EMEA,Madrid,Web,Apparel,Running Shoes,1,139.45,0.143,119.51,61.36,58.15,false
+ORD-10415,2024-09-08,CUST-0102,APAC,Sydney,Mobile App,Home & Kitchen,Coffee Grinder,3,174.15,0.023,510.43,256.0,254.43,false
+ORD-11360,2024-09-08,CUST-0109,North America,Austin,Web,Apparel,Wool Scarf,1,57.29,0.021,56.09,20.05,36.04,false
+ORD-10144,2024-09-09,CUST-0022,EMEA,London,Marketplace,Furniture,Standing Desk,1,696.82,0.152,590.9,439.0,151.9,false
+ORD-10718,2024-09-11,CUST-0115,North America,Toronto,Retail Store,Home & Kitchen,Coffee Grinder,2,173.63,0.072,322.26,170.16,152.1,false
+ORD-11300,2024-09-11,CUST-0060,North America,Toronto,Partner Reseller,Apparel,Wool Scarf,2,51.4,0.134,89.02,35.98,53.04,false
+ORD-11410,2024-09-11,CUST-0097,APAC,Singapore,Marketplace,Office Supplies,Notebook A5,1,18.1,0.215,14.21,5.43,8.78,false
+ORD-10788,2024-09-12,CUST-0030,EMEA,London,Web,Office Supplies,Sticky Notes Set,4,8.46,0.106,30.25,8.12,22.13,false
+ORD-11270,2024-09-12,CUST-0046,EMEA,Berlin,Web,Office Supplies,Notebook A5,1,20.61,0.127,17.99,6.18,11.81,false
+ORD-11370,2024-09-12,CUST-0032,EMEA,Berlin,Mobile App,Office Supplies,Gel Pen Pack,1,10.97,0.071,10.19,2.85,7.34,false
+ORD-10340,2024-09-13,CUST-0097,APAC,Singapore,Marketplace,Office Supplies,Sticky Notes Set,6,9.16,0.172,45.51,13.19,32.32,false
+ORD-10049,2024-09-15,CUST-0039,EMEA,Amsterdam,Web,Apparel,Running Shoes,1,162.67,0.105,145.59,71.57,74.02,false
+ORD-10898,2024-09-16,CUST-0004,EMEA,Amsterdam,Web,Office Supplies,Gel Pen Pack,2,12.95,0.13,22.53,6.73,15.8,false
+ORD-11140,2024-09-16,CUST-0089,EMEA,Madrid,Web,Apparel,Wool Scarf,3,47.89,0.105,128.58,50.28,78.3,false
+ORD-11176,2024-09-16,CUST-0102,APAC,Sydney,Web,Electronics,Mechanical Keyboard,2,125.26,0.017,246.26,120.25,126.01,false
+ORD-10029,2024-09-18,CUST-0040,APAC,Singapore,Web,Office Supplies,Gel Pen Pack,1,12.11,0.112,10.75,3.15,7.6,false
+ORD-10595,2024-09-18,CUST-0103,LATAM,Sao Paulo,Web,Electronics,Mechanical Keyboard,3,134.2,0.113,357.11,193.25,163.86,false
+ORD-11435,2024-09-18,CUST-0043,EMEA,Amsterdam,Mobile App,Apparel,Running Shoes,6,139.86,0.075,776.22,369.23,406.99,false
+ORD-10330,2024-09-20,CUST-0002,EMEA,Dublin,Web,Office Supplies,Notebook A5,2,20.64,0.047,39.34,12.38,26.96,false
+ORD-10353,2024-09-20,CUST-0106,North America,Vancouver,Partner Reseller,Electronics,Mechanical Keyboard,1,146.33,0.134,126.72,70.24,56.48,false
+ORD-11418,2024-09-20,CUST-0032,EMEA,Berlin,Web,Apparel,Cotton Hoodie,1,71.76,0.09,65.3,27.27,38.03,false
+ORD-11026,2024-09-21,CUST-0067,EMEA,London,Marketplace,Electronics,Laptop Pro 14,1,1197.61,0.197,961.68,814.37,147.31,false
+ORD-10586,2024-09-23,CUST-0012,EMEA,Berlin,Partner Reseller,Home & Kitchen,Air Purifier,1,384.4,0.106,343.65,234.48,109.17,false
+ORD-10725,2024-09-24,CUST-0038,North America,San Francisco,Partner Reseller,Furniture,Bookshelf Unit,4,193.53,0.15,658.0,510.92,147.08,false
+ORD-10188,2024-09-25,CUST-0016,North America,Toronto,Web,Home & Kitchen,Air Purifier,3,431.84,0.064,1212.61,790.27,422.34,false
+ORD-10587,2024-09-26,CUST-0068,EMEA,Paris,Web,Office Supplies,Gel Pen Pack,3,12.33,0.143,31.7,9.62,22.08,false
+ORD-10849,2024-09-26,CUST-0001,EMEA,London,Retail Store,Home & Kitchen,Ceramic Cookware Set,2,299.0,0.116,-528.63,-334.88,-193.75,true
+ORD-11120,2024-09-26,CUST-0031,EMEA,Paris,Mobile App,Office Supplies,Desk Organizer,1,40.09,0.022,39.21,14.43,24.78,false
+ORD-11150,2024-09-26,CUST-0094,North America,Vancouver,Web,Home & Kitchen,Ceramic Cookware Set,1,325.71,0.02,319.2,182.4,136.8,false
+ORD-10269,2024-09-27,CUST-0026,APAC,Seoul,Retail Store,Office Supplies,Sticky Notes Set,1,9.75,0.085,8.92,2.34,6.58,false
+ORD-10223,2024-09-28,CUST-0018,North America,Chicago,Marketplace,Apparel,Denim Jacket,1,120.36,0.164,100.62,49.35,51.27,false
+ORD-10344,2024-09-28,CUST-0052,EMEA,London,Web,Office Supplies,Sticky Notes Set,3,8.24,0.012,24.42,5.93,18.49,false
+ORD-10389,2024-09-28,CUST-0064,LATAM,Buenos Aires,Web,Furniture,Bookshelf Unit,1,253.02,0.11,225.19,166.99,58.2,false
+ORD-10785,2024-09-29,CUST-0126,EMEA,Amsterdam,Marketplace,Office Supplies,Sticky Notes Set,1,9.98,0.256,7.43,2.4,5.03,false
+ORD-10892,2024-09-29,CUST-0137,North America,Toronto,Marketplace,Electronics,Wireless Earbuds,3,178.57,0.1,482.14,278.57,203.57,false
+ORD-11393,2024-09-29,CUST-0136,North America,Toronto,Retail Store,Home & Kitchen,Ceramic Cookware Set,5,327.91,0.177,1349.35,918.15,431.2,false
+ORD-10174,2024-10-02,CUST-0097,APAC,Singapore,Retail Store,Apparel,Denim Jacket,1,123.13,0.056,116.23,50.48,65.75,false
+ORD-10366,2024-10-02,CUST-0018,North America,Chicago,Marketplace,Electronics,Wireless Earbuds,2,172.13,0.205,273.69,179.02,94.67,false
+ORD-10645,2024-10-02,CUST-0026,APAC,Seoul,Marketplace,Furniture,Bookshelf Unit,1,219.44,0.097,198.15,144.83,53.32,false
+ORD-10783,2024-10-02,CUST-0113,EMEA,Madrid,Web,Office Supplies,Gel Pen Pack,3,10.58,0.133,27.52,8.25,19.27,false
+ORD-10530,2024-10-04,CUST-0093,LATAM,Sao Paulo,Retail Store,Electronics,Smartphone X,1,1034.42,0.075,956.84,765.47,191.37,false
+ORD-10800,2024-10-05,CUST-0001,EMEA,London,Marketplace,Electronics,Wireless Earbuds,4,199.98,0.171,663.13,415.96,247.17,false
+ORD-10990,2024-10-05,CUST-0097,APAC,Singapore,Marketplace,Office Supplies,Notebook A5,1,17.2,0.095,15.57,5.16,10.41,false
+ORD-10243,2024-10-07,CUST-0119,North America,Austin,Web,Office Supplies,Desk Organizer,1,33.72,0.089,30.72,12.14,18.58,false
+ORD-10346,2024-10-08,CUST-0131,EMEA,Amsterdam,Mobile App,Apparel,Cotton Hoodie,1,88.46,0.057,83.42,33.61,49.81,false
+ORD-10863,2024-10-08,CUST-0037,North America,San Francisco,Mobile App,Office Supplies,Desk Organizer,1,34.6,0.072,32.11,12.46,19.65,false
+ORD-11070,2024-10-08,CUST-0036,EMEA,Dublin,Web,Electronics,Wireless Earbuds,1,177.0,0.044,169.21,92.04,77.17,false
+ORD-11109,2024-10-08,CUST-0083,North America,San Francisco,Web,Electronics,Mechanical Keyboard,1,143.95,0.021,140.93,69.1,71.83,false
+ORD-11374,2024-10-08,CUST-0052,EMEA,London,Mobile App,Office Supplies,Notebook A5,1,20.52,0.114,18.18,6.16,12.02,false
+ORD-11227,2024-10-09,CUST-0094,North America,Vancouver,Web,Office Supplies,Notebook A5,2,18.59,0.124,32.57,11.15,21.42,false
+ORD-10971,2024-10-11,CUST-0081,EMEA,Amsterdam,Web,Electronics,Wireless Earbuds,1,181.09,0.133,157.01,94.17,62.84,false
+ORD-10500,2024-10-12,CUST-0110,North America,New York,Web,Office Supplies,Notebook A5,2,21.8,0.089,39.72,13.08,26.64,false
+ORD-10843,2024-10-12,CUST-0140,LATAM,Mexico City,Marketplace,Electronics,4K Monitor 27,1,381.55,0.2,305.24,270.9,34.34,false
+ORD-11058,2024-10-12,CUST-0093,LATAM,Sao Paulo,Marketplace,Office Supplies,Desk Organizer,2,36.41,0.18,59.71,26.22,33.49,false
+ORD-10804,2024-10-13,CUST-0005,APAC,Sydney,Marketplace,Office Supplies,Sticky Notes Set,3,8.21,0.229,18.99,5.91,13.08,false
+ORD-11361,2024-10-14,CUST-0106,North America,Vancouver,Web,Home & Kitchen,Ceramic Cookware Set,2,307.34,0.061,-577.18,-344.22,-232.96,true
+ORD-11386,2024-10-14,CUST-0116,North America,Toronto,Partner Reseller,Home & Kitchen,Coffee Grinder,2,135.3,0.083,248.14,132.59,115.55,false
+ORD-10864,2024-10-16,CUST-0047,North America,Toronto,Web,Electronics,4K Monitor 27,4,427.82,0.074,-1584.65,-1215.01,-369.64,true
+ORD-10387,2024-10-18,CUST-0133,EMEA,Dublin,Web,Electronics,Mechanical Keyboard,8,131.28,0.047,1000.88,504.12,496.76,false
+ORD-11362,2024-10-18,CUST-0024,LATAM,Buenos Aires,Mobile App,Office Supplies,Sticky Notes Set,4,8.9,0.011,35.21,8.54,26.67,false
+ORD-10336,2024-10-19,CUST-0131,EMEA,Amsterdam,Web,Office Supplies,Notebook A5,1,18.08,0.0,18.08,5.42,12.66,false
+ORD-10970,2024-10-19,CUST-0082,LATAM,Sao Paulo,Web,Office Supplies,Sticky Notes Set,6,10.3,0.11,55.0,14.83,40.17,false
+ORD-11178,2024-10-20,CUST-0067,EMEA,London,Retail Store,Electronics,Laptop Pro 14,4,1513.42,0.111,5381.72,4116.5,1265.22,false
+ORD-10031,2024-10-21,CUST-0091,EMEA,Berlin,Web,Electronics,4K Monitor 27,2,486.56,0.053,921.54,690.92,230.62,false
+ORD-11183,2024-10-21,CUST-0037,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,12.42,0.003,12.38,3.23,9.15,false
+ORD-10098,2024-10-22,CUST-0126,EMEA,Amsterdam,Partner Reseller,Apparel,Running Shoes,3,133.72,0.066,374.68,176.51,198.17,false
+ORD-10522,2024-10-22,CUST-0109,North America,Austin,Retail Store,Office Supplies,Gel Pen Pack,2,11.08,0.061,20.81,5.76,15.05,false
+ORD-10121,2024-10-23,CUST-0082,LATAM,Sao Paulo,Retail Store,Office Supplies,Sticky Notes Set,1,10.29,0.197,8.26,2.47,5.79,false
+ORD-10918,2024-10-23,CUST-0026,APAC,Seoul,Marketplace,Home & Kitchen,Air Purifier,1,423.74,0.101,380.94,258.48,122.46,false
+ORD-10062,2024-10-25,CUST-0091,EMEA,Berlin,Marketplace,Furniture,Standing Desk,1,819.51,0.094,742.48,516.29,226.19,false
+ORD-10281,2024-10-25,CUST-0096,EMEA,London,Web,Office Supplies,Notebook A5,1,20.81,0.108,18.56,6.24,12.32,false
+ORD-10172,2024-10-26,CUST-0069,EMEA,Madrid,Retail Store,Home & Kitchen,Chef Knife,3,118.77,0.15,302.86,149.65,153.21,false
+ORD-10618,2024-10-26,CUST-0130,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,1,10.13,0.018,9.95,2.43,7.52,false
+ORD-11403,2024-10-26,CUST-0022,EMEA,London,Marketplace,Office Supplies,Notebook A5,2,18.36,0.184,29.96,11.02,18.94,false
+ORD-11425,2024-10-26,CUST-0102,APAC,Sydney,Web,Office Supplies,Gel Pen Pack,1,14.15,0.029,13.74,3.68,10.06,false
+ORD-11437,2024-10-29,CUST-0094,North America,Vancouver,Mobile App,Office Supplies,Desk Organizer,1,35.69,0.035,34.44,12.85,21.59,false
+ORD-11045,2024-10-31,CUST-0029,North America,Chicago,Marketplace,Apparel,Cotton Hoodie,1,71.51,0.099,64.43,27.17,37.26,false
+ORD-10372,2024-11-01,CUST-0014,APAC,Mumbai,Web,Office Supplies,Notebook A5,2,18.57,0.025,36.21,11.14,25.07,false
+ORD-10206,2024-11-02,CUST-0045,North America,Toronto,Mobile App,Electronics,4K Monitor 27,3,409.68,0.055,1161.44,872.62,288.82,false
+ORD-10124,2024-11-03,CUST-0037,North America,San Francisco,Mobile App,Office Supplies,Sticky Notes Set,6,9.42,0.016,55.62,13.56,42.06,false
+ORD-10916,2024-11-03,CUST-0048,North America,New York,Mobile App,Office Supplies,Sticky Notes Set,4,9.76,0.103,35.02,9.37,25.65,false
+ORD-10815,2024-11-04,CUST-0074,EMEA,Dublin,Retail Store,Apparel,Cotton Hoodie,2,91.63,0.162,153.57,69.64,83.93,false
+ORD-10017,2024-11-05,CUST-0030,EMEA,London,Web,Electronics,Mechanical Keyboard,2,126.37,0.133,219.13,121.32,97.81,false
+ORD-10685,2024-11-05,CUST-0071,North America,Chicago,Web,Furniture,Bookshelf Unit,4,239.77,0.081,881.39,632.99,248.4,false
+ORD-10547,2024-11-06,CUST-0025,North America,Chicago,Mobile App,Office Supplies,Desk Organizer,2,34.67,0.035,66.91,24.96,41.95,false
+ORD-10614,2024-11-06,CUST-0013,North America,Austin,Web,Home & Kitchen,Air Purifier,2,362.71,0.129,631.84,442.51,189.33,false
+ORD-10205,2024-11-07,CUST-0011,EMEA,Madrid,Web,Furniture,Conference Table,3,1509.97,0.059,-4262.65,-3125.64,-1137.01,true
+ORD-10307,2024-11-08,CUST-0089,EMEA,Madrid,Retail Store,Furniture,Conference Table,1,1206.41,0.123,1058.02,832.42,225.6,false
+ORD-11261,2024-11-09,CUST-0104,APAC,Mumbai,Marketplace,Apparel,Cotton Hoodie,6,74.05,0.083,407.42,168.83,238.59,false
+ORD-11348,2024-11-09,CUST-0014,APAC,Mumbai,Mobile App,Office Supplies,Desk Organizer,2,37.87,0.103,67.94,27.27,40.67,false
+ORD-10109,2024-11-10,CUST-0129,North America,New York,Marketplace,Home & Kitchen,Ceramic Cookware Set,2,298.98,0.268,437.71,334.86,102.85,false
+ORD-10534,2024-11-10,CUST-0034,North America,Vancouver,Marketplace,Home & Kitchen,Air Purifier,1,344.51,0.177,283.53,210.15,73.38,false
+ORD-10037,2024-11-11,CUST-0102,APAC,Sydney,Web,Home & Kitchen,Coffee Grinder,6,165.42,0.115,878.38,486.33,392.05,false
+ORD-10012,2024-11-12,CUST-0009,North America,Chicago,Web,Office Supplies,Sticky Notes Set,1,9.94,0.026,9.68,2.39,7.29,false
+ORD-10902,2024-11-12,CUST-0134,LATAM,Mexico City,Web,Office Supplies,Sticky Notes Set,3,9.45,0.119,24.98,6.8,18.18,false
+ORD-11032,2024-11-12,CUST-0037,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,11.09,0.132,9.63,2.88,6.75,false
+ORD-10695,2024-11-13,CUST-0122,LATAM,Bogota,Web,Electronics,Smartphone X,1,1093.94,0.069,1018.46,809.52,208.94,false
+ORD-11175,2024-11-13,CUST-0070,North America,Chicago,Retail Store,Apparel,Cotton Hoodie,1,89.49,0.038,86.09,34.01,52.08,false
+ORD-11244,2024-11-13,CUST-0047,North America,Toronto,Partner Reseller,Office Supplies,Notebook A5,1,18.59,0.178,15.28,5.58,9.7,false
+ORD-10442,2024-11-14,CUST-0087,North America,San Francisco,Web,Office Supplies,Notebook A5,5,17.01,0.058,80.12,25.52,54.6,false
+ORD-10995,2024-11-14,CUST-0022,EMEA,London,Retail Store,Electronics,Wireless Earbuds,2,170.94,0.028,332.31,177.78,154.53,false
+ORD-10461,2024-11-15,CUST-0088,EMEA,Paris,Mobile App,Office Supplies,Notebook A5,5,19.99,0.04,95.95,29.98,65.97,false
+ORD-10541,2024-11-15,CUST-0114,North America,Chicago,Partner Reseller,Furniture,Standing Desk,1,794.79,0.166,662.85,500.72,162.13,false
+ORD-11128,2024-11-15,CUST-0018,North America,Chicago,Web,Electronics,4K Monitor 27,4,475.92,0.121,1673.33,1351.61,321.72,false
+ORD-10084,2024-11-16,CUST-0082,LATAM,Sao Paulo,Partner Reseller,Office Supplies,Sticky Notes Set,1,8.92,0.123,7.82,2.14,5.68,false
+ORD-10182,2024-11-16,CUST-0077,North America,Chicago,Marketplace,Electronics,Mechanical Keyboard,1,163.73,0.109,145.88,78.59,67.29,false
+ORD-10879,2024-11-16,CUST-0013,North America,Austin,Mobile App,Apparel,Denim Jacket,4,139.25,0.015,548.64,228.37,320.27,false
+ORD-11143,2024-11-16,CUST-0048,North America,New York,Retail Store,Office Supplies,Notebook A5,2,18.64,0.088,34.0,11.18,22.82,false
+ORD-10140,2024-11-18,CUST-0054,APAC,Tokyo,Marketplace,Office Supplies,Sticky Notes Set,1,8.13,0.112,7.22,1.95,5.27,false
+ORD-11055,2024-11-18,CUST-0120,LATAM,Mexico City,Web,Electronics,Smartphone X,1,1008.45,0.149,-858.19,-746.25,-111.94,true
+ORD-10004,2024-11-20,CUST-0125,EMEA,Berlin,Web,Office Supplies,Notebook A5,2,21.97,0.15,37.35,13.18,24.17,false
+ORD-10428,2024-11-20,CUST-0091,EMEA,Berlin,Mobile App,Home & Kitchen,Chef Knife,3,132.78,0.097,359.7,167.3,192.4,false
+ORD-10515,2024-11-20,CUST-0113,EMEA,Madrid,Mobile App,Furniture,Ergonomic Chair,1,535.32,0.041,513.37,310.49,202.88,false
+ORD-10683,2024-11-20,CUST-0007,APAC,Seoul,Marketplace,Electronics,Wireless Earbuds,1,161.95,0.249,121.62,84.21,37.41,false
+ORD-10001,2024-11-21,CUST-0098,APAC,Mumbai,Retail Store,Apparel,Denim Jacket,8,122.4,0.007,972.35,401.47,570.88,false
+ORD-10871,2024-11-22,CUST-0099,APAC,Mumbai,Web,Apparel,Running Shoes,2,125.0,0.025,-243.75,-110.0,-133.75,true
+ORD-11206,2024-11-22,CUST-0030,EMEA,London,Marketplace,Electronics,Wireless Earbuds,1,167.03,0.093,151.5,86.86,64.64,false
+ORD-10745,2024-11-23,CUST-0033,EMEA,Paris,Web,Office Supplies,Desk Organizer,1,35.41,0.069,32.97,12.75,20.22,false
+ORD-11474,2024-11-23,CUST-0051,EMEA,Paris,Marketplace,Office Supplies,Sticky Notes Set,2,9.76,0.08,17.96,4.68,13.28,false
+ORD-10150,2024-11-24,CUST-0052,EMEA,London,Mobile App,Office Supplies,Notebook A5,1,20.91,0.076,19.32,6.27,13.05,false
+ORD-10277,2024-11-24,CUST-0072,North America,Vancouver,Marketplace,Electronics,Wireless Earbuds,1,170.14,0.172,140.88,88.47,52.41,false
+ORD-10926,2024-11-24,CUST-0116,North America,Toronto,Mobile App,Apparel,Wool Scarf,1,46.83,0.053,44.35,16.39,27.96,false
+ORD-10716,2024-11-25,CUST-0002,EMEA,Dublin,Partner Reseller,Electronics,4K Monitor 27,1,505.19,0.172,418.3,358.68,59.62,false
+ORD-10873,2024-11-26,CUST-0048,North America,New York,Marketplace,Apparel,Cotton Hoodie,1,87.99,0.104,78.84,33.44,45.4,false
+ORD-11144,2024-11-26,CUST-0049,North America,Austin,Marketplace,Office Supplies,Sticky Notes Set,2,9.96,0.188,16.18,4.78,11.4,false
+ORD-11458,2024-11-26,CUST-0102,APAC,Sydney,Retail Store,Apparel,Cotton Hoodie,1,76.27,0.011,75.43,28.98,46.45,false
+ORD-11008,2024-11-27,CUST-0014,APAC,Mumbai,Mobile App,Electronics,Mechanical Keyboard,1,134.94,0.091,122.66,64.77,57.89,false
+ORD-11383,2024-11-28,CUST-0087,North America,San Francisco,Mobile App,Apparel,Denim Jacket,2,120.1,0.067,224.11,98.48,125.63,false
+ORD-10496,2024-11-29,CUST-0084,APAC,Tokyo,Web,Furniture,Ergonomic Chair,1,551.07,0.03,534.54,319.62,214.92,false
+ORD-10637,2024-11-29,CUST-0105,North America,Toronto,Web,Apparel,Wool Scarf,1,52.98,0.066,49.48,18.54,30.94,false
+ORD-11307,2024-11-29,CUST-0070,North America,Chicago,Mobile App,Office Supplies,Notebook A5,1,17.49,0.006,17.39,5.25,12.14,false
+ORD-10976,2024-11-30,CUST-0086,LATAM,Sao Paulo,Mobile App,Furniture,Bookshelf Unit,3,239.16,0.038,690.22,473.54,216.68,false
+ORD-10198,2024-12-01,CUST-0117,North America,New York,Mobile App,Electronics,Wireless Earbuds,1,190.96,0.056,180.27,99.3,80.97,false
+ORD-10451,2024-12-01,CUST-0016,North America,Toronto,Retail Store,Electronics,Mechanical Keyboard,5,148.85,0.0,744.25,357.24,387.01,false
+ORD-10678,2024-12-01,CUST-0072,North America,Vancouver,Partner Reseller,Office Supplies,Sticky Notes Set,4,8.48,0.061,31.85,8.14,23.71,false
+ORD-11467,2024-12-01,CUST-0117,North America,New York,Mobile App,Office Supplies,Sticky Notes Set,2,9.76,0.028,18.97,4.68,14.29,false
+ORD-10209,2024-12-05,CUST-0119,North America,Austin,Mobile App,Electronics,Mechanical Keyboard,3,143.01,0.046,409.29,205.93,203.36,false
+ORD-10424,2024-12-05,CUST-0013,North America,Austin,Web,Electronics,Mechanical Keyboard,1,149.88,0.105,134.14,71.94,62.2,false
+ORD-10149,2024-12-06,CUST-0098,APAC,Mumbai,Web,Office Supplies,Gel Pen Pack,3,13.65,0.146,34.97,10.65,24.32,false
+ORD-10573,2024-12-06,CUST-0026,APAC,Seoul,Mobile App,Office Supplies,Desk Organizer,1,36.06,0.098,32.53,12.98,19.55,false
+ORD-10711,2024-12-06,CUST-0082,LATAM,Sao Paulo,Web,Home & Kitchen,Chef Knife,1,148.82,0.067,138.85,62.5,76.35,false
+ORD-10430,2024-12-07,CUST-0055,APAC,Mumbai,Web,Electronics,Wireless Earbuds,3,174.05,0.076,482.47,271.52,210.95,false
+ORD-10439,2024-12-07,CUST-0012,EMEA,Berlin,Marketplace,Electronics,Mechanical Keyboard,1,153.95,0.208,121.93,73.9,48.03,false
+ORD-10818,2024-12-07,CUST-0063,North America,Toronto,Mobile App,Apparel,Running Shoes,2,144.68,0.028,281.26,127.32,153.94,false
+ORD-11088,2024-12-07,CUST-0081,EMEA,Amsterdam,Mobile App,Apparel,Running Shoes,1,154.1,0.048,146.7,67.8,78.9,false
+ORD-11142,2024-12-07,CUST-0138,APAC,Seoul,Web,Office Supplies,Sticky Notes Set,4,8.19,0.108,29.22,7.86,21.36,false
+ORD-11363,2024-12-07,CUST-0032,EMEA,Berlin,Retail Store,Electronics,Wireless Earbuds,1,172.37,0.168,143.41,89.63,53.78,false
+ORD-10131,2024-12-11,CUST-0126,EMEA,Amsterdam,Mobile App,Home & Kitchen,Chef Knife,1,144.29,0.02,141.4,60.6,80.8,false
+ORD-10636,2024-12-11,CUST-0122,LATAM,Bogota,Web,Office Supplies,Sticky Notes Set,1,9.64,0.114,8.54,2.31,6.23,false
+ORD-10824,2024-12-11,CUST-0004,EMEA,Amsterdam,Retail Store,Apparel,Cotton Hoodie,1,87.32,0.101,-78.5,-33.18,-45.32,true
+ORD-10518,2024-12-12,CUST-0123,EMEA,Amsterdam,Mobile App,Home & Kitchen,Coffee Grinder,1,149.07,0.101,134.01,73.04,60.97,false
+ORD-11196,2024-12-12,CUST-0075,EMEA,Dublin,Web,Apparel,Denim Jacket,4,110.55,0.018,434.24,181.3,252.94,false
+ORD-11222,2024-12-12,CUST-0110,North America,New York,Mobile App,Office Supplies,Desk Organizer,1,33.73,0.083,30.93,12.14,18.79,false
+ORD-11235,2024-12-12,CUST-0088,EMEA,Paris,Mobile App,Office Supplies,Gel Pen Pack,2,12.87,0.048,24.5,6.69,17.81,false
+ORD-11335,2024-12-12,CUST-0122,LATAM,Bogota,Mobile App,Office Supplies,Gel Pen Pack,1,13.1,0.048,12.47,3.41,9.06,false
+ORD-10531,2024-12-14,CUST-0042,North America,Chicago,Web,Electronics,Wireless Earbuds,1,205.69,0.092,186.77,106.96,79.81,false
+ORD-10688,2024-12-14,CUST-0081,EMEA,Amsterdam,Partner Reseller,Office Supplies,Gel Pen Pack,1,12.14,0.161,-10.19,-3.16,-7.03,true
+ORD-10886,2024-12-14,CUST-0136,North America,Toronto,Partner Reseller,Office Supplies,Gel Pen Pack,3,12.92,0.16,32.56,10.08,22.48,false
+ORD-10947,2024-12-15,CUST-0112,North America,New York,Partner Reseller,Office Supplies,Sticky Notes Set,3,10.1,0.122,26.6,7.27,19.33,false
+ORD-11132,2024-12-15,CUST-0011,EMEA,Madrid,Web,Apparel,Wool Scarf,1,51.72,0.131,44.94,18.1,26.84,false
+ORD-11373,2024-12-15,CUST-0037,North America,San Francisco,Web,Electronics,Smartphone X,1,1172.0,0.057,1105.2,867.28,237.92,false
+ORD-10787,2024-12-16,CUST-0003,North America,Toronto,Mobile App,Apparel,Cotton Hoodie,3,75.39,0.018,222.1,85.94,136.16,false
+ORD-11323,2024-12-16,CUST-0096,EMEA,London,Web,Office Supplies,Sticky Notes Set,2,10.32,0.122,18.12,4.95,13.17,false
+ORD-11263,2024-12-17,CUST-0054,APAC,Tokyo,Retail Store,Apparel,Running Shoes,2,147.06,0.136,254.12,129.41,124.71,false
+ORD-10363,2024-12-18,CUST-0137,North America,Toronto,Partner Reseller,Electronics,Mechanical Keyboard,1,122.7,0.106,109.69,58.9,50.79,false
+ORD-11053,2024-12-20,CUST-0039,EMEA,Amsterdam,Web,Apparel,Denim Jacket,2,128.75,0.038,-247.72,-105.57,-142.15,true
+ORD-11424,2024-12-20,CUST-0015,North America,San Francisco,Retail Store,Electronics,Smartphone X,4,1070.71,0.115,3790.31,3169.3,621.01,false
+ORD-10075,2024-12-21,CUST-0139,EMEA,Paris,Web,Apparel,Cotton Hoodie,3,86.12,0.026,251.64,98.18,153.46,false
+ORD-10192,2024-12-21,CUST-0067,EMEA,London,Marketplace,Electronics,Laptop Pro 14,1,1488.56,0.234,-1140.24,-1012.22,-128.02,true
+ORD-10558,2024-12-21,CUST-0078,EMEA,Berlin,Marketplace,Office Supplies,Gel Pen Pack,1,12.05,0.13,10.48,3.13,7.35,false
+ORD-10983,2024-12-21,CUST-0033,EMEA,Paris,Retail Store,Office Supplies,Gel Pen Pack,2,12.04,0.047,22.95,6.26,16.69,false
+ORD-11036,2024-12-21,CUST-0007,APAC,Seoul,Marketplace,Furniture,Bookshelf Unit,1,215.05,0.245,162.36,141.93,20.43,false
+ORD-11254,2024-12-21,CUST-0038,North America,San Francisco,Mobile App,Office Supplies,Sticky Notes Set,2,8.89,0.052,16.86,4.27,12.59,false
+ORD-11011,2024-12-22,CUST-0094,North America,Vancouver,Web,Office Supplies,Sticky Notes Set,1,9.59,0.131,8.33,2.3,6.03,false
+ORD-11302,2024-12-22,CUST-0094,North America,Vancouver,Web,Home & Kitchen,Coffee Grinder,1,157.29,0.078,145.02,77.07,67.95,false
+ORD-10552,2024-12-23,CUST-0007,APAC,Seoul,Mobile App,Office Supplies,Desk Organizer,1,40.04,0.049,38.08,14.41,23.67,false
+ORD-10936,2024-12-24,CUST-0078,EMEA,Berlin,Web,Office Supplies,Sticky Notes Set,5,7.99,0.117,35.28,9.59,25.69,false
+ORD-10337,2024-12-27,CUST-0104,APAC,Mumbai,Marketplace,Office Supplies,Gel Pen Pack,1,10.88,0.137,9.39,2.83,6.56,false
+ORD-10210,2024-12-28,CUST-0048,North America,New York,Web,Furniture,Standing Desk,2,744.5,0.097,1344.57,938.07,406.5,false
+ORD-10343,2024-12-28,CUST-0069,EMEA,Madrid,Partner Reseller,Electronics,Smartphone X,1,1100.03,0.081,1010.93,814.02,196.91,false
+ORD-11089,2024-12-28,CUST-0036,EMEA,Dublin,Web,Home & Kitchen,Chef Knife,3,121.59,0.108,325.37,153.2,172.17,false
+ORD-10847,2024-12-29,CUST-0100,North America,San Francisco,Retail Store,Office Supplies,Gel Pen Pack,1,13.16,0.116,11.63,3.42,8.21,false
+ORD-11108,2024-12-29,CUST-0080,North America,Chicago,Retail Store,Office Supplies,Gel Pen Pack,1,14.16,0.017,13.92,3.68,10.24,false
+ORD-11332,2024-12-31,CUST-0023,EMEA,Berlin,Web,Electronics,Mechanical Keyboard,1,146.63,0.148,124.93,70.38,54.55,false
+ORD-10862,2025-01-01,CUST-0057,North America,Vancouver,Web,Apparel,Running Shoes,3,155.1,0.116,411.33,204.73,206.6,false
+ORD-11157,2025-01-01,CUST-0019,North America,San Francisco,Marketplace,Office Supplies,Gel Pen Pack,3,11.46,0.2,27.5,8.94,18.56,false
+ORD-10212,2025-01-02,CUST-0125,EMEA,Berlin,Web,Apparel,Running Shoes,1,123.41,0.09,-112.3,-54.3,-58.0,true
+ORD-10228,2025-01-04,CUST-0023,EMEA,Berlin,Mobile App,Apparel,Denim Jacket,1,105.64,0.02,103.53,43.31,60.22,false
+ORD-10382,2025-01-04,CUST-0107,APAC,Sydney,Web,Office Supplies,Sticky Notes Set,2,9.35,0.11,16.64,4.49,12.15,false
+ORD-10620,2025-01-04,CUST-0063,North America,Toronto,Mobile App,Electronics,Smartphone X,1,1119.41,0.05,1063.44,828.36,235.08,false
+ORD-11429,2025-01-04,CUST-0023,EMEA,Berlin,Mobile App,Office Supplies,Sticky Notes Set,2,8.12,0.113,14.4,3.9,10.5,false
+ORD-10950,2025-01-05,CUST-0065,North America,San Francisco,Mobile App,Office Supplies,Sticky Notes Set,1,9.45,0.039,9.08,2.27,6.81,false
+ORD-11096,2025-01-05,CUST-0067,EMEA,London,Web,Furniture,Bookshelf Unit,1,219.71,0.059,206.75,145.01,61.74,false
+ORD-10851,2025-01-07,CUST-0079,North America,Austin,Marketplace,Office Supplies,Sticky Notes Set,2,9.15,0.162,15.34,4.39,10.95,false
+ORD-11024,2025-01-07,CUST-0134,LATAM,Mexico City,Retail Store,Apparel,Denim Jacket,1,134.52,0.077,124.16,55.15,69.01,false
+ORD-10013,2025-01-09,CUST-0070,North America,Chicago,Retail Store,Office Supplies,Gel Pen Pack,2,13.46,0.149,22.91,7.0,15.91,false
+ORD-10015,2025-01-09,CUST-0102,APAC,Sydney,Mobile App,Electronics,4K Monitor 27,2,464.05,0.07,863.13,658.95,204.18,false
+ORD-10381,2025-01-10,CUST-0019,North America,San Francisco,Marketplace,Electronics,Mechanical Keyboard,5,157.02,0.174,648.49,376.85,271.64,false
+ORD-10577,2025-01-11,CUST-0097,APAC,Singapore,Web,Home & Kitchen,Ceramic Cookware Set,6,322.78,0.097,1748.82,1084.54,664.28,false
+ORD-10579,2025-01-11,CUST-0031,EMEA,Paris,Marketplace,Electronics,4K Monitor 27,5,483.99,0.179,1986.78,1718.16,268.62,false
+ORD-11005,2025-01-11,CUST-0104,APAC,Mumbai,Marketplace,Home & Kitchen,Chef Knife,1,136.46,0.101,122.68,57.31,65.37,false
+ORD-10175,2025-01-12,CUST-0125,EMEA,Berlin,Marketplace,Apparel,Cotton Hoodie,3,86.84,0.172,215.71,99.0,116.71,false
+ORD-10803,2025-01-12,CUST-0068,EMEA,Paris,Mobile App,Office Supplies,Gel Pen Pack,1,10.77,0.098,9.71,2.8,6.91,false
+ORD-11272,2025-01-12,CUST-0028,APAC,Mumbai,Mobile App,Apparel,Cotton Hoodie,3,71.11,0.01,211.2,81.07,130.13,false
+ORD-10521,2025-01-13,CUST-0004,EMEA,Amsterdam,Partner Reseller,Apparel,Running Shoes,4,125.97,0.145,430.82,221.71,209.11,false
+ORD-11044,2025-01-13,CUST-0087,North America,San Francisco,Web,Office Supplies,Sticky Notes Set,1,8.71,0.063,8.16,2.09,6.07,false
+ORD-11282,2025-01-13,CUST-0072,North America,Vancouver,Retail Store,Apparel,Denim Jacket,1,123.83,0.065,115.78,50.77,65.01,false
+ORD-11184,2025-01-14,CUST-0027,North America,Toronto,Web,Office Supplies,Notebook A5,1,18.93,0.085,17.32,5.68,11.64,false
+ORD-10822,2025-01-15,CUST-0028,APAC,Mumbai,Retail Store,Office Supplies,Notebook A5,4,16.89,0.073,62.63,20.27,42.36,false
+ORD-10508,2025-01-16,CUST-0125,EMEA,Berlin,Mobile App,Office Supplies,Sticky Notes Set,2,10.15,0.108,18.11,4.87,13.24,false
+ORD-11299,2025-01-16,CUST-0020,APAC,Seoul,Web,Office Supplies,Desk Organizer,3,32.03,0.047,91.57,34.59,56.98,false
+ORD-10592,2025-01-17,CUST-0028,APAC,Mumbai,Web,Office Supplies,Notebook A5,4,20.48,0.068,76.35,24.58,51.77,false
+ORD-10680,2025-01-17,CUST-0124,EMEA,London,Web,Office Supplies,Gel Pen Pack,1,13.88,0.088,-12.66,-3.61,-9.05,true
+ORD-11090,2025-01-17,CUST-0110,North America,New York,Mobile App,Office Supplies,Gel Pen Pack,1,11.33,0.06,10.65,2.95,7.7,false
+ORD-11253,2025-01-17,CUST-0096,EMEA,London,Web,Office Supplies,Gel Pen Pack,2,12.03,0.087,21.97,6.26,15.71,false
+ORD-11190,2025-01-18,CUST-0055,APAC,Mumbai,Mobile App,Apparel,Running Shoes,1,160.04,0.115,141.64,70.42,71.22,false
+ORD-11477,2025-01-18,CUST-0047,North America,Toronto,Mobile App,Home & Kitchen,Air Purifier,1,383.52,0.098,345.94,233.95,111.99,false
+ORD-11027,2025-01-21,CUST-0009,North America,Chicago,Web,Apparel,Cotton Hoodie,5,73.28,0.071,340.39,139.23,201.16,false
+ORD-11406,2025-01-21,CUST-0061,EMEA,Paris,Mobile App,Apparel,Denim Jacket,8,117.91,0.006,937.62,386.74,550.88,false
+ORD-11444,2025-01-22,CUST-0019,North America,San Francisco,Mobile App,Home & Kitchen,Coffee Grinder,3,135.51,0.1,365.88,199.2,166.68,false
+ORD-11456,2025-01-23,CUST-0109,North America,Austin,Marketplace,Furniture,Standing Desk,1,719.08,0.195,578.86,453.02,125.84,false
+ORD-11204,2025-01-24,CUST-0070,North America,Chicago,Retail Store,Office Supplies,Gel Pen Pack,4,13.38,0.081,49.18,13.92,35.26,false
+ORD-10305,2025-01-25,CUST-0008,APAC,Seoul,Web,Apparel,Running Shoes,1,155.58,0.082,142.82,68.46,74.36,false
+ORD-10743,2025-01-25,CUST-0112,North America,New York,Web,Office Supplies,Notebook A5,1,17.23,0.111,15.32,5.17,10.15,false
+ORD-11231,2025-01-26,CUST-0114,North America,Chicago,Web,Office Supplies,Notebook A5,1,20.75,0.068,19.34,6.22,13.12,false
+ORD-11072,2025-01-28,CUST-0059,North America,Austin,Web,Electronics,Wireless Earbuds,2,171.45,0.108,305.87,178.31,127.56,false
+ORD-10276,2025-01-29,CUST-0014,APAC,Mumbai,Mobile App,Electronics,Mechanical Keyboard,1,143.0,0.02,140.14,68.64,71.5,false
+ORD-10693,2025-01-30,CUST-0060,North America,Toronto,Mobile App,Apparel,Running Shoes,1,122.78,0.039,117.99,54.02,63.97,false
+ORD-10048,2025-01-31,CUST-0087,North America,San Francisco,Marketplace,Office Supplies,Notebook A5,1,18.6,0.192,15.03,5.58,9.45,false
+ORD-10318,2025-02-01,CUST-0117,North America,New York,Marketplace,Home & Kitchen,Coffee Grinder,1,174.41,0.207,138.31,85.46,52.85,false
+ORD-10770,2025-02-02,CUST-0137,North America,Toronto,Mobile App,Office Supplies,Sticky Notes Set,2,8.62,0.082,15.83,4.14,11.69,false
+ORD-11349,2025-02-02,CUST-0085,North America,Vancouver,Web,Electronics,Smartphone X,1,977.65,0.037,941.48,723.46,218.02,false
+ORD-10555,2025-02-03,CUST-0026,APAC,Seoul,Marketplace,Office Supplies,Notebook A5,1,19.59,0.233,15.03,5.88,9.15,false
+ORD-10705,2025-02-03,CUST-0114,North America,Chicago,Marketplace,Electronics,Laptop Pro 14,3,1505.08,0.155,3815.38,3070.36,745.02,false
+ORD-11101,2025-02-03,CUST-0058,APAC,Mumbai,Retail Store,Apparel,Cotton Hoodie,2,87.72,0.106,156.84,66.67,90.17,false
+ORD-10694,2025-02-04,CUST-0029,North America,Chicago,Marketplace,Electronics,4K Monitor 27,1,493.81,0.121,434.06,350.61,83.45,false
+ORD-10163,2025-02-05,CUST-0090,APAC,Singapore,Web,Apparel,Running Shoes,2,155.71,0.138,268.44,137.02,131.42,false
+ORD-10443,2025-02-05,CUST-0115,North America,Toronto,Retail Store,Office Supplies,Gel Pen Pack,3,12.98,0.107,34.77,10.12,24.65,false
+ORD-10087,2025-02-06,CUST-0062,EMEA,Dublin,Web,Furniture,Standing Desk,2,800.15,0.098,1443.47,1008.19,435.28,false
+ORD-10652,2025-02-06,CUST-0020,APAC,Seoul,Retail Store,Office Supplies,Sticky Notes Set,1,8.25,0.194,6.65,1.98,4.67,false
+ORD-11009,2025-02-06,CUST-0099,APAC,Mumbai,Retail Store,Office Supplies,Gel Pen Pack,1,10.84,0.121,9.53,2.82,6.71,false
+ORD-10751,2025-02-07,CUST-0083,North America,San Francisco,Retail Store,Office Supplies,Desk Organizer,4,37.16,0.092,134.97,53.51,81.46,false
+ORD-11485,2025-02-07,CUST-0084,APAC,Tokyo,Retail Store,Apparel,Cotton Hoodie,1,74.65,0.035,72.04,28.37,43.67,false
+ORD-10543,2025-02-08,CUST-0027,North America,Toronto,Web,Office Supplies,Sticky Notes Set,1,8.46,0.03,8.21,2.03,6.18,false
+ORD-10681,2025-02-09,CUST-0109,North America,Austin,Partner Reseller,Home & Kitchen,Chef Knife,1,134.83,0.067,125.8,56.63,69.17,false
+ORD-11313,2025-02-09,CUST-0005,APAC,Sydney,Web,Home & Kitchen,Ceramic Cookware Set,1,305.19,0.056,288.1,170.91,117.19,false
+ORD-11329,2025-02-09,CUST-0104,APAC,Mumbai,Web,Apparel,Cotton Hoodie,3,77.49,0.09,211.55,88.34,123.21,false
+ORD-10248,2025-02-10,CUST-0002,EMEA,Dublin,Retail Store,Office Supplies,Desk Organizer,1,36.52,0.122,32.06,13.15,18.91,false
+ORD-10358,2025-02-10,CUST-0017,North America,Chicago,Web,Home & Kitchen,Air Purifier,3,403.47,0.149,1030.06,738.35,291.71,false
+ORD-11146,2025-02-10,CUST-0099,APAC,Mumbai,Retail Store,Electronics,Mechanical Keyboard,4,134.58,0.114,476.95,258.39,218.56,false
+ORD-10799,2025-02-11,CUST-0137,North America,Toronto,Web,Office Supplies,Sticky Notes Set,3,8.96,0.117,23.74,6.45,17.29,false
+ORD-10545,2025-02-13,CUST-0104,APAC,Mumbai,Web,Home & Kitchen,Chef Knife,1,118.25,0.073,109.62,49.66,59.96,false
+ORD-11327,2025-02-13,CUST-0085,North America,Vancouver,Marketplace,Apparel,Cotton Hoodie,6,85.23,0.235,391.21,194.32,196.89,false
+ORD-11411,2025-02-13,CUST-0076,EMEA,Dublin,Marketplace,Office Supplies,Gel Pen Pack,2,11.67,0.14,-20.07,-6.07,-14.0,true
+ORD-10034,2025-02-14,CUST-0008,APAC,Seoul,Web,Electronics,4K Monitor 27,1,397.78,0.047,379.08,282.42,96.66,false
+ORD-10154,2025-02-14,CUST-0108,North America,Toronto,Web,Office Supplies,Sticky Notes Set,5,9.37,0.096,42.35,11.24,31.11,false
+ORD-11174,2025-02-15,CUST-0037,North America,San Francisco,Web,Office Supplies,Desk Organizer,5,36.86,0.107,164.58,66.35,98.23,false
+ORD-10238,2025-02-16,CUST-0103,LATAM,Sao Paulo,Web,Electronics,Mechanical Keyboard,1,153.42,0.138,132.25,73.64,58.61,false
+ORD-10262,2025-02-17,CUST-0058,APAC,Mumbai,Marketplace,Office Supplies,Notebook A5,2,17.68,0.153,29.95,10.61,19.34,false
+ORD-10544,2025-02-17,CUST-0109,North America,Austin,Marketplace,Office Supplies,Gel Pen Pack,2,11.54,0.238,17.59,6.0,11.59,false
+ORD-10624,2025-02-17,CUST-0053,EMEA,Berlin,Mobile App,Home & Kitchen,Chef Knife,1,126.88,0.097,114.57,53.29,61.28,false
+ORD-11439,2025-02-17,CUST-0015,North America,San Francisco,Partner Reseller,Apparel,Denim Jacket,1,118.93,0.065,111.2,48.76,62.44,false
+ORD-10339,2025-02-20,CUST-0019,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,2,11.49,0.081,21.12,5.97,15.15,false
+ORD-10659,2025-02-20,CUST-0133,EMEA,Dublin,Marketplace,Apparel,Running Shoes,4,131.68,0.136,455.09,231.76,223.33,false
+ORD-11279,2025-02-20,CUST-0111,North America,New York,Mobile App,Electronics,Wireless Earbuds,1,196.53,0.045,187.69,102.2,85.49,false
+ORD-10303,2025-02-21,CUST-0104,APAC,Mumbai,Marketplace,Apparel,Cotton Hoodie,2,84.72,0.204,134.87,64.39,70.48,false
+ORD-10928,2025-02-21,CUST-0019,North America,San Francisco,Partner Reseller,Apparel,Denim Jacket,3,123.58,0.075,342.93,152.0,190.93,false
+ORD-10963,2025-02-21,CUST-0036,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,1,9.02,0.076,8.33,2.16,6.17,false
+ORD-11197,2025-02-23,CUST-0121,APAC,Singapore,Retail Store,Office Supplies,Gel Pen Pack,1,10.97,0.189,8.9,2.85,6.05,false
+ORD-10910,2025-02-24,CUST-0007,APAC,Seoul,Marketplace,Home & Kitchen,Air Purifier,2,377.61,0.129,657.8,460.68,197.12,false
+ORD-10472,2025-02-25,CUST-0027,North America,Toronto,Marketplace,Office Supplies,Gel Pen Pack,1,10.68,0.204,8.5,2.78,5.72,false
+ORD-11193,2025-02-25,CUST-0063,North America,Toronto,Partner Reseller,Office Supplies,Notebook A5,1,22.04,0.13,19.17,6.61,12.56,false
+ORD-11191,2025-02-26,CUST-0056,APAC,Singapore,Marketplace,Apparel,Wool Scarf,5,49.47,0.269,-180.81,-86.57,-94.24,true
+ORD-10101,2025-02-27,CUST-0121,APAC,Singapore,Web,Electronics,Mechanical Keyboard,2,161.06,0.061,302.47,154.62,147.85,false
+ORD-10122,2025-02-27,CUST-0016,North America,Toronto,Marketplace,Office Supplies,Desk Organizer,1,36.84,0.191,-29.8,-13.26,-16.54,true
+ORD-10224,2025-02-27,CUST-0097,APAC,Singapore,Retail Store,Apparel,Running Shoes,3,146.42,0.152,372.49,193.27,179.22,false
+ORD-11023,2025-02-27,CUST-0049,North America,Austin,Partner Reseller,Furniture,Ergonomic Chair,1,555.52,0.062,521.08,322.2,198.88,false
+ORD-10772,2025-03-04,CUST-0047,North America,Toronto,Mobile App,Apparel,Running Shoes,1,162.04,0.062,151.99,71.3,80.69,false
+ORD-10980,2025-03-04,CUST-0098,APAC,Mumbai,Web,Office Supplies,Notebook A5,2,22.16,0.132,38.47,13.3,25.17,false
+ORD-10061,2025-03-05,CUST-0118,North America,San Francisco,Mobile App,Electronics,Mechanical Keyboard,2,148.67,0.069,276.82,142.72,134.1,false
+ORD-10349,2025-03-05,CUST-0096,EMEA,London,Mobile App,Apparel,Running Shoes,2,163.16,0.082,299.56,143.58,155.98,false
+ORD-10421,2025-03-05,CUST-0115,North America,Toronto,Retail Store,Apparel,Cotton Hoodie,6,69.6,0.153,-353.71,-158.69,-195.02,true
+ORD-10850,2025-03-06,CUST-0043,EMEA,Amsterdam,Web,Office Supplies,Notebook A5,1,20.59,0.143,17.65,6.18,11.47,false
+ORD-10024,2025-03-07,CUST-0017,North America,Chicago,Mobile App,Apparel,Denim Jacket,1,122.71,0.113,-108.84,-50.31,-58.53,true
+ORD-10148,2025-03-07,CUST-0020,APAC,Seoul,Marketplace,Apparel,Wool Scarf,2,52.19,0.172,86.43,36.53,49.9,false
+ORD-10351,2025-03-07,CUST-0133,EMEA,Dublin,Mobile App,Office Supplies,Gel Pen Pack,1,13.65,0.006,13.57,3.55,10.02,false
+ORD-10750,2025-03-08,CUST-0090,APAC,Singapore,Mobile App,Office Supplies,Gel Pen Pack,1,13.07,0.023,12.77,3.4,9.37,false
+ORD-10764,2025-03-08,CUST-0066,EMEA,Amsterdam,Web,Furniture,Bookshelf Unit,1,254.79,0.101,229.06,168.16,60.9,false
+ORD-10966,2025-03-08,CUST-0103,LATAM,Sao Paulo,Web,Office Supplies,Notebook A5,1,21.42,0.05,20.35,6.43,13.92,false
+ORD-11340,2025-03-08,CUST-0048,North America,New York,Partner Reseller,Electronics,Mechanical Keyboard,1,142.62,0.178,117.23,68.46,48.77,false
+ORD-10165,2025-03-09,CUST-0138,APAC,Seoul,Partner Reseller,Office Supplies,Desk Organizer,2,34.91,0.068,65.07,25.14,39.93,false
+ORD-10234,2025-03-09,CUST-0112,North America,New York,Web,Furniture,Bookshelf Unit,2,213.73,0.109,380.87,282.12,98.75,false
+ORD-11247,2025-03-09,CUST-0096,EMEA,London,Web,Electronics,4K Monitor 27,3,493.16,0.045,1412.9,1050.43,362.47,false
+ORD-11042,2025-03-10,CUST-0099,APAC,Mumbai,Web,Office Supplies,Notebook A5,6,20.75,0.039,119.64,37.35,82.29,false
+ORD-10919,2025-03-11,CUST-0073,APAC,Singapore,Web,Apparel,Running Shoes,1,149.22,0.134,129.22,65.66,63.56,false
+ORD-11038,2025-03-11,CUST-0080,North America,Chicago,Web,Apparel,Denim Jacket,6,119.78,0.025,700.71,294.66,406.05,false
+ORD-10598,2025-03-12,CUST-0132,North America,Vancouver,Web,Apparel,Running Shoes,2,128.79,0.074,238.52,113.34,125.18,false
+ORD-10790,2025-03-12,CUST-0052,EMEA,London,Mobile App,Electronics,Laptop Pro 14,1,1389.92,0.028,1351.0,945.15,405.85,false
+ORD-10974,2025-03-12,CUST-0134,LATAM,Mexico City,Retail Store,Electronics,4K Monitor 27,3,495.82,0.024,1451.76,1056.1,395.66,false
+ORD-10846,2025-03-14,CUST-0077,North America,Chicago,Mobile App,Electronics,Wireless Earbuds,1,194.51,0.019,190.81,101.15,89.66,false
+ORD-11428,2025-03-14,CUST-0012,EMEA,Berlin,Marketplace,Office Supplies,Notebook A5,1,21.55,0.268,15.77,6.46,9.31,false
+ORD-10993,2025-03-15,CUST-0105,North America,Toronto,Retail Store,Office Supplies,Gel Pen Pack,2,11.44,0.003,22.81,5.95,16.86,false
+ORD-10858,2025-03-16,CUST-0101,North America,San Francisco,Retail Store,Furniture,Bookshelf Unit,3,230.68,0.026,674.05,456.75,217.3,false
+ORD-11214,2025-03-16,CUST-0115,North America,Toronto,Web,Electronics,Smartphone X,2,1153.75,0.054,2182.89,1707.55,475.34,false
+ORD-10328,2025-03-17,CUST-0095,APAC,Seoul,Mobile App,Office Supplies,Desk Organizer,5,34.84,0.092,158.17,62.71,95.46,false
+ORD-10477,2025-03-17,CUST-0028,APAC,Mumbai,Web,Home & Kitchen,Chef Knife,1,135.63,0.038,130.48,56.96,73.52,false
+ORD-10550,2025-03-17,CUST-0100,North America,San Francisco,Marketplace,Office Supplies,Notebook A5,2,20.63,0.194,33.26,12.38,20.88,false
+ORD-10917,2025-03-18,CUST-0006,North America,New York,Marketplace,Electronics,Mechanical Keyboard,1,153.25,0.189,124.29,73.56,50.73,false
+ORD-10079,2025-03-19,CUST-0015,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,13.93,0.034,13.46,3.62,9.84,false
+ORD-10977,2025-03-19,CUST-0134,LATAM,Mexico City,Marketplace,Apparel,Wool Scarf,4,43.64,0.207,-138.43,-61.1,-77.33,true
+ORD-10138,2025-03-20,CUST-0085,North America,Vancouver,Web,Office Supplies,Sticky Notes Set,2,8.03,0.032,15.55,3.85,11.7,false
+ORD-10806,2025-03-20,CUST-0123,EMEA,Amsterdam,Web,Electronics,Wireless Earbuds,4,167.66,0.074,621.01,348.73,272.28,false
+ORD-11025,2025-03-20,CUST-0074,EMEA,Dublin,Mobile App,Furniture,Bookshelf Unit,4,244.91,0.011,968.86,646.56,322.3,false
+ORD-10449,2025-03-21,CUST-0088,EMEA,Paris,Marketplace,Office Supplies,Notebook A5,1,22.03,0.195,17.73,6.61,11.12,false
+ORD-11029,2025-03-21,CUST-0122,LATAM,Bogota,Web,Office Supplies,Gel Pen Pack,1,13.0,0.045,12.41,3.38,9.03,false
+ORD-10041,2025-03-22,CUST-0135,EMEA,Amsterdam,Marketplace,Electronics,Mechanical Keyboard,1,154.81,0.095,140.1,74.31,65.79,false
+ORD-11123,2025-03-22,CUST-0022,EMEA,London,Web,Home & Kitchen,Ceramic Cookware Set,4,319.65,0.077,1180.15,716.02,464.13,false
+ORD-10909,2025-03-23,CUST-0135,EMEA,Amsterdam,Partner Reseller,Apparel,Cotton Hoodie,3,80.62,0.106,216.22,91.91,124.31,false
+ORD-11050,2025-03-23,CUST-0048,North America,New York,Mobile App,Apparel,Denim Jacket,5,128.93,0.033,623.38,264.31,359.07,false
+ORD-11291,2025-03-23,CUST-0031,EMEA,Paris,Marketplace,Electronics,Laptop Pro 14,8,1159.11,0.094,8401.23,6305.56,2095.67,false
+ORD-11375,2025-03-23,CUST-0001,EMEA,London,Marketplace,Apparel,Cotton Hoodie,4,87.26,0.185,284.47,132.64,151.83,false
+ORD-10938,2025-03-24,CUST-0095,APAC,Seoul,Retail Store,Apparel,Running Shoes,1,126.16,0.002,125.91,55.51,70.4,false
+ORD-10321,2025-03-26,CUST-0020,APAC,Seoul,Web,Office Supplies,Gel Pen Pack,1,12.73,0.123,11.16,3.31,7.85,false
+ORD-10632,2025-03-26,CUST-0126,EMEA,Amsterdam,Web,Office Supplies,Gel Pen Pack,2,12.31,0.069,22.92,6.4,16.52,false
+ORD-10169,2025-03-27,CUST-0109,North America,Austin,Marketplace,Electronics,Mechanical Keyboard,1,163.99,0.17,136.11,78.72,57.39,false
+ORD-11451,2025-03-27,CUST-0073,APAC,Singapore,Partner Reseller,Apparel,Cotton Hoodie,4,86.73,0.149,295.23,131.83,163.4,false
+ORD-10664,2025-03-28,CUST-0111,North America,New York,Mobile App,Electronics,Smartphone X,1,993.44,0.011,982.51,735.15,247.36,false
+ORD-10838,2025-03-28,CUST-0036,EMEA,Dublin,Mobile App,Home & Kitchen,Ceramic Cookware Set,1,269.51,0.049,256.3,150.93,105.37,false
+ORD-10621,2025-03-29,CUST-0003,North America,Toronto,Web,Office Supplies,Gel Pen Pack,1,12.01,0.116,10.62,3.12,7.5,false
+ORD-10026,2025-03-30,CUST-0021,North America,New York,Web,Apparel,Cotton Hoodie,2,83.39,0.107,148.93,63.38,85.55,false
+ORD-10682,2025-03-31,CUST-0059,North America,Austin,Marketplace,Office Supplies,Gel Pen Pack,1,12.24,0.162,10.26,3.18,7.08,false
+ORD-10300,2025-04-01,CUST-0076,EMEA,Dublin,Mobile App,Home & Kitchen,Coffee Grinder,6,138.6,0.115,735.97,407.48,328.49,false
+ORD-10278,2025-04-03,CUST-0128,North America,San Francisco,Mobile App,Apparel,Cotton Hoodie,2,71.95,0.049,136.85,54.68,82.17,false
+ORD-10611,2025-04-04,CUST-0006,North America,New York,Mobile App,Electronics,Smartphone X,1,1031.26,0.071,958.04,763.13,194.91,false
+ORD-10628,2025-04-04,CUST-0002,EMEA,Dublin,Retail Store,Apparel,Wool Scarf,8,51.43,0.179,337.79,144.0,193.79,false
+ORD-10660,2025-04-04,CUST-0101,North America,San Francisco,Mobile App,Furniture,Ergonomic Chair,1,604.58,0.117,533.84,350.66,183.18,false
+ORD-11337,2025-04-04,CUST-0019,North America,San Francisco,Web,Apparel,Cotton Hoodie,1,80.93,0.061,75.99,30.75,45.24,false
+ORD-10161,2025-04-05,CUST-0100,North America,San Francisco,Web,Electronics,Wireless Earbuds,3,200.27,0.087,548.54,312.42,236.12,false
+ORD-10549,2025-04-05,CUST-0097,APAC,Singapore,Web,Apparel,Cotton Hoodie,2,87.99,0.133,152.57,66.87,85.7,false
+ORD-11377,2025-04-05,CUST-0071,North America,Chicago,Web,Office Supplies,Sticky Notes Set,2,9.1,0.02,17.84,4.37,13.47,false
+ORD-10143,2025-04-06,CUST-0092,APAC,Sydney,Web,Office Supplies,Gel Pen Pack,2,11.93,0.116,21.09,6.2,14.89,false
+ORD-10166,2025-04-06,CUST-0092,APAC,Sydney,Web,Home & Kitchen,Air Purifier,1,407.86,0.098,367.89,248.79,119.1,false
+ORD-10357,2025-04-06,CUST-0048,North America,New York,Web,Office Supplies,Notebook A5,1,20.96,0.112,18.61,6.29,12.32,false
+ORD-10045,2025-04-07,CUST-0095,APAC,Seoul,Retail Store,Office Supplies,Notebook A5,4,20.23,0.101,72.75,24.28,48.47,false
+ORD-10225,2025-04-07,CUST-0009,North America,Chicago,Partner Reseller,Apparel,Cotton Hoodie,1,73.55,0.099,66.27,27.95,38.32,false
+ORD-10417,2025-04-07,CUST-0129,North America,New York,Partner Reseller,Electronics,Mechanical Keyboard,2,127.96,0.104,229.3,122.84,106.46,false
+ORD-10692,2025-04-07,CUST-0078,EMEA,Berlin,Mobile App,Electronics,Laptop Pro 14,1,1411.63,0.059,1328.34,959.91,368.43,false
+ORD-11269,2025-04-07,CUST-0042,North America,Chicago,Mobile App,Electronics,Smartphone X,2,1169.4,0.009,2317.75,1730.71,587.04,false
+ORD-11434,2025-04-07,CUST-0005,APAC,Sydney,Web,Office Supplies,Notebook A5,2,20.75,0.12,36.52,12.45,24.07,false
+ORD-10018,2025-04-09,CUST-0139,EMEA,Paris,Web,Apparel,Denim Jacket,1,108.26,0.073,100.36,44.39,55.97,false
+ORD-10574,2025-04-09,CUST-0014,APAC,Mumbai,Mobile App,Office Supplies,Notebook A5,2,16.74,0.024,32.68,10.04,22.64,false
+ORD-10904,2025-04-09,CUST-0073,APAC,Singapore,Mobile App,Office Supplies,Notebook A5,1,18.73,0.1,-16.86,-5.62,-11.24,true
+ORD-10633,2025-04-11,CUST-0041,EMEA,Dublin,Partner Reseller,Home & Kitchen,Air Purifier,2,390.01,0.066,728.54,475.81,252.73,false
+ORD-10920,2025-04-14,CUST-0041,EMEA,Dublin,Mobile App,Apparel,Wool Scarf,1,53.5,0.047,50.99,18.72,32.27,false
+ORD-10554,2025-04-16,CUST-0109,North America,Austin,Web,Office Supplies,Sticky Notes Set,2,9.51,0.148,16.21,4.56,11.65,false
+ORD-11188,2025-04-16,CUST-0114,North America,Chicago,Web,Home & Kitchen,Air Purifier,2,357.85,0.079,659.16,436.58,222.58,false
+ORD-10701,2025-04-17,CUST-0103,LATAM,Sao Paulo,Web,Office Supplies,Gel Pen Pack,1,13.86,0.049,13.18,3.6,9.58,false
+ORD-10998,2025-04-17,CUST-0132,North America,Vancouver,Marketplace,Office Supplies,Sticky Notes Set,5,9.07,0.096,41.0,10.88,30.12,false
+ORD-10114,2025-04-18,CUST-0079,North America,Austin,Retail Store,Office Supplies,Gel Pen Pack,3,12.64,0.009,37.58,9.86,27.72,false
+ORD-10561,2025-04-18,CUST-0039,EMEA,Amsterdam,Retail Store,Office Supplies,Sticky Notes Set,1,10.24,0.182,8.38,2.46,5.92,false
+ORD-10157,2025-04-19,CUST-0129,North America,New York,Mobile App,Electronics,Mechanical Keyboard,1,160.71,0.01,159.1,77.14,81.96,false
+ORD-11500,2025-04-19,CUST-0137,North America,Toronto,Mobile App,Electronics,4K Monitor 27,1,436.21,0.094,395.21,309.71,85.5,false
+ORD-11060,2025-04-20,CUST-0026,APAC,Seoul,Partner Reseller,Apparel,Denim Jacket,1,127.44,0.13,110.87,52.25,58.62,false
+ORD-11217,2025-04-20,CUST-0037,North America,San Francisco,Partner Reseller,Office Supplies,Gel Pen Pack,4,13.4,0.1,48.24,13.94,34.3,false
+ORD-10085,2025-04-22,CUST-0116,North America,Toronto,Web,Furniture,Ergonomic Chair,1,584.47,0.037,562.84,338.99,223.85,false
+ORD-10672,2025-04-22,CUST-0062,EMEA,Dublin,Retail Store,Office Supplies,Sticky Notes Set,3,8.93,0.08,24.65,6.43,18.22,false
+ORD-10445,2025-04-26,CUST-0058,APAC,Mumbai,Web,Electronics,Mechanical Keyboard,1,129.97,0.138,112.03,62.39,49.64,false
+ORD-10719,2025-04-27,CUST-0130,EMEA,Dublin,Web,Office Supplies,Gel Pen Pack,6,12.3,0.114,65.39,19.19,46.2,false
+ORD-11219,2025-04-28,CUST-0087,North America,San Francisco,Web,Furniture,Standing Desk,4,794.16,0.042,3043.22,2001.28,1041.94,false
+ORD-10996,2025-04-29,CUST-0060,North America,Toronto,Mobile App,Electronics,4K Monitor 27,3,484.9,0.004,1448.88,1032.84,416.04,false
+ORD-11015,2025-04-29,CUST-0140,LATAM,Mexico City,Web,Office Supplies,Notebook A5,5,17.59,0.11,78.28,26.39,51.89,false
+ORD-11198,2025-04-29,CUST-0044,North America,San Francisco,Partner Reseller,Office Supplies,Desk Organizer,1,34.42,0.124,30.15,12.39,17.76,false
+ORD-10607,2025-04-30,CUST-0030,EMEA,London,Marketplace,Electronics,Wireless Earbuds,6,182.84,0.252,820.59,570.46,250.13,false
+ORD-10736,2025-05-01,CUST-0049,North America,Austin,Partner Reseller,Electronics,Smartphone X,1,1069.06,0.164,893.73,791.1,102.63,false
+ORD-10924,2025-05-02,CUST-0060,North America,Toronto,Marketplace,Home & Kitchen,Ceramic Cookware Set,1,320.83,0.115,283.93,179.66,104.27,false
+ORD-11486,2025-05-02,CUST-0135,EMEA,Amsterdam,Mobile App,Electronics,Mechanical Keyboard,1,122.99,0.074,113.89,59.04,54.85,false
+ORD-10065,2025-05-05,CUST-0035,EMEA,Berlin,Mobile App,Electronics,Mechanical Keyboard,1,124.15,0.024,-121.17,-59.59,-61.58,true
+ORD-10791,2025-05-05,CUST-0110,North America,New York,Web,Office Supplies,Gel Pen Pack,1,11.82,0.063,11.08,3.07,8.01,false
+ORD-10811,2025-05-05,CUST-0015,North America,San Francisco,Mobile App,Office Supplies,Gel Pen Pack,1,10.72,0.065,10.02,2.79,7.23,false
+ORD-11277,2025-05-05,CUST-0045,North America,Toronto,Mobile App,Apparel,Denim Jacket,3,109.94,0.015,324.87,135.23,189.64,false
+ORD-10094,2025-05-06,CUST-0098,APAC,Mumbai,Web,Electronics,Smartphone X,6,912.06,0.003,5455.94,4049.55,1406.39,false
+ORD-10757,2025-05-06,CUST-0025,North America,Chicago,Mobile App,Office Supplies,Notebook A5,2,19.19,0.069,35.73,11.51,24.22,false
+ORD-11245,2025-05-06,CUST-0074,EMEA,Dublin,Partner Reseller,Office Supplies,Desk Organizer,1,31.01,0.05,-29.46,-11.16,-18.3,true
+ORD-11249,2025-05-06,CUST-0040,APAC,Singapore,Web,Furniture,Standing Desk,1,705.81,0.07,656.4,444.66,211.74,false
+ORD-10083,2025-05-09,CUST-0104,APAC,Mumbai,Web,Apparel,Cotton Hoodie,1,81.0,0.031,78.49,30.78,47.71,false
+ORD-10332,2025-05-09,CUST-0124,EMEA,London,Web,Furniture,Standing Desk,3,769.41,0.128,2012.78,1454.18,558.6,false
+ORD-10899,2025-05-10,CUST-0133,EMEA,Dublin,Partner Reseller,Office Supplies,Notebook A5,4,20.48,0.068,76.35,24.58,51.77,false
+ORD-10376,2025-05-11,CUST-0076,EMEA,Dublin,Mobile App,Office Supplies,Gel Pen Pack,2,11.73,0.056,22.15,6.1,16.05,false
+ORD-10702,2025-05-11,CUST-0022,EMEA,London,Partner Reseller,Office Supplies,Notebook A5,1,21.4,0.159,18.0,6.42,11.58,false
+ORD-10052,2025-05-12,CUST-0036,EMEA,Dublin,Marketplace,Electronics,Wireless Earbuds,2,186.51,0.228,287.97,193.97,94.0,false
+ORD-10310,2025-05-12,CUST-0079,North America,Austin,Mobile App,Office Supplies,Notebook A5,3,22.18,0.02,65.21,19.96,45.25,false
+ORD-10312,2025-05-13,CUST-0045,North America,Toronto,Web,Office Supplies,Notebook A5,4,21.8,0.029,84.67,26.16,58.51,false
+ORD-11000,2025-05-13,CUST-0108,North America,Toronto,Mobile App,Apparel,Cotton Hoodie,1,91.37,0.081,83.97,34.72,49.25,false
+ORD-10132,2025-05-15,CUST-0139,EMEA,Paris,Mobile App,Home & Kitchen,Ceramic Cookware Set,4,251.74,0.098,-908.28,-563.9,-344.38,true
+ORD-10755,2025-05-15,CUST-0045,North America,Toronto,Marketplace,Office Supplies,Gel Pen Pack,3,12.93,0.236,29.64,10.09,19.55,false
+ORD-10769,2025-05-16,CUST-0090,APAC,Singapore,Mobile App,Office Supplies,Sticky Notes Set,2,10.34,0.02,20.27,4.96,15.31,false
+ORD-10167,2025-05-18,CUST-0114,North America,Chicago,Web,Office Supplies,Notebook A5,3,18.38,0.041,52.88,16.54,36.34,false
+ORD-10345,2025-05-19,CUST-0139,EMEA,Paris,Web,Home & Kitchen,Ceramic Cookware Set,1,320.69,0.132,278.36,179.59,98.77,false
+ORD-10268,2025-05-20,CUST-0024,LATAM,Buenos Aires,Marketplace,Office Supplies,Notebook A5,5,20.39,0.171,84.52,30.59,53.93,false
+ORD-10876,2025-05-20,CUST-0071,North America,Chicago,Web,Apparel,Cotton Hoodie,1,78.59,0.086,71.83,29.86,41.97,false
+ORD-10975,2025-05-20,CUST-0036,EMEA,Dublin,Web,Home & Kitchen,Chef Knife,1,116.58,0.119,102.71,48.96,53.75,false
+ORD-10186,2025-05-21,CUST-0062,EMEA,Dublin,Mobile App,Office Supplies,Desk Organizer,8,39.99,0.112,284.09,115.17,168.92,false
+ORD-10964,2025-05-21,CUST-0051,EMEA,Paris,Web,Home & Kitchen,Ceramic Cookware Set,1,267.56,0.083,245.35,149.83,95.52,false
+ORD-11059,2025-05-21,CUST-0074,EMEA,Dublin,Partner Reseller,Office Supplies,Gel Pen Pack,1,11.6,0.119,10.22,3.02,7.2,false
+ORD-11158,2025-05-21,CUST-0085,North America,Vancouver,Mobile App,Electronics,Mechanical Keyboard,6,138.48,0.049,790.17,398.82,391.35,false
+ORD-11357,2025-05-21,CUST-0118,North America,San Francisco,Web,Apparel,Denim Jacket,1,120.89,0.001,120.77,49.56,71.21,false
+ORD-10104,2025-05-22,CUST-0075,EMEA,Dublin,Mobile App,Office Supplies,Notebook A5,1,22.32,0.034,21.56,6.7,14.86,false
+ORD-10869,2025-05-22,CUST-0103,LATAM,Sao Paulo,Web,Home & Kitchen,Coffee Grinder,4,163.19,0.144,558.76,319.85,238.91,false
+ORD-11084,2025-05-22,CUST-0017,North America,Chicago,Web,Office Supplies,Desk Organizer,4,33.41,0.103,119.88,48.11,71.77,false
+ORD-11210,2025-05-22,CUST-0048,North America,New York,Mobile App,Apparel,Denim Jacket,4,120.52,0.061,452.67,197.65,255.02,false
+ORD-10068,2025-05-23,CUST-0095,APAC,Seoul,Retail Store,Home & Kitchen,Chef Knife,3,116.57,0.12,307.74,146.88,160.86,false
+ORD-10129,2025-05-24,CUST-0121,APAC,Singapore,Web,Office Supplies,Gel Pen Pack,1,10.72,0.13,9.33,2.79,6.54,false
+ORD-10073,2025-05-26,CUST-0031,EMEA,Paris,Mobile App,Furniture,Ergonomic Chair,8,530.15,0.11,3774.67,2459.9,1314.77,false
+ORD-11264,2025-05-26,CUST-0008,APAC,Seoul,Marketplace,Furniture,Standing Desk,3,776.54,0.165,1945.23,1467.66,477.57,false
+ORD-10135,2025-05-29,CUST-0111,North America,New York,Web,Office Supplies,Sticky Notes Set,1,8.32,0.029,8.08,2.0,6.08,false
+ORD-10347,2025-05-29,CUST-0045,North America,Toronto,Mobile App,Apparel,Cotton Hoodie,1,69.72,0.081,64.07,26.49,37.58,false
+ORD-10288,2025-05-30,CUST-0083,North America,San Francisco,Mobile App,Office Supplies,Sticky Notes Set,2,10.47,0.085,19.16,5.03,14.13,false
+ORD-11448,2025-05-30,CUST-0021,North America,New York,Web,Office Supplies,Sticky Notes Set,6,10.23,0.007,60.95,14.73,46.22,false
+ORD-10548,2025-05-31,CUST-0088,EMEA,Paris,Web,Office Supplies,Gel Pen Pack,3,14.13,0.132,36.79,11.02,25.77,false
+ORD-10700,2025-05-31,CUST-0084,APAC,Tokyo,Web,Apparel,Cotton Hoodie,1,70.15,0.096,63.42,26.66,36.76,false
+ORD-10739,2025-05-31,CUST-0128,North America,San Francisco,Marketplace,Office Supplies,Gel Pen Pack,2,13.71,0.114,24.29,7.13,17.16,false
+ORD-11182,2025-06-01,CUST-0048,North America,New York,Marketplace,Office Supplies,Gel Pen Pack,1,12.15,0.249,9.12,3.16,5.96,false
+ORD-11319,2025-06-02,CUST-0040,APAC,Singapore,Marketplace,Home & Kitchen,Air Purifier,1,426.64,0.133,369.9,260.25,109.65,false
+ORD-10063,2025-06-03,CUST-0100,North America,San Francisco,Mobile App,Office Supplies,Notebook A5,1,20.98,0.043,20.08,6.29,13.79,false
+ORD-10493,2025-06-03,CUST-0054,APAC,Tokyo,Marketplace,Apparel,Cotton Hoodie,2,92.48,0.175,152.59,70.28,82.31,false
+ORD-10984,2025-06-03,CUST-0105,North America,Toronto,Web,Electronics,Mechanical Keyboard,1,138.64,0.066,129.49,66.55,62.94,false
+ORD-11040,2025-06-03,CUST-0117,North America,New York,Marketplace,Electronics,Smartphone X,1,895.46,0.165,747.71,662.64,85.07,false
+ORD-10644,2025-06-04,CUST-0099,APAC,Mumbai,Web,Home & Kitchen,Coffee Grinder,2,134.05,0.004,267.03,131.37,135.66,false
+ORD-10969,2025-06-04,CUST-0072,North America,Vancouver,Web,Home & Kitchen,Coffee Grinder,1,156.34,0.135,135.23,76.61,58.62,false
+ORD-11135,2025-06-04,CUST-0065,North America,San Francisco,Web,Home & Kitchen,Coffee Grinder,3,141.97,0.074,394.39,208.7,185.69,false
+ORD-11317,2025-06-05,CUST-0134,LATAM,Mexico City,Web,Apparel,Running Shoes,2,136.79,0.049,260.17,120.38,139.79,false
+ORD-11368,2025-06-05,CUST-0105,North America,Toronto,Web,Electronics,4K Monitor 27,3,477.42,0.028,1392.16,1016.9,375.26,false
+ORD-11491,2025-06-06,CUST-0072,North America,Vancouver,Mobile App,Office Supplies,Gel Pen Pack,6,13.43,0.038,77.52,20.95,56.57,false
+ORD-10766,2025-06-07,CUST-0108,North America,Toronto,Marketplace,Office Supplies,Gel Pen Pack,1,14.03,0.129,12.22,3.65,8.57,false
+ORD-10872,2025-06-07,CUST-0105,North America,Toronto,Marketplace,Apparel,Denim Jacket,6,117.3,0.086,643.27,288.56,354.71,false
+ORD-11097,2025-06-08,CUST-0112,North America,New York,Retail Store,Home & Kitchen,Ceramic Cookware Set,1,290.62,0.057,274.05,162.75,111.3,false
+ORD-10107,2025-06-11,CUST-0103,LATAM,Sao Paulo,Web,Office Supplies,Notebook A5,1,18.13,0.039,17.42,5.44,11.98,false
+ORD-10342,2025-06-12,CUST-0068,EMEA,Paris,Marketplace,Furniture,Ergonomic Chair,4,495.64,0.266,1455.2,1149.88,305.32,false
+ORD-10630,2025-06-12,CUST-0093,LATAM,Sao Paulo,Mobile App,Apparel,Cotton Hoodie,1,71.71,0.051,68.05,27.25,40.8,false
+ORD-11018,2025-06-12,CUST-0104,APAC,Mumbai,Web,Apparel,Denim Jacket,1,131.9,0.022,129.0,54.08,74.92,false
+ORD-11073,2025-06-13,CUST-0044,North America,San Francisco,Mobile App,Home & Kitchen,Chef Knife,2,133.77,0.045,255.5,112.37,143.13,false
+ORD-11397,2025-06-14,CUST-0060,North America,Toronto,Web,Office Supplies,Notebook A5,4,19.82,0.011,78.41,23.78,54.63,false
+ORD-10261,2025-06-16,CUST-0087,North America,San Francisco,Web,Apparel,Denim Jacket,8,122.22,0.113,867.27,400.88,466.39,false
+ORD-10540,2025-06-16,CUST-0093,LATAM,Sao Paulo,Web,Office Supplies,Gel Pen Pack,1,10.98,0.043,10.51,2.85,7.66,false
+ORD-11281,2025-06-17,CUST-0020,APAC,Seoul,Web,Apparel,Cotton Hoodie,1,90.65,0.022,88.66,34.45,54.21,false
+ORD-10533,2025-06-19,CUST-0088,EMEA,Paris,Marketplace,Electronics,Wireless Earbuds,1,164.43,0.219,128.42,85.5,42.92,false
+ORD-10600,2025-06-19,CUST-0013,North America,Austin,Mobile App,Office Supplies,Sticky Notes Set,2,9.04,0.056,17.07,4.34,12.73,false
+ORD-11259,2025-06-19,CUST-0101,North America,San Francisco,Mobile App,Furniture,Standing Desk,3,637.44,0.077,1765.07,1204.76,560.31,false
+ORD-10599,2025-06-21,CUST-0120,LATAM,Mexico City,Mobile App,Apparel,Wool Scarf,1,45.0,0.108,40.14,15.75,24.39,false
+ORD-10801,2025-06-21,CUST-0057,North America,Vancouver,Web,Apparel,Cotton Hoodie,1,82.17,0.044,78.55,31.22,47.33,false
+ORD-10401,2025-06-23,CUST-0044,North America,San Francisco,Marketplace,Electronics,Wireless Earbuds,1,182.49,0.269,133.4,94.89,38.51,false
+ORD-10610,2025-06-24,CUST-0081,EMEA,Amsterdam,Marketplace,Office Supplies,Gel Pen Pack,4,10.98,0.205,34.92,11.42,23.5,false
+ORD-10777,2025-06-24,CUST-0011,EMEA,Madrid,Marketplace,Office Supplies,Sticky Notes Set,4,9.33,0.125,32.66,8.96,23.7,false
+ORD-11449,2025-06-24,CUST-0072,North America,Vancouver,Web,Electronics,Smartphone X,3,895.4,0.061,2522.34,1987.79,534.55,false
+ORD-10891,2025-06-26,CUST-0133,EMEA,Dublin,Marketplace,Apparel,Denim Jacket,6,112.56,0.091,-613.9,-276.9,-337.0,true
+ORD-10042,2025-06-27,CUST-0090,APAC,Singapore,Marketplace,Apparel,Wool Scarf,1,44.63,0.131,38.78,15.62,23.16,false
+ORD-10327,2025-06-28,CUST-0031,EMEA,Paris,Retail Store,Electronics,Smartphone X,2,879.48,0.188,1428.28,1301.63,126.65,false
+ORD-10403,2025-06-28,CUST-0051,EMEA,Paris,Partner Reseller,Office Supplies,Gel Pen Pack,1,11.45,0.119,10.09,2.98,7.11,false
+ORD-10767,2025-06-28,CUST-0105,North America,Toronto,Web,Electronics,Smartphone X,1,961.01,0.13,836.08,711.15,124.93,false
+ORD-11473,2025-06-28,CUST-0139,EMEA,Paris,Retail Store,Electronics,Smartphone X,2,1094.47,0.031,2121.08,1619.82,501.26,false
+ORD-11125,2025-06-29,CUST-0059,North America,Austin,Web,Office Supplies,Sticky Notes Set,1,9.76,0.095,8.83,2.34,6.49,false
+ORD-10516,2025-06-30,CUST-0007,APAC,Seoul,Web,Apparel,Running Shoes,1,135.67,0.001,135.53,59.69,75.84,false
+ORD-10568,2025-06-30,CUST-0029,North America,Chicago,Marketplace,Apparel,Running Shoes,6,158.99,0.267,699.24,419.73,279.51,false
+ORD-10762,2025-06-30,CUST-0126,EMEA,Amsterdam,Partner Reseller,Office Supplies,Gel Pen Pack,1,12.5,0.077,11.54,3.25,8.29,false
+ORD-11292,2025-07-02,CUST-0025,North America,Chicago,Web,Home & Kitchen,Chef Knife,5,135.45,0.001,676.57,284.44,392.13,false
+ORD-10088,2025-07-03,CUST-0028,APAC,Mumbai,Marketplace,Apparel,Wool Scarf,3,48.5,0.16,122.22,50.92,71.3,false
+ORD-10162,2025-07-03,CUST-0084,APAC,Tokyo,Marketplace,Furniture,Ergonomic Chair,2,642.21,0.143,1100.75,744.96,355.79,false
+ORD-11240,2025-07-03,CUST-0073,APAC,Singapore,Mobile App,Furniture,Standing Desk,4,773.27,0.031,2997.19,1948.64,1048.55,false
+ORD-10538,2025-07-04,CUST-0026,APAC,Seoul,Retail Store,Home & Kitchen,Ceramic Cookware Set,1,303.95,0.037,292.7,170.21,122.49,false
+ORD-10699,2025-07-04,CUST-0018,North America,Chicago,Web,Office Supplies,Desk Organizer,2,40.04,0.083,73.43,28.83,44.6,false
+ORD-10361,2025-07-06,CUST-0117,North America,New York,Mobile App,Office Supplies,Desk Organizer,2,36.44,0.037,70.18,26.24,43.94,false
+ORD-10362,2025-07-06,CUST-0023,EMEA,Berlin,Web,Apparel,Running Shoes,1,122.32,0.122,107.4,53.82,53.58,false
+ORD-11113,2025-07-06,CUST-0135,EMEA,Amsterdam,Web,Electronics,Laptop Pro 14,1,1306.75,0.01,1293.68,888.59,405.09,false
+ORD-11462,2025-07-06,CUST-0030,EMEA,London,Marketplace,Office Supplies,Notebook A5,1,16.89,0.126,14.76,5.07,9.69,false
+ORD-11103,2025-07-07,CUST-0018,North America,Chicago,Web,Apparel,Cotton Hoodie,1,76.7,0.064,71.79,29.15,42.64,false
+ORD-11465,2025-07-07,CUST-0044,North America,San Francisco,Web,Electronics,Smartphone X,1,1176.47,0.102,1056.47,870.59,185.88,false
+ORD-11468,2025-07-08,CUST-0140,LATAM,Mexico City,Web,Office Supplies,Sticky Notes Set,5,10.22,0.12,44.97,12.26,32.71,false
+ORD-10216,2025-07-09,CUST-0126,EMEA,Amsterdam,Mobile App,Electronics,Laptop Pro 14,1,1329.39,0.04,1276.21,903.99,372.22,false
+ORD-10852,2025-07-09,CUST-0086,LATAM,Sao Paulo,Mobile App,Electronics,Wireless Earbuds,1,189.47,0.065,177.15,98.52,78.63,false
+ORD-10105,2025-07-10,CUST-0035,EMEA,Berlin,Web,Office Supplies,Gel Pen Pack,1,11.14,0.069,10.37,2.9,7.47,false
+ORD-10297,2025-07-10,CUST-0024,LATAM,Buenos Aires,Marketplace,Apparel,Wool Scarf,1,47.44,0.27,34.63,16.6,18.03,false
+ORD-10069,2025-07-12,CUST-0027,North America,Toronto,Web,Electronics,Smartphone X,2,1006.83,0.103,1806.25,1490.11,316.14,false
+ORD-10400,2025-07-13,CUST-0067,EMEA,London,Partner Reseller,Office Supplies,Desk Organizer,2,36.74,0.099,66.21,26.45,39.76,false
+ORD-10267,2025-07-15,CUST-0054,APAC,Tokyo,Web,Office Supplies,Gel Pen Pack,1,10.88,0.017,10.7,2.83,7.87,false
+ORD-10364,2025-07-15,CUST-0106,North America,Vancouver,Web,Home & Kitchen,Air Purifier,3,417.71,0.124,1097.74,764.41,333.33,false
+ORD-10385,2025-07-17,CUST-0087,North America,San Francisco,Mobile App,Office Supplies,Gel Pen Pack,5,13.81,0.066,64.49,17.95,46.54,false
+ORD-10420,2025-07-17,CUST-0044,North America,San Francisco,Marketplace,Home & Kitchen,Chef Knife,1,147.14,0.116,130.07,61.8,68.27,false
+ORD-11290,2025-07-17,CUST-0071,North America,Chicago,Web,Office Supplies,Gel Pen Pack,8,12.82,0.073,95.07,26.67,68.4,false
+ORD-10160,2025-07-19,CUST-0110,North America,New York,Mobile App,Home & Kitchen,Coffee Grinder,1,159.75,0.052,-151.44,-78.28,-73.16,true
+ORD-11407,2025-07-19,CUST-0121,APAC,Singapore,Mobile App,Electronics,Wireless Earbuds,4,187.5,0.074,694.5,390.0,304.5,false
+ORD-11287,2025-07-20,CUST-0119,North America,Austin,Marketplace,Office Supplies,Notebook A5,4,20.36,0.121,71.59,24.43,47.16,false
+ORD-10377,2025-07-21,CUST-0136,North America,Toronto,Web,Electronics,Wireless Earbuds,1,157.56,0.096,142.43,81.93,60.5,false
+ORD-11381,2025-07-21,CUST-0088,EMEA,Paris,Web,Electronics,Wireless Earbuds,1,198.56,0.038,191.01,103.25,87.76,false
+ORD-11326,2025-07-22,CUST-0057,North America,Vancouver,Retail Store,Home & Kitchen,Coffee Grinder,5,162.29,0.101,729.49,397.61,331.88,false
+ORD-10253,2025-07-25,CUST-0025,North America,Chicago,Marketplace,Apparel,Denim Jacket,2,137.3,0.269,200.73,112.59,88.14,false
+ORD-10827,2025-07-26,CUST-0020,APAC,Seoul,Web,Office Supplies,Gel Pen Pack,2,13.54,0.025,26.4,7.04,19.36,false
+ORD-10441,2025-07-27,CUST-0053,EMEA,Berlin,Web,Office Supplies,Gel Pen Pack,6,13.45,0.086,73.76,20.98,52.78,false
+ORD-11020,2025-07-28,CUST-0088,EMEA,Paris,Web,Apparel,Wool Scarf,5,44.42,0.138,191.45,77.73,113.72,false
+ORD-10425,2025-07-29,CUST-0117,North America,New York,Web,Office Supplies,Gel Pen Pack,3,11.72,0.135,30.41,9.14,21.27,false
+ORD-11167,2025-07-30,CUST-0137,North America,Toronto,Marketplace,Office Supplies,Sticky Notes Set,1,8.29,0.233,6.36,1.99,4.37,false
+ORD-11001,2025-07-31,CUST-0037,North America,San Francisco,Retail Store,Apparel,Denim Jacket,6,117.97,0.121,622.17,290.21,331.96,false
+ORD-10830,2025-08-01,CUST-0124,EMEA,London,Partner Reseller,Electronics,Wireless Earbuds,1,176.67,0.087,161.3,91.87,69.43,false
+ORD-11098,2025-08-01,CUST-0029,North America,Chicago,Retail Store,Office Supplies,Sticky Notes Set,1,10.41,0.122,9.14,2.5,6.64,false
+ORD-11453,2025-08-01,CUST-0018,North America,Chicago,Mobile App,Office Supplies,Gel Pen Pack,2,12.48,0.008,24.76,6.49,18.27,false
+ORD-10168,2025-08-02,CUST-0127,North America,New York,Web,Office Supplies,Notebook A5,3,21.41,0.055,60.7,19.27,41.43,false
+ORD-10723,2025-08-02,CUST-0112,North America,New York,Marketplace,Home & Kitchen,Chef Knife,1,140.96,0.207,111.78,59.2,52.58,false
+ORD-10194,2025-08-03,CUST-0041,EMEA,Dublin,Mobile App,Furniture,Ergonomic Chair,3,520.74,0.061,-1466.92,-906.09,-560.83,true
+ORD-10513,2025-08-03,CUST-0079,North America,Austin,Mobile App,Electronics,Wireless Earbuds,8,198.86,0.006,1581.33,827.26,754.07,false
+ORD-10691,2025-08-04,CUST-0101,North America,San Francisco,Mobile App,Home & Kitchen,Coffee Grinder,2,139.54,0.013,275.45,136.75,138.7,false
+ORD-11149,2025-08-04,CUST-0048,North America,New York,Marketplace,Office Supplies,Desk Organizer,4,39.91,0.229,123.08,57.47,65.61,false
+ORD-10594,2025-08-05,CUST-0013,North America,Austin,Marketplace,Office Supplies,Gel Pen Pack,3,12.53,0.2,30.07,9.77,20.3,false
+ORD-10656,2025-08-05,CUST-0044,North America,San Francisco,Mobile App,Office Supplies,Desk Organizer,2,35.68,0.008,70.79,25.69,45.1,false
+ORD-10930,2025-08-05,CUST-0133,EMEA,Dublin,Web,Apparel,Cotton Hoodie,2,77.36,0.034,149.46,58.79,90.67,false
+ORD-11047,2025-08-05,CUST-0020,APAC,Seoul,Mobile App,Apparel,Cotton Hoodie,3,88.78,0.012,263.14,101.21,161.93,false
+ORD-10639,2025-08-06,CUST-0122,LATAM,Bogota,Marketplace,Office Supplies,Notebook A5,2,22.21,0.135,38.42,13.33,25.09,false
+ORD-11057,2025-08-07,CUST-0041,EMEA,Dublin,Partner Reseller,Office Supplies,Sticky Notes Set,2,8.87,0.078,16.36,4.26,12.1,false
+ORD-11295,2025-08-07,CUST-0070,North America,Chicago,Web,Office Supplies,Notebook A5,1,18.1,0.091,16.45,5.43,11.02,false
+ORD-10046,2025-08-08,CUST-0083,North America,San Francisco,Partner Reseller,Office Supplies,Gel Pen Pack,1,13.48,0.159,11.34,3.5,7.84,false
+ORD-10744,2025-08-09,CUST-0081,EMEA,Amsterdam,Web,Home & Kitchen,Chef Knife,1,134.25,0.127,117.2,56.38,60.82,false
+ORD-10032,2025-08-10,CUST-0110,North America,New York,Retail Store,Office Supplies,Sticky Notes Set,2,9.66,0.005,19.22,4.64,14.58,false
+ORD-11284,2025-08-10,CUST-0087,North America,San Francisco,Web,Electronics,4K Monitor 27,2,458.78,0.038,882.69,651.47,231.22,false
+ORD-10447,2025-08-11,CUST-0027,North America,Toronto,Web,Apparel,Denim Jacket,2,107.25,0.045,204.85,87.94,116.91,false
+ORD-10575,2025-08-12,CUST-0041,EMEA,Dublin,Marketplace,Furniture,Bookshelf Unit,2,201.27,0.199,322.43,265.68,56.75,false
+ORD-10753,2025-08-12,CUST-0038,North America,San Francisco,Marketplace,Apparel,Wool Scarf,1,43.95,0.151,37.31,15.38,21.93,false
+ORD-11100,2025-08-12,CUST-0136,North America,Toronto,Partner Reseller,Office Supplies,Sticky Notes Set,4,9.0,0.088,32.83,8.64,24.19,false
+ORD-11137,2025-08-12,CUST-0062,EMEA,Dublin,Retail Store,Apparel,Denim Jacket,1,118.78,0.149,101.08,48.7,52.38,false
+ORD-10391,2025-08-13,CUST-0015,North America,San Francisco,Retail Store,Home & Kitchen,Air Purifier,1,450.88,0.024,440.06,275.04,165.02,false
+ORD-10467,2025-08-14,CUST-0089,EMEA,Madrid,Retail Store,Electronics,Wireless Earbuds,1,182.44,0.095,165.11,94.87,70.24,false
+ORD-10463,2025-08-15,CUST-0014,APAC,Mumbai,Marketplace,Office Supplies,Gel Pen Pack,1,12.31,0.105,11.02,3.2,7.82,false
+ORD-11106,2025-08-15,CUST-0032,EMEA,Berlin,Partner Reseller,Electronics,Wireless Earbuds,3,176.77,0.179,435.38,275.76,159.62,false
+ORD-10958,2025-08-18,CUST-0056,APAC,Singapore,Marketplace,Apparel,Running Shoes,1,154.12,0.21,121.75,67.81,53.94,false
+ORD-10208,2025-08-19,CUST-0020,APAC,Seoul,Retail Store,Electronics,Laptop Pro 14,1,1193.31,0.181,977.32,811.45,165.87,false
+ORD-10093,2025-08-20,CUST-0007,APAC,Seoul,Marketplace,Office Supplies,Gel Pen Pack,8,12.64,0.126,-88.38,-26.29,-62.09,true
+ORD-10896,2025-08-20,CUST-0064,LATAM,Buenos Aires,Web,Apparel,Cotton Hoodie,2,76.41,0.034,147.62,58.07,89.55,false
+ORD-10668,2025-08-21,CUST-0092,APAC,Sydney,Marketplace,Apparel,Wool Scarf,1,47.66,0.149,40.56,16.68,23.88,false
+ORD-10304,2025-08-22,CUST-0019,North America,San Francisco,Web,Apparel,Running Shoes,2,147.61,0.042,282.82,129.9,152.92,false
+ORD-11276,2025-08-22,CUST-0078,EMEA,Berlin,Partner Reseller,Home & Kitchen,Coffee Grinder,4,166.93,0.075,617.64,327.18,290.46,false
+ORD-11382,2025-08-23,CUST-0103,LATAM,Sao Paulo,Mobile App,Office Supplies,Sticky Notes Set,1,8.95,0.075,8.28,2.15,6.13,false
+ORD-10794,2025-08-26,CUST-0096,EMEA,London,Mobile App,Furniture,Ergonomic Chair,1,500.64,0.076,462.59,290.37,172.22,false
+ORD-10002,2025-08-27,CUST-0026,APAC,Seoul,Mobile App,Office Supplies,Gel Pen Pack,1,13.16,0.049,12.52,3.42,9.1,false
+ORD-10448,2025-08-27,CUST-0063,North America,Toronto,Mobile App,Office Supplies,Sticky Notes Set,1,10.12,0.071,9.4,2.43,6.97,false
+ORD-10455,2025-08-27,CUST-0082,LATAM,Sao Paulo,Mobile App,Office Supplies,Gel Pen Pack,1,11.18,0.017,10.99,2.91,8.08,false
+ORD-10523,2025-08-27,CUST-0023,EMEA,Berlin,Web,Electronics,Smartphone X,1,1017.62,0.085,931.12,753.04,178.08,false
+ORD-11201,2025-08-27,CUST-0044,North America,San Francisco,Mobile App,Apparel,Cotton Hoodie,8,90.95,0.003,725.42,276.49,448.93,false
+ORD-11344,2025-08-28,CUST-0138,APAC,Seoul,Web,Home & Kitchen,Air Purifier,1,411.09,0.145,351.48,250.76,100.72,false
+ORD-10450,2025-08-29,CUST-0084,APAC,Tokyo,Web,Office Supplies,Sticky Notes Set,6,8.11,0.016,47.88,11.68,36.2,false
+ORD-10092,2025-08-30,CUST-0131,EMEA,Amsterdam,Web,Office Supplies,Desk Organizer,3,33.68,0.101,90.83,36.37,54.46,false
+ORD-11359,2025-08-30,CUST-0127,North America,New York,Marketplace,Office Supplies,Gel Pen Pack,1,13.48,0.237,10.29,3.5,6.79,false
+ORD-10397,2025-08-31,CUST-0079,North America,Austin,Retail Store,Electronics,Wireless Earbuds,3,190.98,0.088,522.52,297.93,224.59,false
+ORD-10473,2025-08-31,CUST-0056,APAC,Singapore,Marketplace,Home & Kitchen,Chef Knife,1,146.66,0.106,131.11,61.6,69.51,false
+ORD-10593,2025-08-31,CUST-0085,North America,Vancouver,Partner Reseller,Home & Kitchen,Chef Knife,1,141.83,0.145,121.26,59.57,61.69,false
+ORD-11285,2025-08-31,CUST-0081,EMEA,Amsterdam,Web,Home & Kitchen,Air Purifier,1,455.79,0.029,442.57,278.03,164.54,false
+ORD-11394,2025-08-31,CUST-0056,APAC,Singapore,Mobile App,Home & Kitchen,Air Purifier,3,374.9,0.031,1089.83,686.07,403.76,false
+ORD-10050,2025-09-01,CUST-0022,EMEA,London,Marketplace,Apparel,Running Shoes,3,150.26,0.246,339.89,198.34,141.55,false
+ORD-10435,2025-09-01,CUST-0079,North America,Austin,Web,Office Supplies,Gel Pen Pack,1,12.35,0.036,11.91,3.21,8.7,false
+ORD-10609,2025-09-02,CUST-0075,EMEA,Dublin,Mobile App,Electronics,Wireless Earbuds,3,207.74,0.109,555.29,324.07,231.22,false
+ORD-10027,2025-09-03,CUST-0117,North America,New York,Marketplace,Office Supplies,Gel Pen Pack,1,12.92,0.256,9.61,3.36,6.25,false
+ORD-10935,2025-09-04,CUST-0021,North America,New York,Web,Home & Kitchen,Air Purifier,3,354.46,0.074,984.69,648.66,336.03,false
+ORD-10747,2025-09-05,CUST-0129,North America,New York,Partner Reseller,Home & Kitchen,Coffee Grinder,3,152.5,0.158,385.21,224.17,161.04,false
+ORD-10997,2025-09-05,CUST-0002,EMEA,Dublin,Mobile App,Furniture,Ergonomic Chair,2,565.44,0.115,1000.83,655.91,344.92,false
+ORD-11484,2025-09-05,CUST-0013,North America,Austin,Web,Furniture,Bookshelf Unit,1,244.85,0.013,241.67,161.6,80.07,false
+ORD-10663,2025-09-06,CUST-0025,North America,Chicago,Web,Office Supplies,Desk Organizer,1,30.26,0.047,28.84,10.89,17.95,false
+ORD-10653,2025-09-07,CUST-0046,EMEA,Berlin,Partner Reseller,Office Supplies,Sticky Notes Set,1,8.92,0.075,-8.25,-2.14,-6.11,true
+ORD-11082,2025-09-07,CUST-0046,EMEA,Berlin,Web,Apparel,Running Shoes,2,133.34,0.08,245.35,117.34,128.01,false
+ORD-10126,2025-09-09,CUST-0019,North America,San Francisco,Marketplace,Furniture,Bookshelf Unit,2,224.22,0.254,334.54,295.97,38.57,false
+ORD-10499,2025-09-10,CUST-0044,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,12.44,0.129,10.84,3.23,7.61,false
+ORD-11470,2025-09-12,CUST-0132,North America,Vancouver,Web,Office Supplies,Notebook A5,1,20.29,0.076,18.75,6.09,12.66,false
+ORD-10036,2025-09-13,CUST-0070,North America,Chicago,Web,Furniture,Standing Desk,1,757.34,0.089,689.94,477.12,212.82,false
+ORD-11066,2025-09-13,CUST-0137,North America,Toronto,Retail Store,Office Supplies,Gel Pen Pack,1,13.48,0.166,11.24,3.5,7.74,false
+ORD-11220,2025-09-13,CUST-0111,North America,New York,Mobile App,Apparel,Wool Scarf,2,48.31,0.013,95.36,33.82,61.54,false
+ORD-11426,2025-09-13,CUST-0038,North America,San Francisco,Web,Electronics,4K Monitor 27,1,389.39,0.14,334.88,276.47,58.41,false
+ORD-11481,2025-09-14,CUST-0095,APAC,Seoul,Partner Reseller,Electronics,Mechanical Keyboard,1,151.95,0.098,-137.06,-72.94,-64.12,true
+ORD-10273,2025-09-17,CUST-0092,APAC,Sydney,Retail Store,Office Supplies,Sticky Notes Set,3,10.33,0.097,27.98,7.44,20.54,false
+ORD-10282,2025-09-17,CUST-0031,EMEA,Paris,Mobile App,Home & Kitchen,Air Purifier,3,425.97,0.013,1261.3,779.53,481.77,false
+ORD-10191,2025-09-18,CUST-0080,North America,Chicago,Web,Office Supplies,Desk Organizer,1,31.32,0.002,31.26,11.28,19.98,false
+ORD-10427,2025-09-18,CUST-0136,North America,Toronto,Marketplace,Home & Kitchen,Air Purifier,5,457.42,0.137,1973.77,1395.13,578.64,false
+ORD-11052,2025-09-18,CUST-0118,North America,San Francisco,Web,Office Supplies,Desk Organizer,1,39.4,0.002,39.32,14.18,25.14,false
+ORD-10379,2025-09-19,CUST-0105,North America,Toronto,Mobile App,Office Supplies,Notebook A5,1,21.48,0.016,21.14,6.44,14.7,false
+ORD-11186,2025-09-19,CUST-0117,North America,New York,Mobile App,Office Supplies,Sticky Notes Set,4,8.52,0.034,32.92,8.18,24.74,false
+ORD-10986,2025-09-20,CUST-0034,North America,Vancouver,Marketplace,Office Supplies,Notebook A5,3,17.23,0.221,40.27,15.51,24.76,false
+ORD-11017,2025-09-20,CUST-0086,LATAM,Sao Paulo,Web,Office Supplies,Sticky Notes Set,3,10.37,0.088,28.37,7.47,20.9,false
+ORD-11492,2025-09-20,CUST-0129,North America,New York,Retail Store,Electronics,Mechanical Keyboard,6,156.2,0.086,856.6,449.86,406.74,false
+ORD-10556,2025-09-21,CUST-0112,North America,New York,Partner Reseller,Furniture,Bookshelf Unit,1,248.59,0.078,229.2,164.07,65.13,false
+ORD-10658,2025-09-21,CUST-0117,North America,New York,Marketplace,Electronics,4K Monitor 27,2,487.41,0.145,833.47,692.12,141.35,false
+ORD-11043,2025-09-21,CUST-0117,North America,New York,Web,Apparel,Running Shoes,4,141.51,0.008,561.51,249.06,312.45,false
+ORD-10605,2025-09-23,CUST-0102,APAC,Sydney,Web,Office Supplies,Notebook A5,1,21.37,0.104,19.15,6.41,12.74,false
+ORD-10359,2025-09-24,CUST-0100,North America,San Francisco,Web,Apparel,Cotton Hoodie,2,72.63,0.126,-126.96,-55.2,-71.76,true
+ORD-10880,2025-09-24,CUST-0058,APAC,Mumbai,Web,Electronics,Laptop Pro 14,1,1411.08,0.065,1319.36,959.53,359.83,false
+ORD-10486,2025-09-25,CUST-0034,North America,Vancouver,Retail Store,Electronics,Smartphone X,4,908.28,0.122,3189.88,2688.51,501.37,false
+ORD-10506,2025-09-25,CUST-0094,North America,Vancouver,Web,Electronics,4K Monitor 27,3,403.87,0.147,1033.5,860.24,173.26,false
+ORD-11153,2025-09-25,CUST-0112,North America,New York,Web,Electronics,Mechanical Keyboard,1,149.44,0.134,129.42,71.73,57.69,false
+ORD-11061,2025-09-26,CUST-0021,North America,New York,Partner Reseller,Office Supplies,Sticky Notes Set,1,8.59,0.124,7.52,2.06,5.46,false
+ORD-11305,2025-09-27,CUST-0046,EMEA,Berlin,Mobile App,Apparel,Running Shoes,1,123.04,0.115,108.89,54.14,54.75,false
+ORD-10894,2025-09-29,CUST-0079,North America,Austin,Web,Office Supplies,Desk Organizer,2,31.62,0.05,60.08,22.77,37.31,false
+ORD-10557,2025-10-01,CUST-0024,LATAM,Buenos Aires,Mobile App,Office Supplies,Desk Organizer,1,35.7,0.064,33.42,12.85,20.57,false
+ORD-11293,2025-10-01,CUST-0073,APAC,Singapore,Mobile App,Apparel,Cotton Hoodie,2,75.84,0.066,141.67,57.64,84.03,false
+ORD-11256,2025-10-02,CUST-0088,EMEA,Paris,Web,Office Supplies,Sticky Notes Set,3,8.3,0.122,21.86,5.98,15.88,false
+ORD-10313,2025-10-03,CUST-0020,APAC,Seoul,Marketplace,Home & Kitchen,Ceramic Cookware Set,3,293.97,0.234,675.54,493.87,181.67,false
+ORD-11168,2025-10-03,CUST-0112,North America,New York,Mobile App,Apparel,Running Shoes,1,142.51,0.047,135.81,62.7,73.11,false
+ORD-11431,2025-10-03,CUST-0109,North America,Austin,Web,Office Supplies,Desk Organizer,1,35.27,0.04,33.86,12.7,21.16,false
+ORD-10044,2025-10-04,CUST-0113,EMEA,Madrid,Web,Electronics,4K Monitor 27,1,384.75,0.076,355.51,273.17,82.34,false
+ORD-10492,2025-10-04,CUST-0078,EMEA,Berlin,Web,Apparel,Cotton Hoodie,1,82.09,0.014,80.94,31.19,49.75,false
+ORD-10064,2025-10-05,CUST-0086,LATAM,Sao Paulo,Web,Electronics,Wireless Earbuds,2,202.11,0.103,362.59,210.19,152.4,false
+ORD-10527,2025-10-05,CUST-0031,EMEA,Paris,Web,Apparel,Denim Jacket,1,125.49,0.022,122.73,51.45,71.28,false
+ORD-11233,2025-10-05,CUST-0083,North America,San Francisco,Retail Store,Apparel,Cotton Hoodie,1,76.22,0.113,67.61,28.96,38.65,false
+ORD-11450,2025-10-06,CUST-0114,North America,Chicago,Web,Office Supplies,Desk Organizer,1,36.42,0.041,34.93,13.11,21.82,false
+ORD-10572,2025-10-08,CUST-0105,North America,Toronto,Web,Office Supplies,Gel Pen Pack,3,12.33,0.111,32.88,9.62,23.26,false
+ORD-11208,2025-10-08,CUST-0028,APAC,Mumbai,Web,Office Supplies,Notebook A5,5,22.0,0.028,106.92,33.0,73.92,false
+ORD-10287,2025-10-09,CUST-0054,APAC,Tokyo,Web,Office Supplies,Gel Pen Pack,2,14.09,0.098,25.42,7.33,18.09,false
+ORD-10648,2025-10-09,CUST-0131,EMEA,Amsterdam,Mobile App,Apparel,Cotton Hoodie,1,71.65,0.084,65.63,27.23,38.4,false
+ORD-11046,2025-10-10,CUST-0071,North America,Chicago,Mobile App,Apparel,Running Shoes,5,160.0,0.112,710.4,352.0,358.4,false
+ORD-10190,2025-10-11,CUST-0017,North America,Chicago,Partner Reseller,Apparel,Running Shoes,1,132.51,0.17,109.98,58.3,51.68,false
+ORD-11238,2025-10-11,CUST-0005,APAC,Sydney,Web,Office Supplies,Gel Pen Pack,3,12.05,0.01,35.79,9.4,26.39,false
+ORD-11004,2025-10-13,CUST-0058,APAC,Mumbai,Web,Apparel,Cotton Hoodie,1,91.12,0.064,85.29,34.63,50.66,false
+ORD-10324,2025-10-14,CUST-0073,APAC,Singapore,Mobile App,Home & Kitchen,Coffee Grinder,1,152.65,0.026,148.68,74.8,73.88,false
+ORD-11478,2025-10-15,CUST-0035,EMEA,Berlin,Retail Store,Office Supplies,Sticky Notes Set,3,10.16,0.044,29.14,7.32,21.82,false
+ORD-10189,2025-10-17,CUST-0040,APAC,Singapore,Mobile App,Apparel,Cotton Hoodie,1,88.67,0.064,83.0,33.69,49.31,false
+ORD-10355,2025-10-17,CUST-0087,North America,San Francisco,Mobile App,Apparel,Running Shoes,5,125.62,0.041,602.35,276.36,325.99,false
+ORD-11170,2025-10-18,CUST-0013,North America,Austin,Web,Office Supplies,Notebook A5,1,22.22,0.008,22.04,6.67,15.37,false
+ORD-10078,2025-10-19,CUST-0120,LATAM,Mexico City,Retail Store,Office Supplies,Gel Pen Pack,3,12.86,0.036,37.19,10.03,27.16,false
+ORD-11487,2025-10-20,CUST-0073,APAC,Singapore,Web,Home & Kitchen,Ceramic Cookware Set,1,283.74,0.092,257.64,158.89,98.75,false
+ORD-10684,2025-10-21,CUST-0071,North America,Chicago,Web,Home & Kitchen,Coffee Grinder,1,140.07,0.029,136.01,68.63,67.38,false
+ORD-10877,2025-10-21,CUST-0002,EMEA,Dublin,Retail Store,Home & Kitchen,Coffee Grinder,1,171.16,0.184,-139.67,-83.87,-55.8,true
+ORD-10020,2025-10-22,CUST-0102,APAC,Sydney,Partner Reseller,Furniture,Conference Table,4,1170.68,0.078,4317.47,3231.08,1086.39,false
+ORD-10512,2025-10-22,CUST-0088,EMEA,Paris,Mobile App,Office Supplies,Sticky Notes Set,2,9.35,0.066,17.47,4.49,12.98,false
+ORD-10856,2025-10-22,CUST-0102,APAC,Sydney,Web,Electronics,Wireless Earbuds,1,204.75,0.04,196.56,106.47,90.09,false
+ORD-10878,2025-10-22,CUST-0121,APAC,Singapore,Marketplace,Electronics,Mechanical Keyboard,1,153.75,0.16,129.15,73.8,55.35,false
+ORD-11378,2025-10-22,CUST-0057,North America,Vancouver,Marketplace,Home & Kitchen,Chef Knife,1,123.88,0.154,104.8,52.03,52.77,false
+ORD-11499,2025-10-22,CUST-0079,North America,Austin,Marketplace,Office Supplies,Notebook A5,4,19.68,0.163,65.89,23.62,42.27,false
+ORD-11482,2025-10-23,CUST-0068,EMEA,Paris,Mobile App,Home & Kitchen,Ceramic Cookware Set,1,272.34,0.059,256.27,152.51,103.76,false
+ORD-10828,2025-10-24,CUST-0070,North America,Chicago,Mobile App,Electronics,Laptop Pro 14,4,1154.05,0.034,4459.25,3139.02,1320.23,false
+ORD-11160,2025-10-24,CUST-0087,North America,San Francisco,Web,Apparel,Cotton Hoodie,4,70.96,0.084,260.0,107.86,152.14,false
+ORD-10807,2025-10-25,CUST-0080,North America,Chicago,Mobile App,Electronics,Wireless Earbuds,2,161.25,0.009,319.6,167.7,151.9,false
+ORD-11074,2025-10-25,CUST-0135,EMEA,Amsterdam,Web,Office Supplies,Gel Pen Pack,2,10.79,0.034,20.85,5.61,15.24,false
+ORD-10059,2025-10-27,CUST-0038,North America,San Francisco,Retail Store,Electronics,Wireless Earbuds,2,164.97,0.141,283.42,171.57,111.85,false
+ORD-10756,2025-10-27,CUST-0114,North America,Chicago,Web,Apparel,Cotton Hoodie,2,85.37,0.076,-157.76,-64.88,-92.88,true
+ORD-10356,2025-10-30,CUST-0069,EMEA,Madrid,Retail Store,Office Supplies,Gel Pen Pack,3,13.94,0.15,35.55,10.87,24.68,false
+ORD-10407,2025-10-30,CUST-0139,EMEA,Paris,Web,Office Supplies,Notebook A5,2,21.84,0.136,37.74,13.1,24.64,false
+ORD-10805,2025-10-31,CUST-0053,EMEA,Berlin,Web,Office Supplies,Notebook A5,2,21.32,0.113,37.82,12.79,25.03,false
+ORD-11087,2025-10-31,CUST-0107,APAC,Sydney,Partner Reseller,Office Supplies,Gel Pen Pack,1,13.64,0.089,12.43,3.55,8.88,false
+ORD-10254,2025-11-01,CUST-0091,EMEA,Berlin,Mobile App,Furniture,Conference Table,4,1279.04,0.07,4758.03,3530.15,1227.88,false
+ORD-11213,2025-11-01,CUST-0065,North America,San Francisco,Web,Apparel,Cotton Hoodie,2,90.91,0.009,180.18,69.09,111.09,false
+ORD-10043,2025-11-02,CUST-0127,North America,New York,Mobile App,Apparel,Running Shoes,2,159.1,0.077,293.7,140.01,153.69,false
+ORD-10251,2025-11-02,CUST-0076,EMEA,Dublin,Mobile App,Furniture,Standing Desk,1,763.6,0.069,710.91,481.07,229.84,false
+ORD-10335,2025-11-02,CUST-0015,North America,San Francisco,Marketplace,Home & Kitchen,Ceramic Cookware Set,1,262.4,0.211,207.03,146.94,60.09,false
+ORD-10921,2025-11-02,CUST-0087,North America,San Francisco,Web,Apparel,Wool Scarf,3,52.8,0.139,136.38,55.44,80.94,false
+ORD-11051,2025-11-03,CUST-0069,EMEA,Madrid,Marketplace,Apparel,Denim Jacket,1,112.75,0.222,87.72,46.23,41.49,false
+ORD-11115,2025-11-03,CUST-0025,North America,Chicago,Retail Store,Office Supplies,Sticky Notes Set,1,8.51,0.026,8.29,2.04,6.25,false
+ORD-11472,2025-11-03,CUST-0116,North America,Toronto,Partner Reseller,Furniture,Bookshelf Unit,1,233.97,0.177,192.56,154.42,38.14,false
+ORD-10771,2025-11-04,CUST-0097,APAC,Singapore,Retail Store,Office Supplies,Gel Pen Pack,2,11.89,0.156,20.07,6.18,13.89,false
+ORD-10025,2025-11-05,CUST-0118,North America,San Francisco,Partner Reseller,Office Supplies,Notebook A5,4,19.15,0.064,71.7,22.98,48.72,false
+ORD-10465,2025-11-05,CUST-0045,North America,Toronto,Mobile App,Furniture,Bookshelf Unit,3,249.35,0.041,717.38,493.71,223.67,false
+ORD-10727,2025-11-05,CUST-0079,North America,Austin,Partner Reseller,Office Supplies,Sticky Notes Set,4,8.22,0.124,28.8,7.89,20.91,false
+ORD-11203,2025-11-06,CUST-0009,North America,Chicago,Marketplace,Electronics,Mechanical Keyboard,3,123.12,0.156,311.74,177.29,134.45,false
+ORD-10402,2025-11-07,CUST-0093,LATAM,Sao Paulo,Retail Store,Office Supplies,Notebook A5,2,18.04,0.076,33.34,10.82,22.52,false
+ORD-10622,2025-11-07,CUST-0039,EMEA,Amsterdam,Marketplace,Home & Kitchen,Coffee Grinder,3,160.64,0.184,393.25,236.14,157.11,false
+ORD-10676,2025-11-07,CUST-0135,EMEA,Amsterdam,Retail Store,Home & Kitchen,Ceramic Cookware Set,4,250.99,0.029,974.85,562.22,412.63,false
+ORD-10053,2025-11-08,CUST-0034,North America,Vancouver,Web,Office Supplies,Notebook A5,2,20.28,0.135,35.08,12.17,22.91,false
+ORD-10889,2025-11-08,CUST-0091,EMEA,Berlin,Web,Furniture,Conference Table,1,1193.49,0.075,1103.98,823.51,280.47,false
+ORD-11441,2025-11-09,CUST-0093,LATAM,Sao Paulo,Mobile App,Office Supplies,Sticky Notes Set,2,9.44,0.002,18.84,4.53,14.31,false
+ORD-10360,2025-11-10,CUST-0084,APAC,Tokyo,Retail Store,Office Supplies,Gel Pen Pack,5,12.53,0.027,60.96,16.29,44.67,false
+ORD-10679,2025-11-10,CUST-0043,EMEA,Amsterdam,Marketplace,Office Supplies,Sticky Notes Set,2,9.27,0.173,15.33,4.45,10.88,false
+ORD-10934,2025-11-10,CUST-0016,North America,Toronto,Partner Reseller,Furniture,Ergonomic Chair,5,598.92,0.15,-2545.41,-1736.87,-808.54,true
+ORD-10566,2025-11-11,CUST-0135,EMEA,Amsterdam,Web,Furniture,Conference Table,1,1447.39,0.049,1376.47,998.7,377.77,false
+ORD-10848,2025-11-11,CUST-0082,LATAM,Sao Paulo,Partner Reseller,Electronics,Mechanical Keyboard,2,135.51,0.153,229.55,130.09,99.46,false
+ORD-11134,2025-11-11,CUST-0111,North America,New York,Retail Store,Apparel,Denim Jacket,1,130.57,0.055,123.39,53.53,69.86,false
+ORD-11273,2025-11-11,CUST-0103,LATAM,Sao Paulo,Partner Reseller,Office Supplies,Notebook A5,1,16.86,0.061,15.83,5.06,10.77,false
+ORD-11324,2025-11-11,CUST-0040,APAC,Singapore,Mobile App,Office Supplies,Sticky Notes Set,2,10.1,0.093,18.32,4.85,13.47,false
+ORD-11358,2025-11-11,CUST-0087,North America,San Francisco,Partner Reseller,Apparel,Wool Scarf,4,44.37,0.16,149.08,62.12,86.96,false
+ORD-11136,2025-11-12,CUST-0125,EMEA,Berlin,Web,Office Supplies,Sticky Notes Set,2,10.42,0.057,19.65,5.0,14.65,false
+ORD-10231,2025-11-14,CUST-0089,EMEA,Madrid,Marketplace,Office Supplies,Gel Pen Pack,1,10.78,0.157,9.09,2.8,6.29,false
+ORD-10855,2025-11-14,CUST-0108,North America,Toronto,Mobile App,Furniture,Bookshelf Unit,1,248.98,0.114,220.6,164.33,56.27,false
+ORD-11433,2025-11-14,CUST-0136,North America,Toronto,Web,Electronics,Laptop Pro 14,1,1425.21,0.008,1413.81,969.14,444.67,false
+ORD-11338,2025-11-15,CUST-0078,EMEA,Berlin,Mobile App,Home & Kitchen,Coffee Grinder,1,138.12,0.023,134.94,67.68,67.26,false
+ORD-11346,2025-11-15,CUST-0066,EMEA,Amsterdam,Web,Apparel,Cotton Hoodie,1,88.99,0.036,-85.79,-33.82,-51.97,true
+ORD-11415,2025-11-15,CUST-0097,APAC,Singapore,Retail Store,Apparel,Denim Jacket,2,138.99,0.106,248.51,113.97,134.54,false
+ORD-10275,2025-11-16,CUST-0133,EMEA,Dublin,Web,Office Supplies,Desk Organizer,2,32.46,0.052,61.54,23.37,38.17,false
+ORD-10494,2025-11-17,CUST-0014,APAC,Mumbai,Mobile App,Office Supplies,Gel Pen Pack,1,13.46,0.091,-12.24,-3.5,-8.74,true
+ORD-10123,2025-11-18,CUST-0135,EMEA,Amsterdam,Web,Apparel,Running Shoes,1,153.78,0.071,142.86,67.66,75.2,false
+ORD-10520,2025-11-18,CUST-0132,North America,Vancouver,Mobile App,Apparel,Running Shoes,2,124.66,0.08,229.37,109.7,119.67,false
+ORD-10559,2025-11-18,CUST-0047,North America,Toronto,Mobile App,Home & Kitchen,Chef Knife,1,132.84,0.079,122.35,55.79,66.56,false
+ORD-11251,2025-11-18,CUST-0049,North America,Austin,Web,Furniture,Standing Desk,2,798.3,0.125,1397.02,1005.86,391.16,false
+ORD-10120,2025-11-19,CUST-0013,North America,Austin,Mobile App,Furniture,Ergonomic Chair,2,607.37,0.093,1101.77,704.55,397.22,false
+ORD-10164,2025-11-19,CUST-0031,EMEA,Paris,Web,Furniture,Ergonomic Chair,1,547.1,0.089,498.41,317.32,181.09,false
+ORD-10432,2025-11-19,CUST-0122,LATAM,Bogota,Mobile App,Office Supplies,Desk Organizer,2,39.02,0.064,73.05,28.09,44.96,false
+ORD-10153,2025-11-20,CUST-0078,EMEA,Berlin,Marketplace,Furniture,Bookshelf Unit,3,197.58,0.278,427.96,391.21,36.75,false
+ORD-10857,2025-11-20,CUST-0107,APAC,Sydney,Marketplace,Electronics,Laptop Pro 14,4,1345.36,0.228,4154.47,3659.38,495.09,false
+ORD-10914,2025-11-22,CUST-0040,APAC,Singapore,Partner Reseller,Apparel,Cotton Hoodie,1,81.01,0.139,69.75,30.78,38.97,false
+ORD-10438,2025-11-23,CUST-0053,EMEA,Berlin,Marketplace,Office Supplies,Gel Pen Pack,2,10.57,0.266,15.52,5.5,10.02,false
+ORD-11286,2025-11-23,CUST-0068,EMEA,Paris,Web,Office Supplies,Desk Organizer,2,37.95,0.12,66.79,27.32,39.47,false
+ORD-10233,2025-11-24,CUST-0038,North America,San Francisco,Web,Electronics,Smartphone X,8,1170.48,0.121,8230.82,6929.24,1301.58,false
+ORD-10581,2025-11-24,CUST-0047,North America,Toronto,Web,Apparel,Cotton Hoodie,1,84.16,0.136,72.71,31.98,40.73,false
+ORD-11083,2025-11-25,CUST-0080,North America,Chicago,Marketplace,Office Supplies,Notebook A5,1,16.76,0.259,12.42,5.03,7.39,false
+ORD-11215,2025-11-25,CUST-0068,EMEA,Paris,Web,Office Supplies,Gel Pen Pack,3,11.89,0.045,34.06,9.27,24.79,false
+ORD-10071,2025-11-26,CUST-0008,APAC,Seoul,Marketplace,Electronics,Smartphone X,1,899.27,0.236,687.04,665.46,21.58,false
+ORD-10901,2025-11-26,CUST-0116,North America,Toronto,Web,Home & Kitchen,Ceramic Cookware Set,5,274.72,0.05,1304.92,769.22,535.7,false
+ORD-10113,2025-11-27,CUST-0126,EMEA,Amsterdam,Retail Store,Electronics,4K Monitor 27,1,443.57,0.091,403.21,314.93,88.28,false
+ORD-10839,2025-11-27,CUST-0094,North America,Vancouver,Web,Office Supplies,Desk Organizer,1,34.13,0.068,31.81,12.29,19.52,false
+ORD-11124,2025-11-27,CUST-0005,APAC,Sydney,Mobile App,Furniture,Bookshelf Unit,3,229.7,0.064,-645.0,-454.81,-190.19,true
+ORD-10840,2025-11-29,CUST-0015,North America,San Francisco,Retail Store,Office Supplies,Notebook A5,1,21.58,0.058,20.33,6.47,13.86,false
+ORD-10937,2025-11-29,CUST-0005,APAC,Sydney,Marketplace,Office Supplies,Notebook A5,2,19.17,0.165,32.01,11.5,20.51,false
+ORD-11459,2025-11-29,CUST-0027,North America,Toronto,Partner Reseller,Apparel,Running Shoes,5,153.22,0.115,678.0,337.08,340.92,false
+ORD-11475,2025-11-29,CUST-0061,EMEA,Paris,Retail Store,Apparel,Denim Jacket,2,135.7,0.151,230.42,111.27,119.15,false
+ORD-10290,2025-11-30,CUST-0016,North America,Toronto,Marketplace,Office Supplies,Gel Pen Pack,1,13.49,0.1,12.14,3.51,8.63,false
+ORD-10294,2025-11-30,CUST-0045,North America,Toronto,Web,Office Supplies,Notebook A5,1,18.23,0.024,17.79,5.47,12.32,false
+ORD-10316,2025-12-01,CUST-0132,North America,Vancouver,Mobile App,Electronics,Wireless Earbuds,2,204.36,0.018,401.36,212.53,188.83,false
+ORD-10488,2025-12-01,CUST-0036,EMEA,Dublin,Web,Apparel,Wool Scarf,1,45.67,0.009,45.26,15.98,29.28,false
+ORD-10582,2025-12-01,CUST-0022,EMEA,London,Web,Electronics,Wireless Earbuds,2,194.4,0.107,347.2,202.18,145.02,false
+ORD-10813,2025-12-01,CUST-0029,North America,Chicago,Web,Office Supplies,Sticky Notes Set,6,8.68,0.011,51.51,12.5,39.01,false
+ORD-11372,2025-12-01,CUST-0056,APAC,Singapore,Web,Apparel,Cotton Hoodie,1,72.15,0.104,64.65,27.42,37.23,false
+ORD-10051,2025-12-02,CUST-0024,LATAM,Buenos Aires,Web,Office Supplies,Gel Pen Pack,1,11.21,0.032,10.85,2.91,7.94,false
+ORD-10888,2025-12-03,CUST-0027,North America,Toronto,Marketplace,Electronics,Mechanical Keyboard,1,159.6,0.117,-140.93,-76.61,-64.32,true
+ORD-11092,2025-12-05,CUST-0125,EMEA,Berlin,Mobile App,Furniture,Conference Table,1,1156.92,0.041,1109.49,798.27,311.22,false
+ORD-11173,2025-12-06,CUST-0075,EMEA,Dublin,Retail Store,Electronics,Wireless Earbuds,4,210.38,0.197,675.74,437.59,238.15,false
+ORD-11078,2025-12-07,CUST-0063,North America,Toronto,Web,Furniture,Bookshelf Unit,8,210.18,0.042,1610.82,1109.75,501.07,false
+ORD-11371,2025-12-08,CUST-0048,North America,New York,Partner Reseller,Office Supplies,Desk Organizer,1,37.17,0.08,34.2,13.38,20.82,false
+ORD-10475,2025-12-09,CUST-0083,North America,San Francisco,Web,Furniture,Bookshelf Unit,1,218.25,0.149,185.73,144.05,41.68,false
+ORD-11351,2025-12-09,CUST-0018,North America,Chicago,Web,Electronics,Wireless Earbuds,5,208.73,0.01,1033.21,542.7,490.51,false
+ORD-11469,2025-12-09,CUST-0139,EMEA,Paris,Marketplace,Apparel,Denim Jacket,1,139.32,0.21,110.06,57.12,52.94,false
+ORD-10528,2025-12-10,CUST-0042,North America,Chicago,Marketplace,Electronics,Wireless Earbuds,6,160.14,0.138,828.24,499.64,328.6,false
+ORD-11257,2025-12-10,CUST-0108,North America,Toronto,Mobile App,Home & Kitchen,Ceramic Cookware Set,2,293.69,0.031,569.17,328.93,240.24,false
+ORD-11069,2025-12-11,CUST-0126,EMEA,Amsterdam,Web,Office Supplies,Sticky Notes Set,2,8.81,0.068,16.42,4.23,12.19,false
+ORD-11471,2025-12-12,CUST-0024,LATAM,Buenos Aires,Retail Store,Apparel,Cotton Hoodie,1,78.77,0.039,75.7,29.93,45.77,false
+ORD-10100,2025-12-13,CUST-0028,APAC,Mumbai,Web,Office Supplies,Desk Organizer,2,35.34,0.096,-63.89,-25.44,-38.45,true
+ORD-10181,2025-12-13,CUST-0031,EMEA,Paris,Web,Home & Kitchen,Air Purifier,1,387.02,0.11,344.45,236.08,108.37,false
+ORD-11145,2025-12-13,CUST-0024,LATAM,Buenos Aires,Retail Store,Electronics,Smartphone X,1,958.05,0.143,821.05,708.96,112.09,false
+ORD-10729,2025-12-14,CUST-0107,APAC,Sydney,Web,Office Supplies,Sticky Notes Set,1,9.82,0.03,9.53,2.36,7.17,false
+ORD-10393,2025-12-15,CUST-0013,North America,Austin,Partner Reseller,Office Supplies,Sticky Notes Set,3,9.47,0.062,26.65,6.82,19.83,false
+ORD-10395,2025-12-15,CUST-0035,EMEA,Berlin,Mobile App,Office Supplies,Notebook A5,2,19.92,0.12,35.06,11.95,23.11,false
+ORD-10923,2025-12-15,CUST-0090,APAC,Singapore,Web,Office Supplies,Sticky Notes Set,1,9.9,0.035,9.55,2.38,7.17,false
+ORD-11237,2025-12-15,CUST-0011,EMEA,Madrid,Partner Reseller,Electronics,Smartphone X,6,920.38,0.092,5014.23,4086.49,927.74,false
+ORD-11331,2025-12-15,CUST-0014,APAC,Mumbai,Web,Electronics,Wireless Earbuds,8,177.22,0.103,1271.73,737.24,534.49,false
+ORD-10944,2025-12-16,CUST-0117,North America,New York,Retail Store,Home & Kitchen,Coffee Grinder,1,157.41,0.06,147.97,77.13,70.84,false
+ORD-11095,2025-12-17,CUST-0081,EMEA,Amsterdam,Marketplace,Home & Kitchen,Air Purifier,3,367.39,0.144,943.46,672.32,271.14,false
+ORD-11464,2025-12-17,CUST-0128,North America,San Francisco,Marketplace,Furniture,Standing Desk,1,781.29,0.153,-661.75,-492.21,-169.54,true
+ORD-10623,2025-12-18,CUST-0078,EMEA,Berlin,Web,Office Supplies,Gel Pen Pack,4,13.8,0.092,50.12,14.35,35.77,false
+ORD-10789,2025-12-18,CUST-0047,North America,Toronto,Marketplace,Furniture,Conference Table,1,1181.82,0.16,992.73,815.46,177.27,false
+ORD-11151,2025-12-20,CUST-0138,APAC,Seoul,Retail Store,Office Supplies,Notebook A5,8,20.76,0.107,148.31,49.82,98.49,false
+ORD-10504,2025-12-21,CUST-0019,North America,San Francisco,Mobile App,Apparel,Denim Jacket,1,131.6,0.084,120.55,53.96,66.59,false
+ORD-10748,2025-12-22,CUST-0016,North America,Toronto,Retail Store,Home & Kitchen,Air Purifier,1,427.82,0.162,358.51,260.97,97.54,false
+ORD-11014,2025-12-22,CUST-0015,North America,San Francisco,Retail Store,Home & Kitchen,Ceramic Cookware Set,5,328.99,0.126,1437.69,921.17,516.52,false
+ORD-11155,2025-12-22,CUST-0035,EMEA,Berlin,Mobile App,Home & Kitchen,Coffee Grinder,2,161.28,0.04,309.66,158.05,151.61,false
+ORD-11221,2025-12-23,CUST-0075,EMEA,Dublin,Mobile App,Electronics,4K Monitor 27,1,440.65,0.115,389.98,312.86,77.12,false
+ORD-11154,2025-12-24,CUST-0091,EMEA,Berlin,Mobile App,Electronics,Smartphone X,6,1097.23,0.086,6017.21,4871.7,1145.51,false
+ORD-10638,2025-12-25,CUST-0080,North America,Chicago,Mobile App,Office Supplies,Notebook A5,1,20.25,0.069,-18.85,-6.08,-12.77,true
+ORD-11117,2025-12-28,CUST-0134,LATAM,Mexico City,Web,Office Supplies,Sticky Notes Set,5,8.81,0.056,41.58,10.57,31.01,false
+ORD-10201,2025-12-29,CUST-0012,EMEA,Berlin,Mobile App,Home & Kitchen,Ceramic Cookware Set,3,276.7,0.117,732.98,464.86,268.12,false
+ORD-10514,2025-12-29,CUST-0047,North America,Toronto,Marketplace,Home & Kitchen,Ceramic Cookware Set,2,258.37,0.128,-450.6,-289.37,-161.23,true
+ORD-11342,2025-12-29,CUST-0096,EMEA,London,Marketplace,Apparel,Cotton Hoodie,6,74.3,0.11,396.76,169.4,227.36,false
+ORD-10532,2025-12-30,CUST-0030,EMEA,London,Web,Apparel,Wool Scarf,1,43.38,0.052,41.12,15.18,25.94,false
+ORD-11189,2025-12-30,CUST-0050,North America,San Francisco,Marketplace,Home & Kitchen,Chef Knife,1,131.45,0.252,98.32,55.21,43.11,false
+ORD-11301,2025-12-31,CUST-0100,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,12.16,0.064,11.38,3.16,8.22,false
+ORD-10704,2026-01-01,CUST-0137,North America,Toronto,Retail Store,Furniture,Bookshelf Unit,3,234.83,0.143,603.75,464.96,138.79,false
+ORD-10569,2026-01-02,CUST-0079,North America,Austin,Mobile App,Electronics,Mechanical Keyboard,4,149.93,0.113,531.95,287.87,244.08,false
+ORD-10819,2026-01-02,CUST-0057,North America,Vancouver,Web,Office Supplies,Notebook A5,8,16.82,0.084,123.26,40.37,82.89,false
+ORD-11266,2026-01-02,CUST-0025,North America,Chicago,Web,Apparel,Denim Jacket,8,105.95,0.046,808.61,347.52,461.09,false
+ORD-10322,2026-01-07,CUST-0123,EMEA,Amsterdam,Marketplace,Office Supplies,Desk Organizer,1,32.41,0.106,28.97,11.67,17.3,false
+ORD-10414,2026-01-07,CUST-0138,APAC,Seoul,Marketplace,Office Supplies,Sticky Notes Set,2,9.14,0.245,-13.8,-4.39,-9.41,true
+ORD-10097,2026-01-08,CUST-0068,EMEA,Paris,Web,Office Supplies,Notebook A5,2,18.0,0.146,30.74,10.8,19.94,false
+ORD-10185,2026-01-08,CUST-0007,APAC,Seoul,Web,Office Supplies,Desk Organizer,2,35.12,0.112,62.37,25.29,37.08,false
+ORD-10350,2026-01-08,CUST-0061,EMEA,Paris,Web,Office Supplies,Sticky Notes Set,3,9.91,0.071,-27.62,-7.14,-20.48,true
+ORD-11391,2026-01-11,CUST-0077,North America,Chicago,Marketplace,Office Supplies,Gel Pen Pack,4,11.13,0.156,37.57,11.58,25.99,false
+ORD-10649,2026-01-12,CUST-0072,North America,Vancouver,Mobile App,Office Supplies,Notebook A5,3,21.76,0.113,57.9,19.58,38.32,false
+ORD-11048,2026-01-12,CUST-0078,EMEA,Berlin,Partner Reseller,Apparel,Cotton Hoodie,1,84.99,0.165,70.97,32.3,38.67,false
+ORD-10252,2026-01-13,CUST-0137,North America,Toronto,Partner Reseller,Office Supplies,Gel Pen Pack,1,11.64,0.072,10.8,3.03,7.77,false
+ORD-11322,2026-01-14,CUST-0017,North America,Chicago,Web,Furniture,Conference Table,2,1179.41,0.1,2122.94,1627.59,495.35,false
+ORD-11476,2026-01-15,CUST-0117,North America,New York,Web,Office Supplies,Notebook A5,1,19.81,0.117,17.49,5.94,11.55,false
+ORD-10834,2026-01-16,CUST-0134,LATAM,Mexico City,Marketplace,Home & Kitchen,Air Purifier,1,384.37,0.251,287.89,234.47,53.42,false
+ORD-11423,2026-01-16,CUST-0031,EMEA,Paris,Retail Store,Home & Kitchen,Ceramic Cookware Set,4,302.45,0.078,1115.44,677.49,437.95,false
+ORD-10158,2026-01-17,CUST-0080,North America,Chicago,Mobile App,Apparel,Denim Jacket,1,108.21,0.087,98.8,44.37,54.43,false
+ORD-10460,2026-01-17,CUST-0072,North America,Vancouver,Retail Store,Apparel,Cotton Hoodie,1,80.72,0.148,68.77,30.67,38.1,false
+ORD-10259,2026-01-18,CUST-0004,EMEA,Amsterdam,Mobile App,Home & Kitchen,Chef Knife,1,113.68,0.088,103.68,47.75,55.93,false
+ORD-10775,2026-01-18,CUST-0128,North America,San Francisco,Retail Store,Office Supplies,Sticky Notes Set,2,9.01,0.123,15.8,4.32,11.48,false
+ORD-11416,2026-01-18,CUST-0062,EMEA,Dublin,Web,Office Supplies,Gel Pen Pack,8,11.75,0.146,80.28,24.44,55.84,false
+ORD-10502,2026-01-19,CUST-0056,APAC,Singapore,Marketplace,Electronics,Wireless Earbuds,1,183.28,0.141,157.44,95.31,62.13,false
+ORD-10271,2026-01-20,CUST-0088,EMEA,Paris,Partner Reseller,Electronics,4K Monitor 27,1,427.16,0.161,358.39,303.28,55.11,false
+ORD-10698,2026-01-20,CUST-0099,APAC,Mumbai,Mobile App,Home & Kitchen,Coffee Grinder,1,173.39,0.029,168.36,84.96,83.4,false
+ORD-10906,2026-01-20,CUST-0021,North America,New York,Partner Reseller,Apparel,Cotton Hoodie,1,85.6,0.1,77.04,32.53,44.51,false
+ORD-10471,2026-01-21,CUST-0050,North America,San Francisco,Partner Reseller,Office Supplies,Desk Organizer,1,30.03,0.051,28.5,10.81,17.69,false
+ORD-10968,2026-01-21,CUST-0131,EMEA,Amsterdam,Mobile App,Electronics,Mechanical Keyboard,1,149.4,0.046,142.53,71.71,70.82,false
+ORD-11229,2026-01-21,CUST-0050,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,13.08,0.128,11.41,3.4,8.01,false
+ORD-10583,2026-01-23,CUST-0019,North America,San Francisco,Web,Electronics,Laptop Pro 14,1,1497.06,0.15,1272.5,1018.0,254.5,false
+ORD-10737,2026-01-23,CUST-0114,North America,Chicago,Marketplace,Furniture,Standing Desk,3,688.17,0.268,1511.22,1300.64,210.58,false
+ORD-11390,2026-01-25,CUST-0046,EMEA,Berlin,Web,Furniture,Ergonomic Chair,1,592.1,0.034,571.97,343.42,228.55,false
+ORD-10103,2026-01-26,CUST-0010,North America,Vancouver,Retail Store,Home & Kitchen,Coffee Grinder,1,172.23,0.199,137.96,84.39,53.57,false
+ORD-10291,2026-01-27,CUST-0058,APAC,Mumbai,Web,Office Supplies,Gel Pen Pack,3,13.44,0.043,38.59,10.48,28.11,false
+ORD-10196,2026-01-28,CUST-0058,APAC,Mumbai,Marketplace,Apparel,Running Shoes,1,125.57,0.155,106.11,55.25,50.86,false
+ORD-10495,2026-01-28,CUST-0138,APAC,Seoul,Mobile App,Electronics,Mechanical Keyboard,1,159.64,0.087,145.75,76.63,69.12,false
+ORD-10319,2026-01-29,CUST-0140,LATAM,Mexico City,Web,Office Supplies,Gel Pen Pack,2,13.79,0.012,27.25,7.17,20.08,false
+ORD-10712,2026-01-29,CUST-0004,EMEA,Amsterdam,Retail Store,Furniture,Bookshelf Unit,1,241.2,0.151,204.78,159.19,45.59,false
+ORD-10654,2026-01-30,CUST-0072,North America,Vancouver,Web,Office Supplies,Desk Organizer,3,36.3,0.121,95.72,39.2,56.52,false
+ORD-10965,2026-01-30,CUST-0009,North America,Chicago,Web,Office Supplies,Notebook A5,1,19.65,0.079,18.1,5.89,12.21,false
+ORD-10240,2026-01-31,CUST-0083,North America,San Francisco,Marketplace,Furniture,Standing Desk,1,659.45,0.245,497.88,415.45,82.43,false
+ORD-10567,2026-01-31,CUST-0109,North America,Austin,Web,Furniture,Ergonomic Chair,1,550.38,0.129,479.38,319.22,160.16,false
+ORD-10776,2026-02-02,CUST-0109,North America,Austin,Web,Office Supplies,Sticky Notes Set,3,10.49,0.124,27.57,7.55,20.02,false
+ORD-11387,2026-02-03,CUST-0062,EMEA,Dublin,Mobile App,Electronics,Smartphone X,2,1087.67,0.001,2173.16,1609.75,563.41,false
+ORD-10333,2026-02-04,CUST-0042,North America,Chicago,Marketplace,Electronics,4K Monitor 27,3,456.55,0.217,-1072.44,-972.45,-99.99,true
+ORD-10392,2026-02-04,CUST-0003,North America,Toronto,Web,Office Supplies,Desk Organizer,2,33.18,0.085,60.72,23.89,36.83,false
+ORD-11065,2026-02-05,CUST-0105,North America,Toronto,Retail Store,Office Supplies,Sticky Notes Set,1,9.05,0.052,8.58,2.17,6.41,false
+ORD-10384,2026-02-06,CUST-0028,APAC,Mumbai,Marketplace,Office Supplies,Desk Organizer,3,34.28,0.101,92.45,37.02,55.43,false
+ORD-11312,2026-02-07,CUST-0112,North America,New York,Mobile App,Office Supplies,Sticky Notes Set,2,9.97,0.017,19.6,4.79,14.81,false
+ORD-11037,2026-02-08,CUST-0020,APAC,Seoul,Web,Office Supplies,Notebook A5,1,19.2,0.051,18.22,5.76,12.46,false
+ORD-11099,2026-02-08,CUST-0111,North America,New York,Retail Store,Office Supplies,Gel Pen Pack,8,11.11,0.066,83.01,23.11,59.9,false
+ORD-11126,2026-02-08,CUST-0139,EMEA,Paris,Retail Store,Home & Kitchen,Chef Knife,1,150.64,0.19,122.02,63.27,58.75,false
+ORD-10184,2026-02-09,CUST-0099,APAC,Mumbai,Marketplace,Apparel,Running Shoes,1,149.2,0.13,129.8,65.65,64.15,false
+ORD-10690,2026-02-09,CUST-0138,APAC,Seoul,Mobile App,Apparel,Running Shoes,1,128.12,0.117,113.13,56.37,56.76,false
+ORD-10108,2026-02-10,CUST-0085,North America,Vancouver,Web,Apparel,Denim Jacket,2,129.45,0.009,256.57,106.15,150.42,false
+ORD-11389,2026-02-10,CUST-0043,EMEA,Amsterdam,Marketplace,Electronics,Laptop Pro 14,1,1250.39,0.114,1107.85,850.27,257.58,false
+ORD-11309,2026-02-11,CUST-0097,APAC,Singapore,Mobile App,Electronics,Wireless Earbuds,2,198.02,0.066,369.9,205.94,163.96,false
+ORD-10444,2026-02-12,CUST-0034,North America,Vancouver,Marketplace,Electronics,Mechanical Keyboard,1,135.26,0.209,106.99,64.92,42.07,false
+ORD-10897,2026-02-12,CUST-0025,North America,Chicago,Web,Electronics,Mechanical Keyboard,2,136.95,0.082,251.44,131.47,119.97,false
+ORD-10489,2026-02-14,CUST-0095,APAC,Seoul,Partner Reseller,Office Supplies,Gel Pen Pack,1,10.92,0.16,9.17,2.84,6.33,false
+ORD-11355,2026-02-14,CUST-0008,APAC,Seoul,Marketplace,Apparel,Running Shoes,1,143.69,0.242,108.92,63.22,45.7,false
+ORD-10426,2026-02-15,CUST-0017,North America,Chicago,Marketplace,Apparel,Cotton Hoodie,1,82.01,0.185,66.84,31.16,35.68,false
+ORD-10241,2026-02-16,CUST-0096,EMEA,London,Web,Office Supplies,Gel Pen Pack,1,12.38,0.02,12.13,3.22,8.91,false
+ORD-10005,2026-02-17,CUST-0026,APAC,Seoul,Retail Store,Apparel,Denim Jacket,1,133.14,0.059,125.28,54.59,70.69,false
+ORD-10796,2026-02-18,CUST-0040,APAC,Singapore,Mobile App,Electronics,Wireless Earbuds,1,204.62,0.102,183.75,106.4,77.35,false
+ORD-10991,2026-02-19,CUST-0006,North America,New York,Mobile App,Electronics,Mechanical Keyboard,1,153.01,0.095,138.47,73.44,65.03,false
+ORD-11185,2026-02-19,CUST-0140,LATAM,Mexico City,Retail Store,Electronics,Smartphone X,5,1072.36,0.056,5061.54,3967.73,1093.81,false
+ORD-10994,2026-02-20,CUST-0028,APAC,Mumbai,Web,Apparel,Running Shoes,3,140.96,0.072,392.43,186.07,206.36,false
+ORD-11085,2026-02-20,CUST-0079,North America,Austin,Mobile App,Office Supplies,Gel Pen Pack,1,11.64,0.073,10.79,3.03,7.76,false
+ORD-10119,2026-02-22,CUST-0108,North America,Toronto,Retail Store,Office Supplies,Sticky Notes Set,1,8.1,0.119,7.14,1.94,5.2,false
+ORD-10409,2026-02-22,CUST-0106,North America,Vancouver,Marketplace,Home & Kitchen,Coffee Grinder,4,159.59,0.228,492.81,312.8,180.01,false
+ORD-10741,2026-02-23,CUST-0066,EMEA,Amsterdam,Marketplace,Office Supplies,Sticky Notes Set,2,10.41,0.207,16.51,5.0,11.51,false
+ORD-11445,2026-02-23,CUST-0136,North America,Toronto,Partner Reseller,Apparel,Cotton Hoodie,1,89.51,0.151,75.99,34.01,41.98,false
+ORD-10246,2026-02-24,CUST-0122,LATAM,Bogota,Mobile App,Home & Kitchen,Chef Knife,1,123.29,0.097,111.33,51.78,59.55,false
+ORD-10987,2026-02-24,CUST-0017,North America,Chicago,Web,Office Supplies,Gel Pen Pack,1,11.13,0.08,10.24,2.89,7.35,false
+ORD-10152,2026-02-25,CUST-0119,North America,Austin,Marketplace,Home & Kitchen,Coffee Grinder,4,134.21,0.25,402.63,263.05,139.58,false
+ORD-10370,2026-02-25,CUST-0099,APAC,Mumbai,Marketplace,Office Supplies,Gel Pen Pack,1,12.22,0.234,9.36,3.18,6.18,false
+ORD-10908,2026-02-25,CUST-0035,EMEA,Berlin,Web,Apparel,Cotton Hoodie,1,91.49,0.069,85.18,34.77,50.41,false
+ORD-10155,2026-02-26,CUST-0091,EMEA,Berlin,Mobile App,Electronics,Smartphone X,2,1072.95,0.116,1896.98,1587.97,309.01,false
+ORD-11141,2026-02-26,CUST-0054,APAC,Tokyo,Marketplace,Office Supplies,Sticky Notes Set,3,9.95,0.236,22.81,7.16,15.65,false
+ORD-10686,2026-02-27,CUST-0089,EMEA,Madrid,Mobile App,Office Supplies,Gel Pen Pack,2,12.92,0.057,24.37,6.72,17.65,false
+ORD-10082,2026-02-28,CUST-0054,APAC,Tokyo,Marketplace,Office Supplies,Gel Pen Pack,2,12.82,0.138,22.1,6.67,15.43,false
+ORD-11104,2026-03-01,CUST-0036,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,6,7.99,0.13,41.71,11.51,30.2,false
+ORD-11131,2026-03-01,CUST-0121,APAC,Singapore,Retail Store,Furniture,Standing Desk,2,743.04,0.031,1440.01,936.23,503.78,false
+ORD-10884,2026-03-02,CUST-0058,APAC,Mumbai,Marketplace,Electronics,Mechanical Keyboard,1,157.16,0.128,137.04,75.44,61.6,false
+ORD-10301,2026-03-03,CUST-0109,North America,Austin,Retail Store,Office Supplies,Notebook A5,4,20.95,0.087,76.51,25.14,51.37,false
+ORD-10627,2026-03-03,CUST-0109,North America,Austin,Web,Home & Kitchen,Coffee Grinder,1,159.15,0.053,-150.72,-77.98,-72.74,true
+ORD-10199,2026-03-05,CUST-0140,LATAM,Mexico City,Web,Office Supplies,Notebook A5,1,18.05,0.052,17.11,5.42,11.69,false
+ORD-10378,2026-03-05,CUST-0083,North America,San Francisco,Mobile App,Office Supplies,Desk Organizer,1,35.27,0.06,33.15,12.7,20.45,false
+ORD-10625,2026-03-05,CUST-0078,EMEA,Berlin,Mobile App,Electronics,4K Monitor 27,3,490.76,0.062,1381.0,1045.32,335.68,false
+ORD-10749,2026-03-05,CUST-0125,EMEA,Berlin,Retail Store,Office Supplies,Gel Pen Pack,5,11.13,0.004,55.43,14.47,40.96,false
+ORD-10490,2026-03-07,CUST-0125,EMEA,Berlin,Partner Reseller,Electronics,Laptop Pro 14,3,1374.5,0.087,3764.76,2803.98,960.78,false
+ORD-11408,2026-03-08,CUST-0135,EMEA,Amsterdam,Web,Electronics,Laptop Pro 14,1,1190.82,0.059,1120.56,809.76,310.8,false
+ORD-11422,2026-03-08,CUST-0033,EMEA,Paris,Web,Office Supplies,Gel Pen Pack,2,11.76,0.096,21.26,6.12,15.14,false
+ORD-10354,2026-03-10,CUST-0084,APAC,Tokyo,Marketplace,Office Supplies,Gel Pen Pack,4,11.93,0.137,41.18,12.41,28.77,false
+ORD-10537,2026-03-10,CUST-0062,EMEA,Dublin,Retail Store,Office Supplies,Notebook A5,3,19.73,0.143,50.73,17.76,32.97,false
+ORD-10151,2026-03-11,CUST-0097,APAC,Singapore,Web,Apparel,Denim Jacket,5,111.85,0.15,475.36,229.29,246.07,false
+ORD-10236,2026-03-11,CUST-0107,APAC,Sydney,Mobile App,Electronics,Smartphone X,6,909.15,0.013,5383.99,4036.63,1347.36,false
+ORD-11076,2026-03-12,CUST-0059,North America,Austin,Web,Office Supplies,Gel Pen Pack,2,13.99,0.076,25.85,7.27,18.58,false
+ORD-10433,2026-03-13,CUST-0015,North America,San Francisco,Marketplace,Office Supplies,Gel Pen Pack,1,12.49,0.122,10.97,3.25,7.72,false
+ORD-10464,2026-03-13,CUST-0034,North America,Vancouver,Web,Office Supplies,Gel Pen Pack,3,12.73,0.137,32.96,9.93,23.03,false
+ORD-11165,2026-03-13,CUST-0030,EMEA,London,Web,Office Supplies,Notebook A5,1,22.19,0.074,20.55,6.66,13.89,false
+ORD-10055,2026-03-14,CUST-0050,North America,San Francisco,Partner Reseller,Apparel,Wool Scarf,1,47.26,0.1,42.53,16.54,25.99,false
+ORD-10266,2026-03-14,CUST-0051,EMEA,Paris,Retail Store,Office Supplies,Sticky Notes Set,8,8.89,0.082,65.29,17.07,48.22,false
+ORD-10860,2026-03-14,CUST-0067,EMEA,London,Web,Office Supplies,Notebook A5,1,16.87,0.002,16.84,5.06,11.78,false
+ORD-10992,2026-03-14,CUST-0132,North America,Vancouver,Mobile App,Office Supplies,Gel Pen Pack,1,14.05,0.069,13.08,3.65,9.43,false
+ORD-10237,2026-03-15,CUST-0138,APAC,Seoul,Web,Home & Kitchen,Ceramic Cookware Set,2,293.4,0.071,545.14,328.61,216.53,false
+ORD-10258,2026-03-15,CUST-0023,EMEA,Berlin,Mobile App,Electronics,4K Monitor 27,1,438.96,0.001,438.52,311.66,126.86,false
+ORD-10311,2026-03-15,CUST-0112,North America,New York,Marketplace,Apparel,Running Shoes,1,142.33,0.169,118.28,62.63,55.65,false
+ORD-11353,2026-03-15,CUST-0024,LATAM,Buenos Aires,Web,Apparel,Running Shoes,6,152.57,0.137,790.01,402.78,387.23,false
+ORD-10394,2026-03-16,CUST-0034,North America,Vancouver,Marketplace,Apparel,Running Shoes,2,133.27,0.16,223.89,117.28,106.61,false
+ORD-11169,2026-03-16,CUST-0015,North America,San Francisco,Partner Reseller,Office Supplies,Notebook A5,1,20.07,0.167,16.72,6.02,10.7,false
+ORD-10505,2026-03-17,CUST-0086,LATAM,Sao Paulo,Partner Reseller,Office Supplies,Notebook A5,2,21.78,0.064,40.77,13.07,27.7,false
+ORD-10665,2026-03-17,CUST-0003,North America,Toronto,Mobile App,Apparel,Running Shoes,2,126.54,0.078,233.34,111.36,121.98,false
+ORD-11402,2026-03-17,CUST-0007,APAC,Seoul,Web,Office Supplies,Sticky Notes Set,2,10.07,0.076,18.61,4.83,13.78,false
+ORD-10570,2026-03-18,CUST-0065,North America,San Francisco,Partner Reseller,Office Supplies,Gel Pen Pack,1,13.48,0.066,12.59,3.5,9.09,false
+ORD-11138,2026-03-18,CUST-0118,North America,San Francisco,Partner Reseller,Office Supplies,Gel Pen Pack,3,12.82,0.151,32.65,10.0,22.65,false
+ORD-10296,2026-03-19,CUST-0092,APAC,Sydney,Mobile App,Electronics,Smartphone X,6,1035.15,0.094,5627.08,4596.07,1031.01,false
+ORD-11080,2026-03-19,CUST-0051,EMEA,Paris,Mobile App,Office Supplies,Gel Pen Pack,1,12.68,0.072,11.77,3.3,8.47,false
+ORD-11333,2026-03-19,CUST-0101,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,1,13.57,0.011,13.42,3.53,9.89,false
+ORD-10279,2026-03-21,CUST-0078,EMEA,Berlin,Marketplace,Home & Kitchen,Chef Knife,1,126.71,0.245,95.67,53.22,42.45,false
+ORD-10810,2026-03-21,CUST-0087,North America,San Francisco,Web,Office Supplies,Notebook A5,3,21.81,0.122,57.45,19.63,37.82,false
+ORD-11068,2026-03-21,CUST-0044,North America,San Francisco,Web,Apparel,Denim Jacket,1,121.95,0.04,117.07,50.0,67.07,false
+ORD-11177,2026-03-21,CUST-0047,North America,Toronto,Marketplace,Office Supplies,Notebook A5,6,20.8,0.219,97.47,37.44,60.03,false
+ORD-10390,2026-03-22,CUST-0125,EMEA,Berlin,Mobile App,Office Supplies,Desk Organizer,5,35.99,0.036,173.47,64.78,108.69,false
+ORD-10491,2026-03-22,CUST-0033,EMEA,Paris,Mobile App,Furniture,Bookshelf Unit,1,254.35,0.073,-235.78,-167.87,-67.91,true
+ORD-11248,2026-03-22,CUST-0122,LATAM,Bogota,Marketplace,Electronics,Laptop Pro 14,1,1488.57,0.219,1162.57,1012.23,150.34,false
+ORD-10870,2026-03-23,CUST-0080,North America,Chicago,Marketplace,Electronics,Wireless Earbuds,1,181.48,0.199,145.37,94.37,51.0,false
+ORD-10939,2026-03-23,CUST-0012,EMEA,Berlin,Marketplace,Home & Kitchen,Coffee Grinder,3,134.54,0.105,361.24,197.77,163.47,false
+ORD-11049,2026-03-23,CUST-0067,EMEA,London,Mobile App,Home & Kitchen,Chef Knife,3,140.39,0.006,418.64,176.89,241.75,false
+ORD-10677,2026-03-24,CUST-0137,North America,Toronto,Mobile App,Apparel,Running Shoes,8,132.52,0.006,1053.8,466.47,587.33,false
+ORD-11133,2026-03-24,CUST-0075,EMEA,Dublin,Partner Reseller,Furniture,Ergonomic Chair,2,581.78,0.097,1050.69,674.86,375.83,false
+ORD-10176,2026-03-25,CUST-0056,APAC,Singapore,Mobile App,Home & Kitchen,Ceramic Cookware Set,1,269.26,0.066,251.49,150.79,100.7,false
+ORD-10434,2026-03-25,CUST-0039,EMEA,Amsterdam,Partner Reseller,Apparel,Cotton Hoodie,2,89.49,0.124,156.79,68.01,88.78,false
+ORD-10742,2026-03-25,CUST-0058,APAC,Mumbai,Mobile App,Home & Kitchen,Chef Knife,2,128.11,0.086,234.19,107.61,126.58,false
+ORD-11388,2026-03-25,CUST-0085,North America,Vancouver,Web,Electronics,4K Monitor 27,2,377.53,0.104,676.53,536.09,140.44,false
+ORD-10156,2026-03-26,CUST-0003,North America,Toronto,Marketplace,Electronics,Wireless Earbuds,2,194.45,0.124,340.68,202.23,138.45,false
+ORD-10613,2026-03-26,CUST-0042,North America,Chicago,Marketplace,Office Supplies,Gel Pen Pack,2,11.02,0.12,19.4,5.73,13.67,false
+ORD-10469,2026-03-27,CUST-0081,EMEA,Amsterdam,Web,Home & Kitchen,Chef Knife,5,138.19,0.143,592.14,290.2,301.94,false
+ORD-10960,2026-03-28,CUST-0121,APAC,Singapore,Web,Office Supplies,Gel Pen Pack,1,12.63,0.137,10.9,3.28,7.62,false
+ORD-10961,2026-03-29,CUST-0093,LATAM,Sao Paulo,Partner Reseller,Furniture,Standing Desk,2,708.44,0.174,1170.34,892.63,277.71,false
+ORD-11107,2026-03-29,CUST-0123,EMEA,Amsterdam,Mobile App,Furniture,Ergonomic Chair,1,615.44,0.048,585.9,356.96,228.94,false
+ORD-11118,2026-03-29,CUST-0013,North America,Austin,Web,Office Supplies,Sticky Notes Set,2,10.18,0.036,19.63,4.89,14.74,false
+ORD-11321,2026-03-29,CUST-0039,EMEA,Amsterdam,Partner Reseller,Apparel,Running Shoes,1,163.65,0.071,-152.03,-72.01,-80.02,true
+ORD-10203,2026-03-31,CUST-0084,APAC,Tokyo,Web,Apparel,Cotton Hoodie,1,88.0,0.088,80.26,33.44,46.82,false
+ORD-11318,2026-03-31,CUST-0032,EMEA,Berlin,Mobile App,Home & Kitchen,Chef Knife,2,139.31,0.066,260.23,117.02,143.21,false
+ORD-10111,2026-04-01,CUST-0056,APAC,Singapore,Mobile App,Office Supplies,Desk Organizer,3,35.28,0.063,99.17,38.1,61.07,false
+ORD-11347,2026-04-01,CUST-0138,APAC,Seoul,Mobile App,Office Supplies,Gel Pen Pack,2,13.99,0.095,25.32,7.27,18.05,false
+ORD-10564,2026-04-02,CUST-0046,EMEA,Berlin,Marketplace,Office Supplies,Notebook A5,3,17.04,0.259,37.88,15.34,22.54,false
+ORD-11339,2026-04-02,CUST-0048,North America,New York,Partner Reseller,Office Supplies,Gel Pen Pack,3,13.67,0.108,36.58,10.66,25.92,false
+ORD-10329,2026-04-03,CUST-0026,APAC,Seoul,Marketplace,Apparel,Cotton Hoodie,5,71.51,0.2,286.04,135.87,150.17,false
+ORD-10217,2026-04-05,CUST-0046,EMEA,Berlin,Web,Home & Kitchen,Ceramic Cookware Set,1,294.62,0.138,253.96,164.99,88.97,false
+ORD-10193,2026-04-06,CUST-0135,EMEA,Amsterdam,Mobile App,Electronics,Smartphone X,1,1015.54,0.043,971.87,751.5,220.37,false
+ORD-10615,2026-04-06,CUST-0111,North America,New York,Mobile App,Electronics,Wireless Earbuds,2,210.88,0.094,382.11,219.32,162.79,false
+ORD-10832,2026-04-06,CUST-0007,APAC,Seoul,Mobile App,Office Supplies,Gel Pen Pack,4,11.6,0.018,45.56,12.06,33.5,false
+ORD-10875,2026-04-06,CUST-0020,APAC,Seoul,Marketplace,Office Supplies,Desk Organizer,1,38.22,0.12,-33.63,-13.76,-19.87,true
+ORD-11401,2026-04-07,CUST-0021,North America,New York,Partner Reseller,Electronics,Wireless Earbuds,1,199.6,0.12,175.65,103.79,71.86,false
+ORD-10927,2026-04-08,CUST-0023,EMEA,Berlin,Marketplace,Office Supplies,Desk Organizer,1,38.18,0.259,28.29,13.74,14.55,false
+ORD-11366,2026-04-08,CUST-0139,EMEA,Paris,Partner Reseller,Electronics,Wireless Earbuds,5,170.81,0.093,774.62,444.11,330.51,false
+ORD-10603,2026-04-09,CUST-0048,North America,New York,Web,Electronics,Mechanical Keyboard,2,140.41,0.003,279.98,134.79,145.19,false
+ORD-11380,2026-04-09,CUST-0136,North America,Toronto,Partner Reseller,Home & Kitchen,Chef Knife,1,150.62,0.093,136.61,63.26,73.35,false
+ORD-10213,2026-04-10,CUST-0015,North America,San Francisco,Web,Office Supplies,Gel Pen Pack,2,11.4,0.024,22.25,5.93,16.32,false
+ORD-10881,2026-04-11,CUST-0138,APAC,Seoul,Retail Store,Home & Kitchen,Ceramic Cookware Set,1,311.22,0.022,304.37,174.28,130.09,false
+ORD-10476,2026-04-12,CUST-0113,EMEA,Madrid,Web,Electronics,Mechanical Keyboard,1,149.24,0.016,146.85,71.64,75.21,false
+ORD-10601,2026-04-12,CUST-0066,EMEA,Amsterdam,Web,Office Supplies,Sticky Notes Set,3,9.17,0.118,24.26,6.6,17.66,false
+ORD-10728,2026-04-13,CUST-0054,APAC,Tokyo,Web,Home & Kitchen,Air Purifier,8,437.59,0.0,3500.72,2135.44,1365.28,false
+ORD-11498,2026-04-13,CUST-0140,LATAM,Mexico City,Web,Office Supplies,Notebook A5,4,17.44,0.091,63.41,20.93,42.48,false
+ORD-10136,2026-04-14,CUST-0102,APAC,Sydney,Mobile App,Electronics,Mechanical Keyboard,1,151.39,0.036,145.94,72.67,73.27,false
+ORD-10709,2026-04-14,CUST-0095,APAC,Seoul,Mobile App,Electronics,Mechanical Keyboard,3,143.15,0.119,378.35,206.14,172.21,false
+ORD-11325,2026-04-14,CUST-0124,EMEA,London,Web,Furniture,Conference Table,8,1518.84,0.008,12053.51,8384.0,3669.51,false
+ORD-10170,2026-04-16,CUST-0031,EMEA,Paris,Retail Store,Office Supplies,Notebook A5,2,18.72,0.142,32.12,11.23,20.89,false
+ORD-10480,2026-04-17,CUST-0032,EMEA,Berlin,Web,Office Supplies,Sticky Notes Set,2,9.0,0.095,16.29,4.32,11.97,false
+ORD-10423,2026-04-19,CUST-0013,North America,Austin,Web,Electronics,Laptop Pro 14,1,1155.76,0.087,1055.21,785.92,269.29,false
+ORD-10458,2026-04-19,CUST-0091,EMEA,Berlin,Web,Furniture,Standing Desk,2,768.39,0.107,1372.34,968.17,404.17,false
+ORD-10763,2026-04-19,CUST-0010,North America,Vancouver,Retail Store,Furniture,Standing Desk,6,741.39,0.043,4257.06,2802.45,1454.61,false
+ORD-10325,2026-04-20,CUST-0131,EMEA,Amsterdam,Web,Furniture,Bookshelf Unit,1,231.52,0.034,223.65,152.8,70.85,false
+ORD-11236,2026-04-22,CUST-0054,APAC,Tokyo,Retail Store,Apparel,Cotton Hoodie,1,75.19,0.129,65.49,28.57,36.92,false
+ORD-10298,2026-04-23,CUST-0003,North America,Toronto,Web,Electronics,Wireless Earbuds,2,206.85,0.037,-398.39,-215.12,-183.27,true
+ORD-10334,2026-04-23,CUST-0112,North America,New York,Web,Electronics,Wireless Earbuds,2,196.43,0.14,337.86,204.29,133.57,false
+ORD-11483,2026-04-24,CUST-0002,EMEA,Dublin,Web,Furniture,Bookshelf Unit,2,226.38,0.087,413.37,298.82,114.55,false
+ORD-10809,2026-04-26,CUST-0012,EMEA,Berlin,Web,Electronics,Mechanical Keyboard,5,147.32,0.119,-648.94,-353.57,-295.37,true
+ORD-11152,2026-04-26,CUST-0090,APAC,Singapore,Mobile App,Office Supplies,Desk Organizer,8,34.67,0.069,-258.22,-99.85,-158.37,true
+ORD-10563,2026-04-27,CUST-0125,EMEA,Berlin,Marketplace,Office Supplies,Gel Pen Pack,1,11.13,0.107,9.94,2.89,7.05,false
+ORD-10929,2026-04-27,CUST-0091,EMEA,Berlin,Retail Store,Apparel,Wool Scarf,3,49.57,0.125,130.12,52.05,78.07,false
+ORD-10033,2026-04-29,CUST-0008,APAC,Seoul,Web,Electronics,Smartphone X,1,880.95,0.13,766.43,651.9,114.53,false
+ORD-10640,2026-04-29,CUST-0114,North America,Chicago,Web,Electronics,4K Monitor 27,2,440.77,0.14,758.12,625.89,132.23,false
+ORD-10647,2026-04-29,CUST-0043,EMEA,Amsterdam,Mobile App,Electronics,Mechanical Keyboard,2,157.33,0.046,300.19,151.04,149.15,false
+ORD-10707,2026-04-30,CUST-0043,EMEA,Amsterdam,Retail Store,Electronics,4K Monitor 27,1,458.19,0.125,400.92,325.31,75.61,false
+ORD-11288,2026-04-30,CUST-0128,North America,San Francisco,Marketplace,Apparel,Running Shoes,5,141.46,0.148,602.62,311.21,291.41,false
+ORD-11417,2026-05-01,CUST-0088,EMEA,Paris,Web,Electronics,Smartphone X,4,950.69,0.137,3281.78,2814.04,467.74,false
+ORD-10399,2026-05-02,CUST-0004,EMEA,Amsterdam,Web,Apparel,Denim Jacket,1,116.57,0.111,103.63,47.79,55.84,false
+ORD-10825,2026-05-02,CUST-0117,North America,New York,Retail Store,Office Supplies,Sticky Notes Set,2,9.84,0.085,18.01,4.72,13.29,false
+ORD-11010,2026-05-03,CUST-0037,North America,San Francisco,Mobile App,Office Supplies,Gel Pen Pack,3,13.03,0.067,36.47,10.16,26.31,false
+ORD-10141,2026-05-04,CUST-0139,EMEA,Paris,Web,Apparel,Denim Jacket,8,130.57,0.075,966.22,428.27,537.95,false
+ORD-10590,2026-05-04,CUST-0131,EMEA,Amsterdam,Marketplace,Office Supplies,Gel Pen Pack,1,14.15,0.081,13.0,3.68,9.32,false
+ORD-11039,2026-05-04,CUST-0022,EMEA,London,Marketplace,Apparel,Denim Jacket,1,133.53,0.112,118.57,54.75,63.82,false
+ORD-11260,2026-05-04,CUST-0049,North America,Austin,Partner Reseller,Office Supplies,Sticky Notes Set,3,9.26,0.169,23.09,6.67,16.42,false
+ORD-11395,2026-05-05,CUST-0104,APAC,Mumbai,Mobile App,Apparel,Denim Jacket,1,125.48,0.096,113.43,51.45,61.98,false
+ORD-11280,2026-05-06,CUST-0033,EMEA,Paris,Mobile App,Office Supplies,Sticky Notes Set,1,10.27,0.076,9.49,2.46,7.03,false
+ORD-10759,2026-05-07,CUST-0032,EMEA,Berlin,Marketplace,Office Supplies,Notebook A5,1,21.63,0.219,-16.89,-6.49,-10.4,true
+ORD-11022,2026-05-07,CUST-0049,North America,Austin,Web,Office Supplies,Sticky Notes Set,1,8.7,0.042,8.33,2.09,6.24,false
+ORD-10778,2026-05-09,CUST-0091,EMEA,Berlin,Web,Home & Kitchen,Air Purifier,1,355.53,0.137,306.82,216.87,89.95,false
+ORD-10912,2026-05-09,CUST-0015,North America,San Francisco,Web,Furniture,Conference Table,2,1453.29,0.085,2659.52,2005.54,653.98,false
+ORD-10922,2026-05-09,CUST-0097,APAC,Singapore,Web,Home & Kitchen,Chef Knife,3,133.14,0.099,359.88,167.76,192.12,false
+ORD-10456,2026-05-10,CUST-0074,EMEA,Dublin,Web,Home & Kitchen,Chef Knife,1,114.13,0.108,101.8,47.93,53.87,false
+ORD-10662,2026-05-10,CUST-0028,APAC,Mumbai,Retail Store,Apparel,Wool Scarf,4,50.76,0.047,193.5,71.06,122.44,false
+ORD-11112,2026-05-11,CUST-0083,North America,San Francisco,Web,Electronics,Laptop Pro 14,1,1429.53,0.022,1398.08,972.08,426.0,false
+ORD-10280,2026-05-14,CUST-0122,LATAM,Bogota,Mobile App,Office Supplies,Gel Pen Pack,1,12.93,0.0,12.93,3.36,9.57,false
+ORD-11489,2026-05-14,CUST-0090,APAC,Singapore,Partner Reseller,Apparel,Wool Scarf,2,56.54,0.151,96.0,39.58,56.42,false
+ORD-10386,2026-05-15,CUST-0111,North America,New York,Web,Office Supplies,Gel Pen Pack,2,11.91,0.083,21.84,6.19,15.65,false
+ORD-10853,2026-05-15,CUST-0112,North America,New York,Partner Reseller,Office Supplies,Desk Organizer,5,30.93,0.061,145.22,55.67,89.55,false
+ORD-10057,2026-05-16,CUST-0032,EMEA,Berlin,Web,Apparel,Denim Jacket,5,109.98,0.066,513.61,225.46,288.15,false
+ORD-10080,2026-05-16,CUST-0051,EMEA,Paris,Web,Office Supplies,Gel Pen Pack,1,12.48,0.075,11.54,3.24,8.3,false
+ORD-10218,2026-05-16,CUST-0094,North America,Vancouver,Partner Reseller,Home & Kitchen,Air Purifier,1,354.11,0.089,322.59,216.01,106.58,false
+ORD-10562,2026-05-16,CUST-0074,EMEA,Dublin,Mobile App,Office Supplies,Gel Pen Pack,1,10.97,0.023,10.72,2.85,7.87,false
+ORD-11297,2026-05-17,CUST-0114,North America,Chicago,Mobile App,Apparel,Denim Jacket,2,118.29,0.065,221.2,97.0,124.2,false
+ORD-11336,2026-05-17,CUST-0084,APAC,Tokyo,Marketplace,Furniture,Standing Desk,1,627.44,0.255,467.44,395.29,72.15,false
+ORD-11400,2026-05-17,CUST-0009,North America,Chicago,Marketplace,Office Supplies,Sticky Notes Set,2,10.25,0.225,15.89,4.92,10.97,false
+ORD-11443,2026-05-19,CUST-0104,APAC,Mumbai,Marketplace,Office Supplies,Gel Pen Pack,1,11.52,0.237,8.79,3.0,5.79,false
+ORD-10710,2026-05-20,CUST-0065,North America,San Francisco,Partner Reseller,Home & Kitchen,Chef Knife,2,139.75,0.176,230.31,117.39,112.92,false
+ORD-11496,2026-05-20,CUST-0057,North America,Vancouver,Marketplace,Apparel,Wool Scarf,3,47.42,0.163,119.07,49.79,69.28,false
+ORD-10270,2026-05-21,CUST-0012,EMEA,Berlin,Marketplace,Electronics,Wireless Earbuds,1,205.56,0.271,149.85,106.89,42.96,false
+ORD-10177,2026-05-22,CUST-0088,EMEA,Paris,Web,Home & Kitchen,Chef Knife,2,145.9,0.002,291.22,122.56,168.66,false
+ORD-11054,2026-05-22,CUST-0021,North America,New York,Web,Office Supplies,Gel Pen Pack,1,14.11,0.055,13.33,3.67,9.66,false
+ORD-10009,2026-05-23,CUST-0061,EMEA,Paris,Web,Apparel,Running Shoes,2,123.23,0.125,215.65,108.44,107.21,false
+ORD-10616,2026-05-23,CUST-0132,North America,Vancouver,Web,Office Supplies,Notebook A5,6,21.27,0.144,109.24,38.29,70.95,false
+ORD-11330,2026-05-23,CUST-0022,EMEA,London,Web,Electronics,Smartphone X,1,1147.83,0.14,987.13,849.39,137.74,false
+ORD-10245,2026-05-24,CUST-0055,APAC,Mumbai,Marketplace,Office Supplies,Desk Organizer,1,34.1,0.084,31.24,12.28,18.96,false
+ORD-10551,2026-05-24,CUST-0015,North America,San Francisco,Partner Reseller,Apparel,Running Shoes,2,137.03,0.177,225.55,120.59,104.96,false
+ORD-11267,2026-05-25,CUST-0106,North America,Vancouver,Mobile App,Electronics,Smartphone X,2,887.58,0.061,1666.88,1313.62,353.26,false
+ORD-11420,2026-05-25,CUST-0020,APAC,Seoul,Mobile App,Home & Kitchen,Ceramic Cookware Set,2,309.0,0.039,593.9,346.08,247.82,false
+ORD-10885,2026-05-26,CUST-0020,APAC,Seoul,Web,Electronics,4K Monitor 27,2,437.77,0.058,824.76,621.63,203.13,false
+ORD-11114,2026-05-26,CUST-0113,EMEA,Madrid,Marketplace,Electronics,Smartphone X,1,1019.83,0.261,753.65,754.67,-1.02,false
+ORD-10315,2026-05-27,CUST-0119,North America,Austin,Web,Office Supplies,Notebook A5,1,18.08,0.145,15.46,5.42,10.04,false
+ORD-10738,2026-05-27,CUST-0026,APAC,Seoul,Web,Office Supplies,Gel Pen Pack,1,12.43,0.086,11.36,3.23,8.13,false
+ORD-11427,2026-05-27,CUST-0034,North America,Vancouver,Marketplace,Office Supplies,Gel Pen Pack,4,12.83,0.236,39.21,13.34,25.87,false
+ORD-10503,2026-05-28,CUST-0007,APAC,Seoul,Web,Home & Kitchen,Air Purifier,3,363.9,0.131,948.69,665.94,282.75,false
+ORD-10571,2026-05-28,CUST-0003,North America,Toronto,Partner Reseller,Home & Kitchen,Air Purifier,1,352.85,0.157,297.45,215.24,82.21,false
+ORD-10779,2026-05-28,CUST-0077,North America,Chicago,Web,Office Supplies,Gel Pen Pack,2,11.98,0.138,20.65,6.23,14.42,false
+ORD-11343,2026-05-28,CUST-0130,EMEA,Dublin,Mobile App,Furniture,Standing Desk,2,809.42,0.024,1579.99,1019.87,560.12,false
+ORD-11421,2026-05-28,CUST-0135,EMEA,Amsterdam,Web,Home & Kitchen,Coffee Grinder,4,175.7,0.004,699.99,344.37,355.62,false
+ORD-10187,2026-05-31,CUST-0108,North America,Toronto,Marketplace,Apparel,Denim Jacket,6,132.22,0.083,727.47,325.26,402.21,false
+ORD-10446,2026-05-31,CUST-0117,North America,New York,Web,Office Supplies,Notebook A5,1,21.54,0.042,20.64,6.46,14.18,false
+ORD-11278,2026-05-31,CUST-0123,EMEA,Amsterdam,Mobile App,Office Supplies,Sticky Notes Set,1,9.95,0.101,8.95,2.39,6.56,false
+ORD-10039,2026-06-01,CUST-0112,North America,New York,Retail Store,Electronics,Mechanical Keyboard,2,146.23,0.142,250.93,140.38,110.55,false
+ORD-10758,2026-06-01,CUST-0048,North America,New York,Mobile App,Apparel,Denim Jacket,3,132.69,0.064,372.59,163.21,209.38,false
+ORD-10195,2026-06-02,CUST-0012,EMEA,Berlin,Web,Apparel,Running Shoes,5,158.08,0.083,724.8,347.78,377.02,false
+ORD-11207,2026-06-03,CUST-0004,EMEA,Amsterdam,Retail Store,Office Supplies,Gel Pen Pack,1,12.66,0.193,10.22,3.29,6.93,false
+ORD-10913,2026-06-04,CUST-0131,EMEA,Amsterdam,Web,Office Supplies,Notebook A5,1,20.94,0.074,19.39,6.28,13.11,false
+ORD-10028,2026-06-05,CUST-0116,North America,Toronto,Retail Store,Home & Kitchen,Air Purifier,1,427.47,0.063,400.54,260.76,139.78,false
+ORD-10067,2026-06-05,CUST-0070,North America,Chicago,Retail Store,Electronics,Wireless Earbuds,3,205.56,0.077,569.2,320.67,248.53,false
+ORD-10687,2026-06-05,CUST-0059,North America,Austin,Web,Office Supplies,Notebook A5,2,19.87,0.07,36.96,11.92,25.04,false
+ORD-10173,2026-06-06,CUST-0034,North America,Vancouver,Retail Store,Furniture,Bookshelf Unit,3,237.15,0.098,641.73,469.56,172.17,false
+ORD-11102,2026-06-07,CUST-0049,North America,Austin,Web,Office Supplies,Notebook A5,1,20.15,0.127,17.59,6.04,11.55,false
+ORD-11494,2026-06-08,CUST-0054,APAC,Tokyo,Web,Electronics,Wireless Earbuds,1,191.51,0.083,175.61,99.59,76.02,false
+ORD-10022,2026-06-09,CUST-0038,North America,San Francisco,Web,Office Supplies,Desk Organizer,8,39.99,0.081,294.01,115.17,178.84,false
+ORD-11436,2026-06-09,CUST-0076,EMEA,Dublin,Marketplace,Office Supplies,Desk Organizer,3,36.81,0.232,84.81,39.75,45.06,false
+ORD-10244,2026-06-10,CUST-0090,APAC,Singapore,Web,Apparel,Wool Scarf,4,44.45,0.004,-177.09,-62.23,-114.86,true
+ORD-10485,2026-06-10,CUST-0039,EMEA,Amsterdam,Web,Office Supplies,Notebook A5,3,19.51,0.003,58.35,17.56,40.79,false
+ORD-11364,2026-06-10,CUST-0077,North America,Chicago,Web,Home & Kitchen,Chef Knife,1,149.54,0.047,142.51,62.81,79.7,false
+ORD-11121,2026-06-11,CUST-0117,North America,New York,Web,Office Supplies,Desk Organizer,2,30.56,0.055,57.76,22.0,35.76,false
+ORD-10406,2026-06-12,CUST-0059,North America,Austin,Mobile App,Apparel,Running Shoes,1,147.56,0.054,139.59,64.93,74.66,false
+ORD-11171,2026-06-13,CUST-0131,EMEA,Amsterdam,Web,Office Supplies,Notebook A5,2,21.91,0.015,43.16,13.15,30.01,false
+ORD-11413,2026-06-13,CUST-0100,North America,San Francisco,Mobile App,Apparel,Wool Scarf,1,54.15,0.091,49.22,18.95,30.27,false
+ORD-10117,2026-06-14,CUST-0090,APAC,Singapore,Mobile App,Electronics,Mechanical Keyboard,1,163.13,0.1,146.82,78.3,68.52,false
+ORD-10979,2026-06-15,CUST-0133,EMEA,Dublin,Web,Office Supplies,Sticky Notes Set,1,9.43,0.031,9.14,2.26,6.88,false
+ORD-10981,2026-06-15,CUST-0125,EMEA,Berlin,Mobile App,Office Supplies,Desk Organizer,2,32.93,0.026,64.15,23.71,40.44,false
+ORD-11148,2026-06-15,CUST-0056,APAC,Singapore,Partner Reseller,Electronics,Wireless Earbuds,4,183.47,0.107,655.35,381.62,273.73,false
+ORD-11156,2026-06-15,CUST-0105,North America,Toronto,Marketplace,Electronics,4K Monitor 27,1,378.39,0.202,301.96,268.66,33.3,false
+ORD-11194,2026-06-15,CUST-0025,North America,Chicago,Web,Office Supplies,Notebook A5,4,17.02,0.128,59.37,20.42,38.95,false
+ORD-10179,2026-06-16,CUST-0093,LATAM,Sao Paulo,Retail Store,Furniture,Standing Desk,1,698.23,0.061,655.64,439.88,215.76,false
+ORD-10200,2026-06-17,CUST-0086,LATAM,Sao Paulo,Retail Store,Electronics,Smartphone X,3,910.27,0.106,2441.34,2020.8,420.54,false
+ORD-10260,2026-06-17,CUST-0034,North America,Vancouver,Web,Electronics,4K Monitor 27,1,383.4,0.142,328.96,272.21,56.75,false
+ORD-11030,2026-06-17,CUST-0130,EMEA,Dublin,Web,Electronics,4K Monitor 27,2,453.85,0.025,885.01,644.47,240.54,false
+ORD-10102,2026-06-18,CUST-0052,EMEA,London,Web,Office Supplies,Gel Pen Pack,1,13.33,0.098,12.02,3.47,8.55,false
+ORD-10242,2026-06-19,CUST-0045,North America,Toronto,Retail Store,Furniture,Bookshelf Unit,1,222.71,0.184,181.73,146.99,34.74,false
+ORD-10893,2026-06-19,CUST-0127,North America,New York,Web,Furniture,Bookshelf Unit,1,231.9,0.11,206.39,153.05,53.34,false
+ORD-11412,2026-06-19,CUST-0034,North America,Vancouver,Mobile App,Apparel,Denim Jacket,1,115.77,0.093,105.0,47.47,57.53,false
+ORD-11265,2026-06-20,CUST-0126,EMEA,Amsterdam,Partner Reseller,Home & Kitchen,Air Purifier,3,352.45,0.083,969.59,644.98,324.61,false
+ORD-11298,2026-06-21,CUST-0112,North America,New York,Web,Office Supplies,Gel Pen Pack,2,12.78,0.126,22.34,6.65,15.69,false
+ORD-10211,2026-06-22,CUST-0016,North America,Toronto,Mobile App,Electronics,Wireless Earbuds,2,200.33,0.03,388.64,208.34,180.3,false
+ORD-11062,2026-06-23,CUST-0100,North America,San Francisco,Retail Store,Office Supplies,Sticky Notes Set,1,8.92,0.175,7.36,2.14,5.22,false
+ORD-11234,2026-06-23,CUST-0034,North America,Vancouver,Web,Office Supplies,Sticky Notes Set,1,8.36,0.107,7.47,2.01,5.46,false
+ORD-10058,2026-06-24,CUST-0007,APAC,Seoul,Web,Apparel,Running Shoes,1,125.72,0.034,121.45,55.32,66.13,false
+ORD-10416,2026-06-24,CUST-0074,EMEA,Dublin,Mobile App,Apparel,Running Shoes,1,143.88,0.017,141.43,63.31,78.12,false
+ORD-11341,2026-06-24,CUST-0132,North America,Vancouver,Retail Store,Office Supplies,Sticky Notes Set,3,9.05,0.154,22.97,6.52,16.45,false
+ORD-10230,2026-06-25,CUST-0048,North America,New York,Mobile App,Apparel,Cotton Hoodie,1,75.88,0.007,75.35,28.83,46.52,false
+ORD-10299,2026-06-25,CUST-0030,EMEA,London,Web,Apparel,Running Shoes,5,156.6,0.056,739.15,344.52,394.63,false
+ORD-10833,2026-06-25,CUST-0060,North America,Toronto,Marketplace,Home & Kitchen,Ceramic Cookware Set,3,259.0,0.273,564.88,435.12,129.76,false
+ORD-11255,2026-06-25,CUST-0092,APAC,Sydney,Mobile App,Office Supplies,Gel Pen Pack,2,13.76,0.041,26.39,7.16,19.23,false
+ORD-10812,2026-06-26,CUST-0037,North America,San Francisco,Web,Electronics,Wireless Earbuds,1,176.49,0.043,168.9,91.77,77.13,false
+ORD-11243,2026-06-26,CUST-0078,EMEA,Berlin,Marketplace,Apparel,Cotton Hoodie,2,90.48,0.13,157.44,68.76,88.68,false
+ORD-10139,2026-06-27,CUST-0070,North America,Chicago,Partner Reseller,Electronics,Laptop Pro 14,5,1362.72,0.054,6445.67,4633.25,1812.42,false
+ORD-10274,2026-06-27,CUST-0012,EMEA,Berlin,Web,Electronics,Smartphone X,4,1036.41,0.112,3681.33,3067.77,613.56,false
+ORD-11315,2026-06-27,CUST-0111,North America,New York,Retail Store,Electronics,Wireless Earbuds,2,159.7,0.196,256.8,166.09,90.71,false
+ORD-11438,2026-06-27,CUST-0050,North America,San Francisco,Web,Home & Kitchen,Ceramic Cookware Set,4,313.07,0.033,1210.95,701.28,509.67,false
+ORD-10883,2026-06-28,CUST-0106,North America,Vancouver,Mobile App,Office Supplies,Desk Organizer,1,34.79,0.059,32.74,12.52,20.22,false
+ORD-11310,2026-06-29,CUST-0134,LATAM,Mexico City,Marketplace,Apparel,Running Shoes,3,153.66,0.185,375.7,202.83,172.87,false
+ORD-10835,2026-07-01,CUST-0100,North America,San Francisco,Mobile App,Furniture,Conference Table,6,1354.59,0.119,7160.36,5608.0,1552.36,false
+ORD-11163,2026-07-01,CUST-0046,EMEA,Berlin,Mobile App,Office Supplies,Sticky Notes Set,2,10.45,0.107,18.66,5.02,13.64,false
+ORD-11172,2026-07-02,CUST-0082,LATAM,Sao Paulo,Web,Electronics,Wireless Earbuds,2,158.36,0.138,273.01,164.69,108.32,false
+ORD-11130,2026-07-03,CUST-0039,EMEA,Amsterdam,Web,Furniture,Ergonomic Chair,1,587.99,0.078,542.13,341.03,201.1,false
+ORD-10289,2026-07-04,CUST-0074,EMEA,Dublin,Web,Office Supplies,Gel Pen Pack,1,11.93,0.008,11.83,3.1,8.73,false
+ORD-10478,2026-07-07,CUST-0001,EMEA,London,Web,Home & Kitchen,Chef Knife,3,148.53,0.086,407.27,187.15,220.12,false
+ORD-10565,2026-07-07,CUST-0024,LATAM,Buenos Aires,Retail Store,Apparel,Wool Scarf,1,51.51,0.1,46.36,18.03,28.33,false
+ORD-10982,2026-07-07,CUST-0074,EMEA,Dublin,Web,Apparel,Running Shoes,1,129.67,0.143,111.13,57.05,54.08,false
+ORD-11442,2026-07-07,CUST-0105,North America,Toronto,Web,Home & Kitchen,Coffee Grinder,2,158.39,0.051,300.62,155.22,145.4,false
+ORD-11241,2026-07-08,CUST-0031,EMEA,Paris,Mobile App,Office Supplies,Gel Pen Pack,6,12.98,0.092,70.72,20.25,50.47,false
+ORD-10474,2026-07-10,CUST-0048,North America,New York,Web,Home & Kitchen,Chef Knife,1,149.75,0.096,135.37,62.89,72.48,false
+ORD-10454,2026-07-11,CUST-0014,APAC,Mumbai,Partner Reseller,Electronics,4K Monitor 27,1,413.84,0.054,391.49,293.83,97.66,false
+ORD-11127,2026-07-11,CUST-0108,North America,Toronto,Web,Home & Kitchen,Air Purifier,5,342.36,0.038,1646.75,1044.2,602.55,false
+ORD-10197,2026-07-12,CUST-0058,APAC,Mumbai,Partner Reseller,Office Supplies,Sticky Notes Set,1,9.18,0.087,8.38,2.2,6.18,false
+ORD-11195,2026-07-12,CUST-0039,EMEA,Amsterdam,Web,Home & Kitchen,Coffee Grinder,2,145.22,0.136,250.94,142.32,108.62,false
+ORD-10973,2026-07-13,CUST-0139,EMEA,Paris,Mobile App,Office Supplies,Notebook A5,4,18.83,0.034,72.76,22.6,50.16,false
+ORD-11028,2026-07-13,CUST-0092,APAC,Sydney,Web,Apparel,Running Shoes,1,156.06,0.068,145.45,68.67,76.78,false
+ORD-10866,2026-07-14,CUST-0009,North America,Chicago,Web,Electronics,Wireless Earbuds,8,189.74,0.001,1516.4,789.32,727.08,false
+ORD-10907,2026-07-14,CUST-0067,EMEA,London,Web,Home & Kitchen,Chef Knife,1,147.42,0.121,129.58,61.92,67.66,false
+ORD-10578,2026-07-17,CUST-0119,North America,Austin,Web,Furniture,Bookshelf Unit,1,220.9,0.039,212.28,145.79,66.49,false
+ORD-10670,2026-07-19,CUST-0018,North America,Chicago,Marketplace,Apparel,Denim Jacket,8,126.13,0.146,861.72,413.71,448.01,false
+ORD-10808,2026-07-19,CUST-0104,APAC,Mumbai,Marketplace,Electronics,4K Monitor 27,3,455.16,0.156,-1152.47,-969.49,-182.98,true
+ORD-10675,2026-07-21,CUST-0036,EMEA,Dublin,Web,Apparel,Denim Jacket,5,115.61,0.036,557.24,237.0,320.24,false
+ORD-11013,2026-07-21,CUST-0065,North America,San Francisco,Web,Office Supplies,Notebook A5,2,20.38,0.06,38.31,12.23,26.08,false
+ORD-10070,2026-07-22,CUST-0112,North America,New York,Partner Reseller,Furniture,Conference Table,1,1381.92,0.097,1247.87,953.52,294.35,false
+ORD-10293,2026-07-22,CUST-0095,APAC,Seoul,Mobile App,Office Supplies,Gel Pen Pack,3,14.03,0.035,40.62,10.94,29.68,false
+ORD-10007,2026-07-23,CUST-0060,North America,Toronto,Web,Apparel,Cotton Hoodie,1,88.59,0.135,76.63,33.66,42.97,false
+ORD-10134,2026-07-23,CUST-0125,EMEA,Berlin,Mobile App,Electronics,4K Monitor 27,1,470.47,0.064,440.36,334.03,106.33,false
+ORD-10985,2026-07-23,CUST-0125,EMEA,Berlin,Retail Store,Office Supplies,Gel Pen Pack,1,12.04,0.115,10.66,3.13,7.53,false
+ORD-10782,2026-07-24,CUST-0040,APAC,Singapore,Mobile App,Office Supplies,Notebook A5,1,18.8,0.107,16.79,5.64,11.15,false
+ORD-10338,2026-07-25,CUST-0089,EMEA,Madrid,Mobile App,Home & Kitchen,Coffee Grinder,1,172.68,0.069,160.77,84.61,76.16,false
+ORD-11320,2026-07-25,CUST-0099,APAC,Mumbai,Web,Furniture,Ergonomic Chair,1,505.02,0.063,473.2,292.91,180.29,false
+ORD-11409,2026-07-26,CUST-0002,EMEA,Dublin,Partner Reseller,Furniture,Bookshelf Unit,2,228.69,0.112,406.15,301.87,104.28,false
+ORD-11460,2026-07-26,CUST-0004,EMEA,Amsterdam,Retail Store,Office Supplies,Desk Organizer,5,35.93,0.165,150.01,64.67,85.34,false
+ORD-10726,2026-07-27,CUST-0021,North America,New York,Mobile App,Office Supplies,Notebook A5,4,18.16,0.036,70.02,21.79,48.23,false
+ORD-10112,2026-07-28,CUST-0016,North America,Toronto,Web,Office Supplies,Sticky Notes Set,2,8.36,0.128,14.58,4.01,10.57,false
+ORD-10972,2026-07-28,CUST-0028,APAC,Mumbai,Web,Home & Kitchen,Chef Knife,1,145.98,0.113,-129.48,-61.31,-68.17,true
+ORD-11296,2026-07-28,CUST-0028,APAC,Mumbai,Mobile App,Electronics,Smartphone X,4,1133.74,0.054,4290.07,3355.87,934.2,false
+ORD-10470,2026-07-29,CUST-0070,North America,Chicago,Web,Apparel,Cotton Hoodie,2,78.79,0.116,139.3,59.88,79.42,false
+ORD-11367,2026-07-29,CUST-0027,North America,Toronto,Web,Office Supplies,Notebook A5,3,17.69,0.144,45.43,15.92,29.51,false
+ORD-10814,2026-07-30,CUST-0012,EMEA,Berlin,Mobile App,Office Supplies,Notebook A5,2,20.59,0.018,40.44,12.35,28.09,false
+ORD-10612,2026-08-01,CUST-0120,LATAM,Mexico City,Marketplace,Electronics,Wireless Earbuds,6,202.26,0.215,952.64,631.05,321.59,false
+ORD-10720,2026-08-01,CUST-0138,APAC,Seoul,Web,Electronics,Smartphone X,1,1015.06,0.056,958.22,751.14,207.08,false
+ORD-10820,2026-08-01,CUST-0090,APAC,Singapore,Marketplace,Apparel,Wool Scarf,1,49.89,0.247,37.57,17.46,20.11,false
+ORD-10842,2026-08-02,CUST-0111,North America,New York,Web,Furniture,Standing Desk,8,717.1,0.105,5134.44,3614.18,1520.26,false
+ORD-10925,2026-08-02,CUST-0065,North America,San Francisco,Web,Electronics,Mechanical Keyboard,3,147.61,0.126,387.03,212.56,174.47,false
+ORD-10931,2026-08-02,CUST-0100,North America,San Francisco,Retail Store,Office Supplies,Notebook A5,6,17.15,0.115,91.07,30.87,60.2,false
+ORD-10588,2026-08-03,CUST-0113,EMEA,Madrid,Web,Electronics,Wireless Earbuds,1,171.49,0.106,153.31,89.17,64.14,false
+ORD-10773,2026-08-03,CUST-0079,North America,Austin,Web,Office Supplies,Notebook A5,3,21.54,0.095,58.48,19.39,39.09,false
+ORD-10786,2026-08-03,CUST-0100,North America,San Francisco,Marketplace,Electronics,Mechanical Keyboard,1,136.67,0.083,125.33,65.6,59.73,false
+ORD-11479,2026-08-03,CUST-0027,North America,Toronto,Web,Apparel,Cotton Hoodie,2,77.29,0.08,142.21,58.74,83.47,false
+ORD-10949,2026-08-04,CUST-0004,EMEA,Amsterdam,Web,Apparel,Denim Jacket,8,132.26,0.044,1011.52,433.81,577.71,false
+ORD-10735,2026-08-05,CUST-0032,EMEA,Berlin,Marketplace,Office Supplies,Gel Pen Pack,3,11.89,0.204,28.39,9.27,19.12,false
+ORD-10283,2026-08-06,CUST-0032,EMEA,Berlin,Marketplace,Office Supplies,Gel Pen Pack,6,11.04,0.18,54.32,17.22,37.1,false
+ORD-10292,2026-08-06,CUST-0107,APAC,Sydney,Web,Home & Kitchen,Ceramic Cookware Set,2,246.61,0.038,474.48,276.2,198.28,false
+ORD-10459,2026-08-06,CUST-0094,North America,Vancouver,Mobile App,Electronics,Laptop Pro 14,1,1369.25,0.115,1211.79,931.09,280.7,false
+ORD-10724,2026-08-06,CUST-0064,LATAM,Buenos Aires,Retail Store,Furniture,Ergonomic Chair,2,594.53,0.139,1023.78,689.65,334.13,false
+ORD-10802,2026-08-07,CUST-0014,APAC,Mumbai,Retail Store,Office Supplies,Notebook A5,2,16.73,0.069,31.15,10.04,21.11,false
+ORD-11002,2026-08-07,CUST-0035,EMEA,Berlin,Mobile App,Electronics,Smartphone X,1,932.83,0.056,880.59,690.29,190.3,false
+ORD-11345,2026-08-09,CUST-0060,North America,Toronto,Web,Home & Kitchen,Ceramic Cookware Set,1,320.14,0.128,279.16,179.28,99.88,false
+ORD-10932,2026-08-12,CUST-0080,North America,Chicago,Marketplace,Apparel,Cotton Hoodie,1,80.68,0.263,59.46,30.66,28.8,false
+ORD-10948,2026-08-12,CUST-0137,North America,Toronto,Mobile App,Apparel,Running Shoes,2,129.1,0.046,246.32,113.61,132.71,false
+ORD-11304,2026-08-12,CUST-0039,EMEA,Amsterdam,Web,Apparel,Wool Scarf,5,46.49,0.047,221.52,81.36,140.16,false
+ORD-11480,2026-08-12,CUST-0088,EMEA,Paris,Web,Apparel,Wool Scarf,6,46.38,0.104,249.34,97.4,151.94,false
+ORD-10066,2026-08-13,CUST-0102,APAC,Sydney,Web,Home & Kitchen,Chef Knife,3,120.92,0.054,343.17,152.36,190.81,false
+ORD-10086,2026-08-14,CUST-0081,EMEA,Amsterdam,Partner Reseller,Furniture,Ergonomic Chair,1,627.9,0.115,555.69,364.18,191.51,false
+ORD-10844,2026-08-16,CUST-0111,North America,New York,Web,Home & Kitchen,Coffee Grinder,1,165.03,0.063,154.63,80.86,73.77,false
+ORD-10453,2026-08-17,CUST-0089,EMEA,Madrid,Mobile App,Home & Kitchen,Chef Knife,2,146.32,0.102,262.79,122.91,139.88,false
+ORD-11063,2026-08-17,CUST-0052,EMEA,London,Retail Store,Apparel,Cotton Hoodie,1,80.45,0.049,76.51,30.57,45.94,false
+ORD-11466,2026-08-17,CUST-0068,EMEA,Paris,Web,Apparel,Cotton Hoodie,2,91.73,0.011,181.44,69.71,111.73,false
+ORD-10560,2026-08-18,CUST-0137,North America,Toronto,Retail Store,Office Supplies,Sticky Notes Set,5,9.88,0.012,48.81,11.86,36.95,false
+ORD-10317,2026-08-19,CUST-0057,North America,Vancouver,Web,Office Supplies,Notebook A5,1,20.53,0.078,18.93,6.16,12.77,false
+ORD-10542,2026-08-19,CUST-0046,EMEA,Berlin,Marketplace,Electronics,Smartphone X,1,1035.76,0.215,813.07,766.46,46.61,false
+ORD-10576,2026-08-19,CUST-0123,EMEA,Amsterdam,Web,Office Supplies,Notebook A5,2,18.59,0.042,35.62,11.15,24.47,false
+ORD-10952,2026-08-19,CUST-0081,EMEA,Amsterdam,Web,Home & Kitchen,Air Purifier,3,372.61,0.074,1035.11,681.88,353.23,false
+ORD-10016,2026-08-20,CUST-0060,North America,Toronto,Partner Reseller,Apparel,Running Shoes,1,147.76,0.134,127.96,65.01,62.95,false
+ORD-10479,2026-08-20,CUST-0123,EMEA,Amsterdam,Marketplace,Apparel,Wool Scarf,3,51.06,0.081,140.77,53.61,87.16,false
+ORD-10989,2026-08-20,CUST-0129,North America,New York,Web,Apparel,Running Shoes,1,131.91,0.116,116.61,58.04,58.57,false
+ORD-10734,2026-08-21,CUST-0103,LATAM,Sao Paulo,Web,Apparel,Cotton Hoodie,1,71.89,0.069,66.93,27.32,39.61,false
+ORD-10035,2026-08-22,CUST-0022,EMEA,London,Marketplace,Home & Kitchen,Coffee Grinder,1,134.77,0.169,111.99,66.04,45.95,false
+ORD-10081,2026-08-22,CUST-0044,North America,San Francisco,Mobile App,Office Supplies,Desk Organizer,4,35.67,0.099,-128.55,-51.36,-77.19,true
+ORD-11258,2026-08-22,CUST-0059,North America,Austin,Mobile App,Office Supplies,Sticky Notes Set,1,10.18,0.045,9.72,2.44,7.28,false
+ORD-10145,2026-08-23,CUST-0093,LATAM,Sao Paulo,Web,Office Supplies,Notebook A5,1,19.89,0.077,18.36,5.97,12.39,false
+ORD-10388,2026-08-23,CUST-0071,North America,Chicago,Mobile App,Home & Kitchen,Chef Knife,2,117.17,0.055,221.45,98.42,123.03,false
+ORD-10546,2026-08-23,CUST-0026,APAC,Seoul,Mobile App,Office Supplies,Sticky Notes Set,1,8.4,0.073,7.79,2.02,5.77,false
+ORD-10746,2026-08-23,CUST-0057,North America,Vancouver,Mobile App,Office Supplies,Gel Pen Pack,1,12.96,0.096,11.72,3.37,8.35,false
+ORD-11205,2026-08-23,CUST-0067,EMEA,London,Web,Office Supplies,Gel Pen Pack,5,13.87,0.013,68.45,18.03,50.42,false
+ORD-10405,2026-08-24,CUST-0072,North America,Vancouver,Mobile App,Furniture,Standing Desk,1,768.18,0.062,720.55,483.95,236.6,false
+ORD-10754,2026-08-25,CUST-0132,North America,Vancouver,Partner Reseller,Office Supplies,Desk Organizer,2,34.04,0.054,64.4,24.51,39.89,false
+ORD-10509,2026-08-26,CUST-0017,North America,Chicago,Web,Furniture,Conference Table,1,1204.4,0.144,1030.97,831.04,199.93,false
+ORD-11199,2026-08-27,CUST-0089,EMEA,Madrid,Retail Store,Home & Kitchen,Ceramic Cookware Set,1,256.81,0.06,241.4,143.81,97.59,false
+ORD-11246,2026-08-27,CUST-0001,EMEA,London,Mobile App,Apparel,Running Shoes,1,124.55,0.026,121.31,54.8,66.51,false
+ORD-10468,2026-08-29,CUST-0137,North America,Toronto,Mobile App,Furniture,Bookshelf Unit,1,227.57,0.052,215.74,150.2,65.54,false
+ORD-10730,2026-08-29,CUST-0055,APAC,Mumbai,Web,Electronics,Laptop Pro 14,3,1244.19,0.135,3228.67,2538.15,690.52,false
+ORD-10793,2026-08-29,CUST-0086,LATAM,Sao Paulo,Web,Apparel,Cotton Hoodie,2,89.95,0.05,170.91,68.36,102.55,false
+ORD-11283,2026-08-29,CUST-0125,EMEA,Berlin,Marketplace,Apparel,Wool Scarf,2,56.69,0.201,90.59,39.68,50.91,false
+ORD-10436,2026-08-31,CUST-0135,EMEA,Amsterdam,Marketplace,Apparel,Cotton Hoodie,3,91.17,0.169,-227.29,-103.93,-123.36,true
+ORD-10019,2026-09-01,CUST-0095,APAC,Seoul,Web,Furniture,Standing Desk,1,820.82,0.055,775.67,517.12,258.55,false
+ORD-11252,2026-09-01,CUST-0060,North America,Toronto,Web,Office Supplies,Sticky Notes Set,1,8.91,0.123,7.81,2.14,5.67,false
+ORD-11430,2026-09-02,CUST-0056,APAC,Singapore,Web,Furniture,Standing Desk,1,730.52,0.065,683.04,460.23,222.81,false
+ORD-10099,2026-09-04,CUST-0038,North America,San Francisco,Marketplace,Apparel,Cotton Hoodie,1,80.0,0.131,69.52,30.4,39.12,false
+ORD-11490,2026-09-05,CUST-0130,EMEA,Dublin,Mobile App,Apparel,Denim Jacket,1,135.51,0.017,133.21,55.56,77.65,false
+ORD-10127,2026-09-06,CUST-0055,APAC,Mumbai,Web,Home & Kitchen,Ceramic Cookware Set,8,285.61,0.036,2202.62,1279.53,923.09,false
+ORD-11228,2026-09-06,CUST-0081,EMEA,Amsterdam,Retail Store,Office Supplies,Gel Pen Pack,2,14.01,0.12,24.66,7.29,17.37,false
+ORD-10959,2026-09-08,CUST-0058,APAC,Mumbai,Marketplace,Office Supplies,Sticky Notes Set,3,9.38,0.104,25.21,6.75,18.46,false
+ORD-10780,2026-09-09,CUST-0010,North America,Vancouver,Retail Store,Home & Kitchen,Ceramic Cookware Set,1,246.01,0.092,223.38,137.77,85.61,false
+ORD-11463,2026-09-09,CUST-0127,North America,New York,Marketplace,Office Supplies,Desk Organizer,1,36.86,0.279,26.58,13.27,13.31,false
+ORD-10219,2026-09-10,CUST-0082,LATAM,Sao Paulo,Marketplace,Electronics,Mechanical Keyboard,5,155.14,0.125,678.74,372.34,306.4,false
+ORD-10383,2026-09-10,CUST-0026,APAC,Seoul,Web,Office Supplies,Gel Pen Pack,2,11.46,0.094,20.77,5.96,14.81,false
+ORD-11077,2026-09-11,CUST-0138,APAC,Seoul,Web,Office Supplies,Sticky Notes Set,2,8.59,0.038,16.53,4.12,12.41,false
+ORD-10733,2026-09-12,CUST-0125,EMEA,Berlin,Mobile App,Apparel,Cotton Hoodie,1,90.62,0.12,79.75,34.44,45.31,false
+ORD-10895,2026-09-12,CUST-0122,LATAM,Bogota,Partner Reseller,Apparel,Cotton Hoodie,4,73.57,0.149,-250.43,-111.83,-138.6,true
+ORD-10671,2026-09-13,CUST-0077,North America,Chicago,Mobile App,Apparel,Cotton Hoodie,3,70.52,0.026,-206.06,-80.39,-125.67,true
+ORD-11122,2026-09-14,CUST-0025,North America,Chicago,Web,Furniture,Standing Desk,2,677.13,0.131,1176.85,853.18,323.67,false
+ORD-10232,2026-09-15,CUST-0122,LATAM,Bogota,Web,Office Supplies,Notebook A5,1,21.59,0.005,21.48,6.48,15.0,false
+ORD-11031,2026-09-15,CUST-0135,EMEA,Amsterdam,Marketplace,Furniture,Conference Table,1,1264.13,0.272,920.29,872.25,48.04,false
+ORD-11111,2026-09-15,CUST-0047,North America,Toronto,Marketplace,Apparel,Wool Scarf,1,46.12,0.161,38.69,16.14,22.55,false
+ORD-11352,2026-09-15,CUST-0116,North America,Toronto,Retail Store,Apparel,Running Shoes,2,143.62,0.096,259.66,126.39,133.27,false
+ORD-10056,2026-09-16,CUST-0052,EMEA,London,Web,Office Supplies,Notebook A5,2,21.7,0.083,39.8,13.02,26.78,false
+ORD-10761,2026-09-16,CUST-0109,North America,Austin,Web,Home & Kitchen,Chef Knife,1,150.12,0.136,129.7,63.05,66.65,false
+ORD-11007,2026-09-16,CUST-0122,LATAM,Bogota,Web,Furniture,Ergonomic Chair,1,636.22,0.092,577.69,369.01,208.68,false
+ORD-10247,2026-09-17,CUST-0071,North America,Chicago,Web,Apparel,Running Shoes,1,141.78,0.102,127.32,62.38,64.94,false
+ORD-10584,2026-09-17,CUST-0012,EMEA,Berlin,Mobile App,Electronics,4K Monitor 27,8,463.91,0.016,3651.9,2635.01,1016.89,false
+ORD-10619,2026-09-19,CUST-0002,EMEA,Dublin,Web,Furniture,Bookshelf Unit,2,198.32,0.056,374.43,261.78,112.65,false
+ORD-11354,2026-09-19,CUST-0023,EMEA,Berlin,Web,Home & Kitchen,Coffee Grinder,2,161.94,0.029,314.49,158.7,155.79,false
+ORD-10286,2026-09-20,CUST-0035,EMEA,Berlin,Retail Store,Electronics,Smartphone X,2,1131.79,0.11,2014.59,1675.05,339.54,false
+ORD-10722,2026-09-20,CUST-0099,APAC,Mumbai,Mobile App,Office Supplies,Desk Organizer,1,30.32,0.111,26.95,10.92,16.03,false
+ORD-10021,2026-09-21,CUST-0086,LATAM,Sao Paulo,Mobile App,Furniture,Ergonomic Chair,1,609.14,0.025,593.91,353.3,240.61,false
+ORD-11225,2026-09-21,CUST-0061,EMEA,Paris,Mobile App,Office Supplies,Notebook A5,5,18.51,0.106,82.74,27.77,54.97,false
+ORD-11224,2026-09-22,CUST-0072,North America,Vancouver,Web,Office Supplies,Desk Organizer,1,31.22,0.048,29.72,11.24,18.48,false
+ORD-11440,2026-09-22,CUST-0114,North America,Chicago,Mobile App,Electronics,Wireless Earbuds,8,169.77,0.073,1259.01,706.24,552.77,false
+ORD-10320,2026-09-23,CUST-0133,EMEA,Dublin,Web,Apparel,Denim Jacket,3,136.39,0.001,408.76,167.76,241.0,false
+ORD-10826,2026-09-23,CUST-0097,APAC,Singapore,Web,Home & Kitchen,Coffee Grinder,2,140.91,0.028,273.93,138.09,135.84,false
+ORD-11056,2026-09-23,CUST-0126,EMEA,Amsterdam,Mobile App,Home & Kitchen,Air Purifier,1,453.05,0.015,446.25,276.36,169.89,false
+ORD-11064,2026-09-23,CUST-0029,North America,Chicago,Retail Store,Office Supplies,Sticky Notes Set,5,8.58,0.144,36.72,10.3,26.42,false
+ORD-10227,2026-09-24,CUST-0139,EMEA,Paris,Web,Furniture,Ergonomic Chair,1,577.29,0.126,504.55,334.83,169.72,false
+ORD-11211,2026-09-24,CUST-0037,North America,San Francisco,Web,Office Supplies,Desk Organizer,1,37.69,0.028,36.63,13.57,23.06,false
+ORD-10090,2026-09-25,CUST-0096,EMEA,London,Partner Reseller,Office Supplies,Gel Pen Pack,3,11.28,0.116,29.91,8.8,21.11,false
+ORD-10617,2026-09-25,CUST-0027,North America,Toronto,Web,Office Supplies,Notebook A5,2,21.68,0.137,37.42,13.01,24.41,false
+ORD-10674,2026-09-25,CUST-0051,EMEA,Paris,Web,Apparel,Cotton Hoodie,1,89.61,0.037,86.29,34.05,52.24,false
+ORD-10797,2026-09-25,CUST-0094,North America,Vancouver,Retail Store,Apparel,Denim Jacket,1,119.68,0.186,97.42,49.07,48.35,false
+ORD-10517,2026-09-26,CUST-0076,EMEA,Dublin,Partner Reseller,Apparel,Cotton Hoodie,8,83.12,0.069,619.08,252.68,366.4,false
+ORD-11385,2026-09-26,CUST-0035,EMEA,Berlin,Web,Furniture,Ergonomic Chair,1,485.05,0.088,442.37,281.33,161.04,false
+ORD-10859,2026-09-27,CUST-0104,APAC,Mumbai,Mobile App,Home & Kitchen,Chef Knife,1,144.53,0.061,135.71,60.7,75.01,false
+ORD-10116,2026-09-28,CUST-0108,North America,Toronto,Mobile App,Apparel,Wool Scarf,5,48.67,0.01,240.92,85.17,155.75,false
+ORD-10118,2026-09-28,CUST-0140,LATAM,Mexico City,Web,Apparel,Running Shoes,1,128.79,0.028,125.18,56.67,68.51,false
+ORD-10147,2026-09-28,CUST-0134,LATAM,Mexico City,Web,Electronics,Wireless Earbuds,1,184.0,0.009,182.34,95.68,86.66,false
+ORD-10226,2026-09-28,CUST-0124,EMEA,London,Marketplace,Office Supplies,Gel Pen Pack,2,12.12,0.091,22.03,6.3,15.73,false
+ORD-10462,2026-09-28,CUST-0075,EMEA,Dublin,Mobile App,Electronics,Smartphone X,1,1114.39,0.031,1079.84,824.65,255.19,false
+ORD-10429,2026-09-29,CUST-0031,EMEA,Paris,Web,Electronics,Smartphone X,4,1118.75,0.15,3803.75,3311.5,492.25,false
+ORD-11303,2026-09-29,CUST-0013,North America,Austin,Retail Store,Office Supplies,Notebook A5,1,20.68,0.01,20.47,6.2,14.27,false
+ORD-10650,2026-09-30,CUST-0116,North America,Toronto,Web,Furniture,Bookshelf Unit,1,255.73,0.049,243.2,168.78,74.42,false
+ORD-10655,2026-09-30,CUST-0093,LATAM,Sao Paulo,Marketplace,Electronics,4K Monitor 27,2,378.44,0.277,547.22,537.38,9.84,false
