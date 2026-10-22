@@ -29,3 +29,6 @@ Thumbs.db
 # --- Env ---
 .env
 .env.local
+
+# --- Private local scratchpad (not published) ---
+PROGRESS.md
