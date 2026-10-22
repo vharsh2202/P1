@@ -257,6 +257,16 @@ export default function App() {
     ask(input);
   };
 
+  /* -- deep link: /?q=<question> asks automatically on load ---------------- */
+  const autoAskedRef = useRef(false);
+  useEffect(() => {
+    if (autoAskedRef.current) return;
+    const q = new URLSearchParams(window.location.search).get('q');
+    if (!q || !q.trim()) return;
+    autoAskedRef.current = true;
+    ask(q);
+  }, [ask]);
+
   const onKeyDown = (event) => {
     if (event.key === 'Enter' && !event.shiftKey) {
       event.preventDefault();

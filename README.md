@@ -34,6 +34,30 @@ CPU in ~15ms, with no hallucination risk and no token cost.
 
 ---
 
+## Screenshots
+
+**A table answer** — *"revenue by region"*
+
+![Table answer with a Total row](docs/screenshot-table.png)
+
+**A KPI answer** — *"are we profitable?"*
+
+![KPI answer rendered as bullets](docs/screenshot-kpi.png)
+
+**The fallback** — *"how many employees do we have"* is rejected, and the app
+lists every scope it actually supports instead of guessing:
+
+![Fallback card listing supported scopes](docs/screenshot-fallback.png)
+
+**A time series** — *"show me the monthly revenue trend"*
+
+![Trend answer with narrative and monthly table](docs/screenshot-trend.png)
+
+The app also accepts a deep link — `http://localhost:5173/?q=revenue%20by%20region`
+asks the question automatically on load.
+
+---
+
 ## Phase 0 · Prerequisites
 
 | Requirement | Version | Notes |
